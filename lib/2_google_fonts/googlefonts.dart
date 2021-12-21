@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
+//*********** https://fonts.google.com **********//
+
 class MyGoogleFonts extends StatelessWidget {
   const MyGoogleFonts({Key? key}) : super(key: key);
 
@@ -19,9 +21,17 @@ class MyGoogleFonts extends StatelessWidget {
                   GoogleFonts.pressStart2p(fontSize: 20, color: Colors.white),
             ),
             Text(
-              'ENTER A COIN TO PLAY',
-              style:
-                  GoogleFonts.pressStart2p(fontSize: 16, color: Colors.white),
+              'ubuntuMono',
+              style: GoogleFonts.ubuntuMono(fontSize: 35, color: Colors.white),
+            ),
+            Text(
+              'molengo',
+              style: GoogleFonts.molengo(fontSize: 35, color: Colors.white),
+            ),
+            Text(
+              'shadowsIntoLight',
+              style: GoogleFonts.shadowsIntoLight(
+                  fontSize: 35, color: Colors.white),
             ),
           ],
         ),
