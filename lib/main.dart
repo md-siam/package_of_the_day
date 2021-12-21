@@ -17,7 +17,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.deepPurple,
       ),
-      home: const MyAvatarGlow(),
+      //home: const MyAvatarGlow(),
+      home: const MyGoogleFonts(),
     );
   }
 }

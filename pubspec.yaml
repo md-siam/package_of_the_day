@@ -19,7 +19,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   # For glowing effect around an avatar
   avatar_glow: ^2.0.2
-  # For accessing google fonts
+  # For accessing all google fonts
   google_fonts: ^2.1.0
 
 dev_dependencies:
