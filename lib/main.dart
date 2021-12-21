@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Package of the Day',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.teal,
+        primarySwatch: Colors.deepPurple,
       ),
       home: const MyAvatarGlow(),
     );
