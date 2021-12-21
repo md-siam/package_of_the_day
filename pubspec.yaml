@@ -21,6 +21,8 @@ dependencies:
   avatar_glow: ^2.0.2
   # For accessing all google fonts
   google_fonts: ^2.1.0
+  # For fancy pull to refresh
+  liquid_pull_to_refresh: ^3.0.0
 
 dev_dependencies:
   flutter_test:

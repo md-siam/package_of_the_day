@@ -18,7 +18,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.deepPurple,
       ),
       //home: const MyAvatarGlow(),
-      home: const MyGoogleFonts(),
+      //home: const MyGoogleFonts(),
+      home: const MyPullToRefresh(),
     );
   }
 }
