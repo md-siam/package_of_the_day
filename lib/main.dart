@@ -19,7 +19,8 @@ class MyApp extends StatelessWidget {
       ),
       //home: const MyAvatarGlow(),
       //home: const MyGoogleFonts(),
-      home: const MyPullToRefresh(),
+      //home: const MyPullToRefresh(),
+      home: const MyPercentIndicator(),
     );
   }
 }
