@@ -25,6 +25,8 @@ dependencies:
   liquid_pull_to_refresh: ^3.0.0
   # For percentage indicator
   percent_indicator: ^3.4.0
+  # For Cube Swipe
+  flutter_carousel_slider: ^1.0.8
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
