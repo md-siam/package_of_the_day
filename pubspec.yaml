@@ -27,6 +27,8 @@ dependencies:
   percent_indicator: ^3.4.0
   # For Cube Swipe
   flutter_carousel_slider: ^1.0.8
+  # For cute & fun dot indicator
+  smooth_page_indicator: ^1.0.0+2
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
