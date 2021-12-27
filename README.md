@@ -11,6 +11,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 4. [Percent Indicator](/lib/4_percent_indicator/percent_indicator.dart)
 5. [Carousel Slider](/lib/5_carousel_slider/carousel_slider.dart) > slideTransform: const CubeTransform() > CircularSlideIndicator
 6. [Smooth Page Indicator](/lib/6_smooth_page_indicator/smooth_page_indicator.dart) > SmoothPageIndicator > (controller: \_controller,count: 4) > JumpingDotEffect
+7. [Font Awesome Flutter](/lib/7_font_awesome_flutter/font_awesome_flutter.dart) > FaIcon > FontAwesomeIcons.home
 
 ## Screenshots:
 
@@ -56,5 +57,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/6_smooth_page_indicator/smooth_page_indicator.dart">Smooth Page Indicator</a></td>
     <td><a href="https://pub.dev/packages/smooth_page_indicator" target="_blank">smooth_page_indicator: ^1.0.0+2</a></td>
     <td><img align="right" src="/screenshots/6_smooth_page_indicator.png" height="350"></img></td>
+  </tr>
+    <tr>
+    <td>7</td>
+    <td><a href="/lib/7_font_awesome_flutter/font_awesome_flutter.dart">Font Awesome Flutter</a></td>
+    <td><a href="https://pub.dev/packages/font_awesome_flutter" target="_blank">font_awesome_flutter: ^9.2.0</a></td>
+    <td><img align="right" src="/screenshots/7_font_awesome_flutter.png" height="350"></img></td>
   </tr>
 </table>

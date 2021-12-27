@@ -22,7 +22,8 @@ class MyApp extends StatelessWidget {
       //home: const MyPullToRefresh(),
       //home: const MyPercentIndicator(),
       //home: const MyCarouselSlider(),
-      home: MySmoothPageIndicator(),
+      //home: MySmoothPageIndicator(),
+      home: const MyFontAwesome(),
     );
   }
 }
