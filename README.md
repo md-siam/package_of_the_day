@@ -39,4 +39,22 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="https://pub.dev/packages/liquid_pull_to_refresh" target="_blank">liquid_pull_to_refresh: ^3.0.0</a></td>
     <td><img align="right" src="/screenshots/3_liquid_pull_to_refresh.png" height="350"></img></td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td><a href="/lib/4_percent_indicator/percent_indicator.dart">Percent Indicator</a></td>
+    <td><a href="https://pub.dev/packages/percent_indicator" target="_blank">percent_indicator: ^3.4.0</a></td>
+    <td><img align="right" src="/screenshots/4_percent_indicator.png" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><a href="/lib/5_carousel_slider/carousel_slider.dart">Carousel Slider</a></td>
+    <td><a href="https://pub.dev/packages/flutter_carousel_slider" target="_blank">flutter_carousel_slider: ^1.0.8</a></td>
+    <td><img align="right" src="/screenshots/5_carousel_slider.png" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><a href="/lib/6_smooth_page_indicator/smooth_page_indicator.dart">Smooth Page Indicator</a></td>
+    <td><a href="https://pub.dev/packages/smooth_page_indicator" target="_blank">smooth_page_indicator: ^1.0.0+2</a></td>
+    <td><img align="right" src="/screenshots/6_smooth_page_indicator.png" height="350"></img></td>
+  </tr>
 </table>
