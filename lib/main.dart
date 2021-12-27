@@ -23,7 +23,8 @@ class MyApp extends StatelessWidget {
       //home: const MyPercentIndicator(),
       //home: const MyCarouselSlider(),
       //home: MySmoothPageIndicator(),
-      home: const MyFontAwesome(),
+      //home: const MyFontAwesome(),
+      home: MyAnimations(),
     );
   }
 }
