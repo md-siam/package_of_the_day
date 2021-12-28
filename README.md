@@ -12,7 +12,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 5. [Carousel Slider](/lib/5_carousel_slider/carousel_slider.dart) > slideTransform: const CubeTransform() > CircularSlideIndicator
 6. [Smooth Page Indicator](/lib/6_smooth_page_indicator/smooth_page_indicator.dart) > SmoothPageIndicator > (controller: \_controller,count: 4) > JumpingDotEffect
 7. [Font Awesome Flutter](/lib/7_font_awesome_flutter/font_awesome_flutter.dart) > FaIcon > FontAwesomeIcons.arrowUp
-8. [Animations](/lib/8_animations/animations.dart) >
+8. [Animations](/lib/8_animations/animations.dart) > Container transform
 
 ## Screenshots:
 
