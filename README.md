@@ -13,6 +13,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 6. [Smooth Page Indicator](/lib/6_smooth_page_indicator/smooth_page_indicator.dart) > SmoothPageIndicator > (controller: \_controller,count: 4) > JumpingDotEffect
 7. [Font Awesome Flutter](/lib/7_font_awesome_flutter/font_awesome_flutter.dart) > FaIcon > FontAwesomeIcons.arrowUp
 8. [Animations](/lib/8_animations/animations.dart) > Container transform
+9. [Neon](/lib/9_neon/neon.dart) > text > color > fontSize > font: NeonFont.Cyberpunk > flickeringText: true
 
 ## Screenshots:
 
@@ -70,5 +71,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/8_animations/animations.dart">Animations</a></td>
     <td><a href="https://pub.dev/packages/animations" target="_blank">animations: ^2.0.2</a></td>
     <td><img align="right" src="/screenshots/8_animations.png" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td><a href="/lib/9_neon/neon.dart">Animations</a></td>
+    <td><a href="https://pub.dev/packages/neon" target="_blank">neon: ^0.1.0</a></td>
+    <td><img align="right" src="/screenshots/9_neon.png" height="350"></img></td>
   </tr>
 </table>

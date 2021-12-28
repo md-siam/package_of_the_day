@@ -24,7 +24,8 @@ class MyApp extends StatelessWidget {
       //home: const MyCarouselSlider(),
       //home: MySmoothPageIndicator(),
       //home: const MyFontAwesome(),
-      home: const MyAnimations(),
+      //home: const MyAnimations(),
+      home: const MyNeonSign(),
     );
   }
 }

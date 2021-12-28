@@ -33,6 +33,8 @@ dependencies:
   font_awesome_flutter: ^9.2.0
   # For pre-built Animations
   animations: ^2.0.2
+  # For Neon signs
+  neon: ^0.1.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
