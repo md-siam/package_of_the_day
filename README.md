@@ -74,7 +74,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
   </tr>
   <tr>
     <td>9</td>
-    <td><a href="/lib/9_neon/neon.dart">Animations</a></td>
+    <td><a href="/lib/9_neon/neon.dart">Neon</a></td>
     <td><a href="https://pub.dev/packages/neon" target="_blank">neon: ^0.1.0</a></td>
     <td><img align="right" src="/screenshots/9_neon.png" height="350"></img></td>
   </tr>
