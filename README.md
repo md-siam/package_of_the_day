@@ -14,6 +14,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 7. [Font Awesome Flutter](/lib/7_font_awesome_flutter/font_awesome_flutter.dart) > FaIcon > FontAwesomeIcons.arrowUp
 8. [Animations](/lib/8_animations/animations.dart) > Container transform
 9. [Neon](/lib/9_neon/neon.dart) > text > color > fontSize > font: NeonFont.Cyberpunk > flickeringText: true
+10. [Aurora](/lib/10_aurora_gradient/aurora.dart) > backgroundColor: Colors.black > Aurora > size > color list
 
 ## Screenshots:
 
@@ -77,5 +78,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/9_neon/neon.dart">Neon</a></td>
     <td><a href="https://pub.dev/packages/neon" target="_blank">neon: ^0.1.0</a></td>
     <td><img align="right" src="/screenshots/9_neon.png" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td><a href="/lib/10_aurora_gradient/aurora.dart">Aurora</a></td>
+    <td><a href="https://pub.dev/packages/aurora" target="_blank">aurora: ^1.0.0</a></td>
+    <td><img align="right" src="/screenshots/10_aurora.png" height="350"></img></td>
   </tr>
 </table>
