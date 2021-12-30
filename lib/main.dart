@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:package_of_the_day/10_aurora_gradient/aurora.dart';
 import 'routes.dart';
 
 void main() {
@@ -27,7 +26,8 @@ class MyApp extends StatelessWidget {
       //home: const MyFontAwesome(),
       //home: const MyAnimations(),
       //home: const MyNeonSign(),
-      home: const MyAuroraGraduent(),
+      //home: const MyAuroraGraduent(),
+      home: const MySwiperBanner(),
     );
   }
 }

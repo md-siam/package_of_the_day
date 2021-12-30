@@ -7,3 +7,5 @@ export '6_smooth_page_indicator/smooth_page_indicator.dart';
 export '7_font_awesome_flutter/font_awesome_flutter.dart';
 export '8_animations/animations.dart';
 export '9_neon/neon.dart';
+export '10_aurora_gradient/aurora.dart';
+export '11_flutter_swiper/flutter_swiper.dart';
