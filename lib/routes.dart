@@ -9,3 +9,4 @@ export '8_animations/animations.dart';
 export '9_neon/neon.dart';
 export '10_aurora_gradient/aurora.dart';
 export '11_flutter_swiper/flutter_swiper.dart';
+export '12_flutter_blurhash/flutter_blurhash.dart';

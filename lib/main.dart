@@ -27,7 +27,8 @@ class MyApp extends StatelessWidget {
       //home: const MyAnimations(),
       //home: const MyNeonSign(),
       //home: const MyAuroraGraduent(),
-      home: const MySwiperBanner(),
+      //home: const MySwiperBanner(),
+      home: const MyBlurhash(),
     );
   }
 }

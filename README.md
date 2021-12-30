@@ -17,6 +17,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 10. [Aurora](/lib/10_aurora_gradient/aurora.dart) > backgroundColor: Colors.black > Aurora > size > color list
 11. [Flutter Swiper](/lib/11_flutter_swiper/flutter_swiper.dart) > itemCount > autoplay: true > autoplayDelay > Card <br>
     > Require a model.dart > BannerImageModel >
+12. [Flutter Blurhash](/lib/12_flutter_blurhash/flutter_blurhash.dart) > BlurHash > hash (String) > image (from network)
 
 ## Screenshots:
 
@@ -92,5 +93,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/11_flutter_swiper/flutter_swiper.dart">Flutter Swiper</a></td>
     <td><a href="https://pub.dev/packages/flutter_swiper_null_safety/example" target="_blank">flutter_swiper_null_safety: ^1.0.2</a></td>
     <td><img align="right" src="/screenshots/11_flutter_swiper.png" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td><a href="/lib/12_flutter_blurhash/flutter_blurhash.dart">Flutter BlurHash</a></td>
+    <td><a href="https://pub.dev/packages/flutter_blurhash" target="_blank">flutter_blurhash 0.6.0</a></td>
+    <td><img align="right" src="/screenshots/12_flutter_blurhash.png" height="350"></img></td>
   </tr>
 </table>
