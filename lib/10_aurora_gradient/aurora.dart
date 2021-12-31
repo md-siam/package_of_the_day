@@ -1,9 +1,9 @@
+import 'package:aurora/aurora.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:aurora/aurora.dart';
 
-class MyAuroraGraduent extends StatelessWidget {
-  const MyAuroraGraduent({Key? key}) : super(key: key);
+class MyAuroraGradient extends StatelessWidget {
+  const MyAuroraGradient({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

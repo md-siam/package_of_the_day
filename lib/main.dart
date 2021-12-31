@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'routes.dart';
 
 void main() {
@@ -26,7 +27,7 @@ class MyApp extends StatelessWidget {
       //home: const MyFontAwesome(),
       //home: const MyAnimations(),
       //home: const MyNeonSign(),
-      //home: const MyAuroraGraduent(),
+      //home: const MyAuroraGradient(),
       //home: const MySwiperBanner(),
       home: const MyBlurhash(),
     );

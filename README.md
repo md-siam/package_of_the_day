@@ -97,7 +97,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
   <tr>
     <td>12</td>
     <td><a href="/lib/12_flutter_blurhash/flutter_blurhash.dart">Flutter BlurHash</a></td>
-    <td><a href="https://pub.dev/packages/flutter_blurhash" target="_blank">flutter_blurhash 0.6.0</a></td>
+    <td><a href="https://pub.dev/packages/flutter_blurhash" target="_blank">flutter_blurhash: ^0.6.0</a></td>
     <td><img align="right" src="/screenshots/12_flutter_blurhash.png" height="350"></img></td>
   </tr>
 </table>
