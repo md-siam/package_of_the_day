@@ -16,8 +16,10 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 9. [Neon](/lib/9_neon/neon.dart) > text > color > fontSize > font: NeonFont.Cyberpunk > flickeringText: true
 10. [Aurora](/lib/10_aurora_gradient/aurora.dart) > backgroundColor: Colors.black > Aurora > size > color list
 11. [Flutter Swiper](/lib/11_flutter_swiper/flutter_swiper.dart) > itemCount > autoplay: true > autoplayDelay > Card <br>
-    > Require a model.dart > BannerImageModel >
+    Require a model.dart > BannerImageModel >
 12. [Flutter Blurhash](/lib/12_flutter_blurhash/flutter_blurhash.dart) > BlurHash > hash (String) > image (from network)
+13. [Flutter SVG](/lib/13_flutter_SVG/flutter_svg.dart) > Container > SvgPicture.asset() or SvgPicture.network()
+14. [Flutter Custom Clipper](/lib/14_flutter_custom_clippers/flutter_custom_clippers.dart)
 
 ## Screenshots:
 
