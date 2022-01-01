@@ -30,7 +30,8 @@ class MyApp extends StatelessWidget {
       //home: const MySwiperBanner(),
       //home: const MyBlurhash(),
       //home: const MyFlutterSVG(),
-      home: const MyCustomCliper(),
+      //home: const MyCustomCliper(),
+      home: const MyFlutterTTS(),
     );
   }
 }

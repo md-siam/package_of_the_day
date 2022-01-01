@@ -45,6 +45,8 @@ dependencies:
   flutter_svg: ^1.0.0
   # For various custom shapes
   flutter_custom_clippers: ^2.0.0
+  # For Text-to-speech in flutter
+  flutter_tts: ^3.3.3
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

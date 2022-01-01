@@ -19,7 +19,8 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     Require a model.dart > BannerImageModel >
 12. [Flutter Blurhash](/lib/12_flutter_blurhash/flutter_blurhash.dart) > BlurHash > hash (String) > image (from network)
 13. [Flutter SVG](/lib/13_flutter_SVG/flutter_svg.dart) > Container > SvgPicture.asset() or SvgPicture.network()
-14. [Flutter Custom Clipper](/lib/14_flutter_custom_clippers/flutter_custom_clippers.dart)
+14. [Flutter Custom Clipper](/lib/14_flutter_custom_clippers/flutter_custom_clippers.dart) >
+15. [Flutter TTS](/lib/15_flutter_tts/flutter_tts.dart) > StatefulWidget
 
 ## Screenshots:
 
@@ -113,5 +114,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/14_flutter_custom_clippers/flutter_custom_clippers.dart">Flutter Custom Clipper</a></td>
     <td><a href="https://pub.dev/packages/flutter_custom_clippers" target="_blank">flutter_custom_clippers: ^2.0.0</a></td>
     <td><img align="right" src="/screenshots/14_flutter_custom_clippers.png" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td><a href="/lib/15_flutter_tts/flutter_tts.dart">Flutter TTS</a></td>
+    <td><a href="https://pub.dev/packages/flutter_tts/install" target="_blank">flutter_tts: ^3.3.3</a></td>
+    <td><img align="right" src="/screenshots/15_flutter_tts.png" height="350"></img></td>
   </tr>
 </table>
