@@ -41,6 +41,8 @@ dependencies:
   flutter_swiper_null_safety: ^1.0.2
   # For displaying blur image while loading
   flutter_blurhash: ^0.6.0
+  # For  rendering SVG image
+  flutter_svg: ^1.0.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -64,6 +66,7 @@ flutter:
   assets:
     - assets/images/
     - assets/images/banner/
+    - assets/svg/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see

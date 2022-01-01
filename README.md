@@ -100,4 +100,10 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="https://pub.dev/packages/flutter_blurhash" target="_blank">flutter_blurhash: ^0.6.0</a></td>
     <td><img align="right" src="/screenshots/12_flutter_blurhash.png" height="350"></img></td>
   </tr>
+  <tr>
+    <td>13</td>
+    <td><a href="/lib/13_flutter_SVG/flutter_svg.dart">Flutter SVG</a></td>
+    <td><a href="https://pub.dev/packages/flutter_svg" target="_blank">flutter_svg: ^1.0.0</a></td>
+    <td><img align="right" src="/screenshots/13_flutter_svg.png" height="350"></img></td>
+  </tr>
 </table>
