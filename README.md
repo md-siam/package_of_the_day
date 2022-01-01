@@ -106,4 +106,10 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="https://pub.dev/packages/flutter_svg" target="_blank">flutter_svg: ^1.0.0</a></td>
     <td><img align="right" src="/screenshots/13_flutter_svg.png" height="350"></img></td>
   </tr>
+  <tr>
+    <td>14</td>
+    <td><a href="/lib/14_flutter_custom_clippers/flutter_custom_clippers.dart">Flutter Custom Clipper</a></td>
+    <td><a href="https://pub.dev/packages/flutter_custom_clippers" target="_blank">flutter_custom_clippers: ^2.0.0</a></td>
+    <td><img align="right" src="/screenshots/14_flutter_custom_clippers.png" height="350"></img></td>
+  </tr>
 </table>

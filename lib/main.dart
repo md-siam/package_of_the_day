@@ -29,7 +29,8 @@ class MyApp extends StatelessWidget {
       //home: const MyAuroraGradient(),
       //home: const MySwiperBanner(),
       //home: const MyBlurhash(),
-      home: const MyFlutterSVG(),
+      //home: const MyFlutterSVG(),
+      home: const MyCustomCliper(),
     );
   }
 }

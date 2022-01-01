@@ -43,6 +43,8 @@ dependencies:
   flutter_blurhash: ^0.6.0
   # For  rendering SVG image
   flutter_svg: ^1.0.0
+  # For various custom shapes
+  flutter_custom_clippers: ^2.0.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
