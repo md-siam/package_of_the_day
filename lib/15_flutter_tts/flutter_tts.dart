@@ -88,49 +88,60 @@ class _MyFlutterTTSState extends State<MyFlutterTTS> {
               'Text-To-Read',
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
-            Padding(
-              padding: const EdgeInsets.all(10.0),
-              child: Container(
-                decoration: BoxDecoration(
-                    color: Colors.deepPurple[300],
-                    borderRadius: BorderRadius.circular(10)),
-                child: Padding(
-                  padding: const EdgeInsets.all(15.0),
-                  child: Text(
-                    description,
-                    style: const TextStyle(fontSize: 18, color: Colors.white),
-                    textAlign: TextAlign.justify,
-                    textDirection: TextDirection.ltr,
+            Stack(
+              alignment: Alignment.topCenter,
+              children: [
+                Container(
+                  color: Colors.transparent,
+                  height: 340,
+                ),
+                Padding(
+                  padding: const EdgeInsets.all(10.0),
+                  child: Container(
+                    decoration: BoxDecoration(
+                        color: Colors.deepPurple[300],
+                        borderRadius: BorderRadius.circular(10)),
+                    child: Padding(
+                      padding: const EdgeInsets.all(15.0),
+                      child: Text(
+                        description,
+                        style:
+                            const TextStyle(fontSize: 18, color: Colors.white),
+                        textAlign: TextAlign.justify,
+                        textDirection: TextDirection.ltr,
+                      ),
+                    ),
                   ),
                 ),
-              ),
-            ),
-            SizedBox(
-              child: RawMaterialButton(
-                padding: const EdgeInsets.all(10.0),
-                elevation: 12.0,
-                onPressed: () {
-                  setState(() {
-                    speechSettingsiOS();
-                    //speechSettingsAndroid();
-                    isPlaying ? _stop() : _speak(description);
-                  });
-                },
-                shape: const CircleBorder(),
-                fillColor: Colors.white,
-                child: isPlaying
-                    ? const Icon(
-                        Icons.stop,
-                        size: 60,
-                        color: Colors.green,
-                      )
-                    : const Icon(
-                        Icons.play_arrow,
-                        size: 60,
-                        color: Colors.red,
-                      ),
-              ),
-            ),
+                Positioned(
+                  bottom: 0,
+                  child: RawMaterialButton(
+                    padding: const EdgeInsets.all(10.0),
+                    elevation: 12.0,
+                    onPressed: () {
+                      setState(() {
+                        speechSettingsiOS();
+                        //speechSettingsAndroid();
+                        isPlaying ? _stop() : _speak(description);
+                      });
+                    },
+                    shape: const CircleBorder(),
+                    fillColor: Colors.white,
+                    child: isPlaying
+                        ? const Icon(
+                            Icons.stop,
+                            size: 60,
+                            color: Colors.green,
+                          )
+                        : const Icon(
+                            Icons.play_arrow,
+                            size: 60,
+                            color: Colors.red,
+                          ),
+                  ),
+                ),
+              ],
+            )
           ],
         ),
       ),
