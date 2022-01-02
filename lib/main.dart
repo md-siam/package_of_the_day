@@ -31,6 +31,7 @@ class MyApp extends StatelessWidget {
       //home: const MyCustomCliper(),
       //home: const MyFlutterTTS(),
       home: const MyFlutterHighlight(),
+      //home: const MySyncfusionFlutterCharts(),
     );
   }
 }

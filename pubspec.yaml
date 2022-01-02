@@ -47,8 +47,10 @@ dependencies:
   flutter_custom_clippers: ^2.0.0
   # For Text-to-speech in flutter
   flutter_tts: ^3.3.3
-  # For Code Highlight
+  # For Code highlight
   flutter_highlight: ^0.7.0
+  # For Drawing charts
+  syncfusion_flutter_charts: ^19.4.40
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
