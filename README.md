@@ -121,4 +121,10 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="https://pub.dev/packages/flutter_tts/install" target="_blank">flutter_tts: ^3.3.3</a></td>
     <td><img align="right" src="/screenshots/15_flutter_tts.png" height="350"></img></td>
   </tr>
+  <tr>
+    <td>16</td>
+    <td><a href="/lib/16_flutter_highlight/flutter_highlight.dart">Flutter Highlight</a></td>
+    <td><a href="https://pub.dev/packages/flutter_highlight" target="_blank">flutter_highlight: ^0.7.0</a></td>
+    <td><img align="right" src="/screenshots/16_flutter_highlight.png" height="350"></img></td>
+  </tr>
 </table>

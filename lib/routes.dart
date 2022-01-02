@@ -13,3 +13,4 @@ export '12_flutter_blurhash/flutter_blurhash.dart';
 export '13_flutter_SVG/flutter_svg.dart';
 export '14_flutter_custom_clippers/flutter_custom_clippers.dart';
 export '15_flutter_tts/flutter_tts.dart';
+export '16_flutter_highlight/flutter_highlight.dart';

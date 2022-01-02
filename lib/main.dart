@@ -29,7 +29,8 @@ class MyApp extends StatelessWidget {
       //home: const MyBlurhash(),
       //home: const MyFlutterSVG(),
       //home: const MyCustomCliper(),
-      home: const MyFlutterTTS(),
+      //home: const MyFlutterTTS(),
+      home: const MyFlutterHighlight(),
     );
   }
 }
