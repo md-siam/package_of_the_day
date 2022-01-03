@@ -11,6 +11,10 @@ class MySyncfusionFlutterCharts extends StatefulWidget {
 class _MySyncfusionFlutterChartsState extends State<MySyncfusionFlutterCharts> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Syncfusion Flutter Charts'),
+      ),
+    );
   }
 }
