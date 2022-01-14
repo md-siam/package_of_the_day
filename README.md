@@ -127,4 +127,10 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="https://pub.dev/packages/flutter_highlight" target="_blank">flutter_highlight: ^0.7.0</a></td>
     <td><img align="right" src="/screenshots/16_flutter_highlight.gif" height="350"></img></td>
   </tr>
+  <tr>
+    <td>17</td>
+    <td><a href="/lib/17_syncfusion_flutter_charts/syncfusion_flutter_charts.dart">Syncfusion Charts</a></td>
+    <td><a href="https://pub.dev/packages/syncfusion_flutter_charts" target="_blank">syncfusion_flutter_charts: ^19.4.42</a></td>
+    <td><img align="right" src="/screenshots/17_syncfusion_flutter_charts.gif" height="350"></img></td>
+  </tr>
 </table>
