@@ -21,6 +21,8 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 13. [Flutter SVG](/lib/13_flutter_SVG/flutter_svg.dart) > Container > SvgPicture.asset() or SvgPicture.network()
 14. [Flutter Custom Clipper](/lib/14_flutter_custom_clippers/flutter_custom_clippers.dart) >
 15. [Flutter TTS](/lib/15_flutter_tts/flutter_tts.dart) > StatefulWidget
+16. [Flutter Highlight](/lib/16_flutter_highlight/flutter_highlight.dart)
+17. [Syncfusion Charts](/lib/17_syncfusion_flutter_charts/syncfusion_flutter_charts.dart)
 
 ## Table of Contents:
 
