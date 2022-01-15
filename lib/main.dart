@@ -32,6 +32,7 @@ class MyApp extends StatelessWidget {
       //home: const MyFlutterTTS(),
       //home: const MyFlutterHighlight(),
       home: const MySyncfusionFlutterCharts(),
+     
     );
   }
 }
