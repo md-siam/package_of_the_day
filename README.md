@@ -23,7 +23,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 15. [Flutter TTS](/lib/15_flutter_tts/flutter_tts.dart) > StatefulWidget
 16. [Flutter Highlight](/lib/16_flutter_highlight/flutter_highlight.dart)
 17. [Syncfusion Charts](/lib/17_syncfusion_flutter_charts/syncfusion_flutter_charts.dart)
-18. [Rflutter_Alert](/lib/18_rflutter_alert/rflutter_alert.dart) > 
+18. [Rflutter_Alert](/lib/18_rflutter_alert/rflutter_alert.dart) > ElevatedButton > child > Alert > (context, title, desc).show()
 
 ## Table of Contents:
 
@@ -121,7 +121,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
   <tr>
     <td>15</td>
     <td><a href="/lib/15_flutter_tts/flutter_tts.dart">Flutter TTS</a></td>
-    <td><a href="https://pub.dev/packages/flutter_tts/install" target="_blank">flutter_tts: ^3.3.3</a></td>
+    <td><a href="https://pub.dev/packages/flutter_tts" target="_blank">flutter_tts: ^3.3.3</a></td>
     <td><img align="right" src="/screenshots/15_flutter_tts.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -139,7 +139,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
   <tr>
     <td>18</td>
     <td><a href="/lib/18_rflutter_alert/rflutter_alert.dart">Rflutter Alert</a></td>
-    <td><a href="https://pub.dev/packages/rflutter_alert/score" target="_blank">rflutter_alert: ^2.0.4</a></td>
+    <td><a href="https://pub.dev/packages/rflutter_alert" target="_blank">rflutter_alert: ^2.0.4</a></td>
     <td><img align="right" src="/screenshots/18_rflutter_alert.gif" height="350"></img></td>
   </tr>
 </table>
