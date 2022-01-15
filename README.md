@@ -23,6 +23,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 15. [Flutter TTS](/lib/15_flutter_tts/flutter_tts.dart) > StatefulWidget
 16. [Flutter Highlight](/lib/16_flutter_highlight/flutter_highlight.dart)
 17. [Syncfusion Charts](/lib/17_syncfusion_flutter_charts/syncfusion_flutter_charts.dart)
+18. [Rflutter_Alert](/lib/18_rflutter_alert/rflutter_alert.dart) > 
 
 ## Table of Contents:
 
@@ -134,5 +135,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/17_syncfusion_flutter_charts/syncfusion_flutter_charts.dart">Syncfusion Charts</a></td>
     <td><a href="https://pub.dev/packages/syncfusion_flutter_charts" target="_blank">syncfusion_flutter_charts: ^19.4.42</a></td>
     <td><img align="right" src="/screenshots/17_syncfusion_flutter_charts.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td><a href="/lib/18_rflutter_alert/rflutter_alert.dart">Rflutter Alert</a></td>
+    <td><a href="https://pub.dev/packages/rflutter_alert/score" target="_blank">rflutter_alert: ^2.0.4</a></td>
+    <td><img align="right" src="/screenshots/18_rflutter_alert.gif" height="350"></img></td>
   </tr>
 </table>

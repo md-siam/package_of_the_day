@@ -51,6 +51,8 @@ dependencies:
   flutter_highlight: ^0.7.0
   # For Drawing charts
   syncfusion_flutter_charts: ^19.4.40
+  # For displaying alert pop-up
+  rflutter_alert: ^2.0.4
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -75,6 +77,7 @@ flutter:
     - assets/images/
     - assets/images/banner/
     - assets/svg/
+    - assets/images/rflutter_alert/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
