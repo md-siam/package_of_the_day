@@ -12,9 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Package of the Day',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.deepPurple,
-      ),
+      theme: ThemeData(primarySwatch: Colors.deepPurple),
       //home: const MyAvatarGlow(),
       //home: const MyGoogleFonts(),
       //home: const MyPullToRefresh(),
@@ -32,7 +30,8 @@ class MyApp extends StatelessWidget {
       //home: const MyFlutterTTS(),
       //home: const MyFlutterHighlight(),
       //home: const MySyncfusionFlutterCharts(),
-      home: const MyRflutterAlert(),
+      //home: const MyRflutterAlert(),
+      home: const MySettingsUi(),
     );
   }
 }

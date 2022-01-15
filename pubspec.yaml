@@ -53,6 +53,8 @@ dependencies:
   syncfusion_flutter_charts: ^19.4.40
   # For displaying alert pop-up
   rflutter_alert: ^2.0.4
+  # For setting ui for both android & iOS
+  flutter_settings_ui: ^2.0.1
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

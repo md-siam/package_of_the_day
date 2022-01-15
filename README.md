@@ -23,7 +23,8 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 15. [Flutter TTS](/lib/15_flutter_tts/flutter_tts.dart) > StatefulWidget
 16. [Flutter Highlight](/lib/16_flutter_highlight/flutter_highlight.dart)
 17. [Syncfusion Charts](/lib/17_syncfusion_flutter_charts/syncfusion_flutter_charts.dart)
-18. [Rflutter_Alert](/lib/18_rflutter_alert/rflutter_alert.dart) > ElevatedButton > child > Alert > (context, title, desc).show()
+18. [Rflutter Alert](/lib/18_rflutter_alert/rflutter_alert.dart) > ElevatedButton > child > Alert > (context, title, desc).show()
+19. [Settings UI](/lib/19_flutter_settings_ui/flutter_settings_ui.dart) > SettingsList > sections:[] > SettingsSection > SettingsTile
 
 ## Table of Contents:
 
@@ -141,5 +142,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/18_rflutter_alert/rflutter_alert.dart">Rflutter Alert</a></td>
     <td><a href="https://pub.dev/packages/rflutter_alert" target="_blank">rflutter_alert: ^2.0.4</a></td>
     <td><img align="right" src="/screenshots/18_rflutter_alert.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td><a href="/lib/19_flutter_settings_ui/flutter_settings_ui.dart">Settings UI</a></td>
+    <td><a href="https://pub.dev/packages/flutter_settings_ui" target="_blank">flutter_settings_ui: ^2.0.1</a></td>
+    <td><img align="right" src="/screenshots/19_flutter_settings_ui.gif" height="350"></img></td>
   </tr>
 </table>

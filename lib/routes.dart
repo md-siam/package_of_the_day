@@ -16,3 +16,4 @@ export '15_flutter_tts/flutter_tts.dart';
 export '16_flutter_highlight/flutter_highlight.dart';
 export '17_syncfusion_flutter_charts/syncfusion_flutter_charts.dart';
 export '18_rflutter_alert/rflutter_alert.dart';
+export '19_flutter_settings_ui/flutter_settings_ui.dart';
