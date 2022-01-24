@@ -39,114 +39,114 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td>1</td>
     <td><a href="/lib/1_avatar_glow/avatarglow.dart">Avatar Glow</a></td>
     <td><a href="https://pub.dev/packages/avatar_glow" target="_blank">avatar_glow: ^2.0.2</a></td>
-    <td><img align="right" src="/screenshots/1_avatar_glow.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/1_avatar_glow.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>2</td>
     <td><a href="/lib/2_google_fonts/googlefonts.dart">Google Fonts</a></td>
     <td><a href="https://pub.dev/packages/google_fonts" target="_blank">google_fonts: ^2.1.0</a></td>
-    <td><img align="right" src="/screenshots/2_google_fonts.png" height="350"></img></td>
+    <td><img align="right" src="screenshots/2_google_fonts.png" height="350"></img></td>
   </tr>
   <tr>
     <td>3</td>
     <td><a href="/lib/3_liquid_pull_to_refresh/pull_to_refresh.dart">Liquid Pull To Refresh</a></td>
     <td><a href="https://pub.dev/packages/liquid_pull_to_refresh" target="_blank">liquid_pull_to_refresh: ^3.0.0</a></td>
-    <td><img align="right" src="/screenshots/3_liquid_pull_to_refresh.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/3_liquid_pull_to_refresh.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>4</td>
     <td><a href="/lib/4_percent_indicator/percent_indicator.dart">Percent Indicator</a></td>
     <td><a href="https://pub.dev/packages/percent_indicator" target="_blank">percent_indicator: ^3.4.0</a></td>
-    <td><img align="right" src="/screenshots/4_percent_indicator.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/4_percent_indicator.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>5</td>
     <td><a href="/lib/5_carousel_slider/carousel_slider.dart">Carousel Slider</a></td>
     <td><a href="https://pub.dev/packages/flutter_carousel_slider" target="_blank">flutter_carousel_slider: ^1.0.8</a></td>
-    <td><img align="right" src="/screenshots/5_carousel_slider.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/5_carousel_slider.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>6</td>
     <td><a href="/lib/6_smooth_page_indicator/smooth_page_indicator.dart">Smooth Page Indicator</a></td>
     <td><a href="https://pub.dev/packages/smooth_page_indicator" target="_blank">smooth_page_indicator: ^1.0.0+2</a></td>
-    <td><img align="right" src="/screenshots/6_smooth_page_indicator.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/6_smooth_page_indicator.gif" height="350"></img></td>
   </tr>
     <tr>
     <td>7</td>
     <td><a href="/lib/7_font_awesome_flutter/font_awesome_flutter.dart">Font Awesome Flutter</a></td>
     <td><a href="https://pub.dev/packages/font_awesome_flutter" target="_blank">font_awesome_flutter: ^9.2.0</a></td>
-    <td><img align="right" src="/screenshots/7_font_awesome_flutter.png" height="350"></img></td>
+    <td><img align="right" src="screenshots/7_font_awesome_flutter.png" height="350"></img></td>
   </tr>
   <tr>
     <td>8</td>
     <td><a href="/lib/8_animations/animations.dart">Animations</a></td>
     <td><a href="https://pub.dev/packages/animations" target="_blank">animations: ^2.0.2</a></td>
-    <td><img align="right" src="/screenshots/8_animations.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/8_animations.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>9</td>
     <td><a href="/lib/9_neon/neon.dart">Neon</a></td>
     <td><a href="https://pub.dev/packages/neon" target="_blank">neon: ^0.1.0</a></td>
-    <td><img align="right" src="/screenshots/9_neon.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/9_neon.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>10</td>
     <td><a href="/lib/10_aurora_gradient/aurora.dart">Aurora</a></td>
     <td><a href="https://pub.dev/packages/aurora" target="_blank">aurora: ^1.0.0</a></td>
-    <td><img align="right" src="/screenshots/10_aurora.png" height="350"></img></td>
+    <td><img align="right" src="screenshots/10_aurora.png" height="350"></img></td>
   </tr>
   <tr>
     <td>11</td>
     <td><a href="/lib/11_flutter_swiper/flutter_swiper.dart">Flutter Swiper</a></td>
     <td><a href="https://pub.dev/packages/flutter_swiper_null_safety/example" target="_blank">flutter_swiper_null_safety: ^1.0.2</a></td>
-    <td><img align="right" src="/screenshots/11_flutter_swiper.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/11_flutter_swiper.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>12</td>
     <td><a href="/lib/12_flutter_blurhash/flutter_blurhash.dart">Flutter BlurHash</a></td>
     <td><a href="https://pub.dev/packages/flutter_blurhash" target="_blank">flutter_blurhash: ^0.6.0</a></td>
-    <td><img align="right" src="/screenshots/12_flutter_blurhash.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/12_flutter_blurhash.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>13</td>
     <td><a href="/lib/13_flutter_SVG/flutter_svg.dart">Flutter SVG</a></td>
     <td><a href="https://pub.dev/packages/flutter_svg" target="_blank">flutter_svg: ^1.0.0</a></td>
-    <td><img align="right" src="/screenshots/13_flutter_svg.png" height="350"></img></td>
+    <td><img align="right" src="screenshots/13_flutter_svg.png" height="350"></img></td>
   </tr>
   <tr>
     <td>14</td>
     <td><a href="/lib/14_flutter_custom_clippers/flutter_custom_clippers.dart">Flutter Custom Clipper</a></td>
     <td><a href="https://pub.dev/packages/flutter_custom_clippers" target="_blank">flutter_custom_clippers: ^2.0.0</a></td>
-    <td><img align="right" src="/screenshots/14_flutter_custom_clippers.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/14_flutter_custom_clippers.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>15</td>
     <td><a href="/lib/15_flutter_tts/flutter_tts.dart">Flutter TTS</a></td>
     <td><a href="https://pub.dev/packages/flutter_tts" target="_blank">flutter_tts: ^3.3.3</a></td>
-    <td><img align="right" src="/screenshots/15_flutter_tts.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/15_flutter_tts.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>16</td>
     <td><a href="/lib/16_flutter_highlight/flutter_highlight.dart">Flutter Highlight</a></td>
     <td><a href="https://pub.dev/packages/flutter_highlight" target="_blank">flutter_highlight: ^0.7.0</a></td>
-    <td><img align="right" src="/screenshots/16_flutter_highlight.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/16_flutter_highlight.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>17</td>
     <td><a href="/lib/17_syncfusion_flutter_charts/syncfusion_flutter_charts.dart">Syncfusion Charts</a></td>
     <td><a href="https://pub.dev/packages/syncfusion_flutter_charts" target="_blank">syncfusion_flutter_charts: ^19.4.42</a></td>
-    <td><img align="right" src="/screenshots/17_syncfusion_flutter_charts.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/17_syncfusion_flutter_charts.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>18</td>
     <td><a href="/lib/18_rflutter_alert/rflutter_alert.dart">Rflutter Alert</a></td>
     <td><a href="https://pub.dev/packages/rflutter_alert" target="_blank">rflutter_alert: ^2.0.4</a></td>
-    <td><img align="right" src="/screenshots/18_rflutter_alert.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/18_rflutter_alert.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>19</td>
     <td><a href="/lib/19_flutter_settings_ui/flutter_settings_ui.dart">Settings UI</a></td>
     <td><a href="https://pub.dev/packages/flutter_settings_ui" target="_blank">flutter_settings_ui: ^2.0.1</a></td>
-    <td><img align="right" src="/screenshots/19_flutter_settings_ui.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/19_flutter_settings_ui.gif" height="350"></img></td>
   </tr>
 </table>
