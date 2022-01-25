@@ -32,7 +32,8 @@ class MyApp extends StatelessWidget {
       //home: const MySyncfusionFlutterCharts(),
       //home: const MyRflutterAlert(),
       //home: const MySettingsUi(),
-      home: const MySpinkit(),
+      //home: const MySpinkit(),
+      home: const MyAudioplayer(),
     );
   }
 }

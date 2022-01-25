@@ -57,6 +57,8 @@ dependencies:
   flutter_settings_ui: ^2.0.1
   # For animated loading indicators
   flutter_spinkit: ^5.1.0
+  # For playing audio files
+  audioplayers: ^0.20.1
   # For making HTTP request
   http: ^0.13.4
 
@@ -80,10 +82,12 @@ flutter:
   uses-material-design: true
   # To add assets to your application, add an assets section, like this:
   assets:
+    - assets/audios/
     - assets/images/
     - assets/images/banner/
     - assets/svg/
     - assets/images/rflutter_alert/
+    - assets/images/audioplayer/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
