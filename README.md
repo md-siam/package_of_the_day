@@ -25,6 +25,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 17. [Syncfusion Charts](/lib/17_syncfusion_flutter_charts/syncfusion_flutter_charts.dart)
 18. [Rflutter Alert](/lib/18_rflutter_alert/rflutter_alert.dart) > ElevatedButton > child > Alert > (context, title, desc).show()
 19. [Settings UI](/lib/19_flutter_settings_ui/flutter_settings_ui.dart) > SettingsList > sections:[] > SettingsSection > SettingsTile
+20. [Flutter Spinkit](/lib/20_flutter_spinkit/flutter_spinkit.dart) > SpinKitRotatingCircle(color: Colors.redAccent)
 
 ## Table of Contents:
 
@@ -148,5 +149,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/19_flutter_settings_ui/flutter_settings_ui.dart">Settings UI</a></td>
     <td><a href="https://pub.dev/packages/flutter_settings_ui" target="_blank">flutter_settings_ui: ^2.0.1</a></td>
     <td><img align="right" src="screenshots/19_flutter_settings_ui.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td><a href="/lib/20_flutter_spinkit/flutter_spinkit.dart">Flutter Spinkit</a></td>
+    <td><a href="https://pub.dev/packages/flutter_spinkit" target="_blank">flutter_spinkit: ^5.1.0</a></td>
+    <td><img align="right" src="screenshots/20_flutter_spinkit.gif" height="350"></img></td>
   </tr>
 </table>
