@@ -33,7 +33,8 @@ class MyApp extends StatelessWidget {
       //home: const MyRflutterAlert(),
       //home: const MySettingsUi(),
       //home: const MySpinkit(),
-      home: const MyAudioplayer(),
+      //home: const MyAudioplayer(),
+      home: MyGoRouter(),
     );
   }
 }

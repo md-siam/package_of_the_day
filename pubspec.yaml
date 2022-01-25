@@ -59,6 +59,8 @@ dependencies:
   flutter_spinkit: ^5.1.0
   # For playing audio files
   audioplayers: ^0.20.1
+  # For easy-to-use navigation
+  go_router: ^3.0.1
   # For making HTTP request
   http: ^0.13.4
 

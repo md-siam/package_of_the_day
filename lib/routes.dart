@@ -19,3 +19,4 @@ export '18_rflutter_alert/rflutter_alert.dart';
 export '19_flutter_settings_ui/flutter_settings_ui.dart';
 export '20_flutter_spinkit/flutter_spinkit.dart';
 export '21_audioplayers/audioplayers.dart';
+export '22_go_router/go_router.dart';
