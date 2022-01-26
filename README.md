@@ -28,6 +28,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 20. [Flutter Spinkit](/lib/20_flutter_spinkit/flutter_spinkit.dart) > SpinKitRotatingCircle(color: Colors.redAccent)
 21. [Audioplayers](/lib/21_audioplayers/audioplayers.dart) > AudioCache audioCache > late AudioPlayer player > void playAudio() > void stopAudio()
 22. [Go Router](/lib/22_go_router/go_router.dart) > MaterialApp.router > routeInformationParser: \_router.routeInformationParser > routerDelegate: \_router.routerDelegate
+23. [HTTP](/lib/23_http/http.dart) > watch this [YouTube](https://www.youtube.com/watch?v=ZEnWA8c3e_4) video
 
 ## Table of Contents:
 
@@ -169,5 +170,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/22_go_router/go_router.dart">Go Router</a></td>
     <td><a href="https://pub.dev/packages/go_router" target="_blank">go_router: ^3.0.1</a></td>
     <td><img align="right" src="screenshots/22_go_router.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td><a href="/lib/23_http/http.dart">HTTP</a></td>
+    <td><a href="https://pub.dev/packages/http" target="_blank">http: ^0.13.4</a></td>
+    <td><img align="right" src="screenshots/23_http.gif" height="350"></img></td>
   </tr>
 </table>

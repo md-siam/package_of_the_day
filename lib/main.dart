@@ -34,7 +34,8 @@ class MyApp extends StatelessWidget {
       //home: const MySettingsUi(),
       //home: const MySpinkit(),
       //home: const MyAudioplayer(),
-      home: MyGoRouter(),
+      //home: MyGoRouter(),
+      home: const MyHTTP(),
     );
   }
 }
