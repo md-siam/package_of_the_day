@@ -29,6 +29,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 21. [Audioplayers](/lib/21_audioplayers/audioplayers.dart) > AudioCache audioCache > late AudioPlayer player > void playAudio() > void stopAudio()
 22. [Go Router](/lib/22_go_router/go_router.dart) > MaterialApp.router > routeInformationParser: \_router.routeInformationParser > routerDelegate: \_router.routerDelegate
 23. [HTTP](/lib/23_http/http.dart) > watch this [YouTube](https://www.youtube.com/watch?v=ZEnWA8c3e_4) video
+24. [Onboarding](/lib/24_onboarding/onboarding.dart) > onboardingPagesList > PageModel > widget > Column > Container > 
 
 ## Table of Contents:
 
@@ -176,5 +177,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/23_http/http.dart">HTTP</a></td>
     <td><a href="https://pub.dev/packages/http" target="_blank">http: ^0.13.4</a></td>
     <td><img align="right" src="screenshots/23_http.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td><a href="/lib/24_onboarding/onboarding.dart">Onboarding</a></td>
+    <td><a href="https://pub.dev/packages/onboarding" target="_blank">onboarding: ^2.1.0</a></td>
+    <td><img align="right" src="screenshots/24_onboarding.gif" height="350"></img></td>
   </tr>
 </table>
