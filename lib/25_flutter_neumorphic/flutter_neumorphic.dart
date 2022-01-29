@@ -299,48 +299,51 @@ class _MyFlutterNeumorphicState extends State<MyFlutterNeumorphic> {
   }
 
   Widget _buildSwitches() {
-    return Row(children: [
-      Text(
-        "Switch",
-        style: TextStyle(color: _textColor()),
-      ),
-      const SizedBox(width: 15),
-      NeumorphicSwitch(
-        value: _switchConcaveEnabled,
-        style: const NeumorphicSwitchStyle(
-          thumbShape: NeumorphicShape.concave, // concave or flat with elevation
+    return Row(
+      children: [
+        Text(
+          "Switch",
+          style: TextStyle(color: _textColor()),
         ),
-        onChanged: (value) {
-          setState(() {
-            _switchConcaveEnabled = value;
-          });
-        },
-      ),
-      const SizedBox(width: 15),
-      NeumorphicSwitch(
-        value: _switchFlatEnabled,
-        style: const NeumorphicSwitchStyle(
-          thumbShape: NeumorphicShape.flat, // concave or flat with elevation
+        const SizedBox(width: 15),
+        NeumorphicSwitch(
+          value: _switchConcaveEnabled,
+          style: const NeumorphicSwitchStyle(
+            thumbShape:
+                NeumorphicShape.concave, // concave or flat with elevation
+          ),
+          onChanged: (value) {
+            setState(() {
+              _switchConcaveEnabled = value;
+            });
+          },
         ),
-        onChanged: (value) {
-          setState(() {
-            _switchFlatEnabled = value;
-          });
-        },
-      ),
-      const SizedBox(width: 15),
-      NeumorphicSwitch(
-        value: _switchConvexEnabled,
-        style: const NeumorphicSwitchStyle(
-          thumbShape: NeumorphicShape.convex,
+        const SizedBox(width: 15),
+        NeumorphicSwitch(
+          value: _switchFlatEnabled,
+          style: const NeumorphicSwitchStyle(
+            thumbShape: NeumorphicShape.flat, // concave or flat with elevation
+          ),
+          onChanged: (value) {
+            setState(() {
+              _switchFlatEnabled = value;
+            });
+          },
         ),
-        onChanged: (value) {
-          setState(() {
-            _switchConvexEnabled = value;
-          });
-        },
-      ),
-    ]);
+        const SizedBox(width: 15),
+        NeumorphicSwitch(
+          value: _switchConvexEnabled,
+          style: const NeumorphicSwitchStyle(
+            thumbShape: NeumorphicShape.convex,
+          ),
+          onChanged: (value) {
+            setState(() {
+              _switchConvexEnabled = value;
+            });
+          },
+        ),
+      ],
+    );
   }
 
   @override
@@ -430,7 +433,7 @@ class _MyFlutterNeumorphicState extends State<MyFlutterNeumorphic> {
                         const SizedBox(height: 30),
                       ],
                     ),
-                  )
+                  ),
                 ],
               ),
             ),
