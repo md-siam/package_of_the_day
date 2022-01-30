@@ -23,3 +23,4 @@ export '22_go_router/go_router.dart';
 export '23_http/http.dart';
 export '24_onboarding/onboarding.dart';
 export '25_flutter_neumorphic/flutter_neumorphic.dart';
+export '26_math_expressions/math_expressions.dart';

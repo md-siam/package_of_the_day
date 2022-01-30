@@ -31,6 +31,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 23. [HTTP](/lib/23_http/http.dart) > watch this [YouTube](https://www.youtube.com/watch?v=ZEnWA8c3e_4) video
 24. [Onboarding](/lib/24_onboarding/onboarding.dart) > onboardingPagesList > PageModel > widget > Column > Container >
 25. [Flutter Neumorphic](/lib/25_flutter_neumorphic/flutter_neumorphic.dart) > [Github](https://github.com/Idean/Flutter-Neumorphic/blob/master/example/lib/samples/widgets_sample.dart)
+26. [Math Expressions](/lib/26_math_expressions/math_expressions.dart) > Input & output type is string
 
 ## Table of Contents:
 
@@ -190,5 +191,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/25_flutter_neumorphic/flutter_neumorphic.dart">Flutter Neumorphic</a></td>
     <td><a href="https://pub.dev/packages/flutter_neumorphic" target="_blank">flutter_neumorphic: ^3.2.0</a></td>
     <td><img align="right" src="screenshots/25_flutter_neumorphic.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td><a href="lib/26_math_expressions/math_expressions.dart">Math Expressions</a></td>
+    <td><a href="https://pub.dev/packages/math_expressions" target="_blank">math_expressions: ^2.3.0</a></td>
+    <td><img align="right" src="screenshots/26_math_expressions.gif" height="350"></img></td>
   </tr>
 </table>

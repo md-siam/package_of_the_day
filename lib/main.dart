@@ -37,7 +37,8 @@ class MyApp extends StatelessWidget {
       //home: MyGoRouter(),
       //home: const MyHTTP(),
       //home:  MyOnboarding(),
-      home: const MyFlutterNeumorphic(),
+      //home: const MyFlutterNeumorphic(),
+      home:  MyMathExpressions(),
     );
   }
 }
