@@ -32,6 +32,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 24. [Onboarding](/lib/24_onboarding/onboarding.dart) > onboardingPagesList > PageModel > widget > Column > Container >
 25. [Flutter Neumorphic](/lib/25_flutter_neumorphic/flutter_neumorphic.dart) > [Github](https://github.com/Idean/Flutter-Neumorphic/blob/master/example/lib/samples/widgets_sample.dart)
 26. [Math Expressions](/lib/26_math_expressions/math_expressions.dart) > Input type is string
+27. [Clay Containers](/lib/27_clay_containers/clay_containers.dart) > ClayContainer > color > height >width
 
 ## Table of Contents:
 
@@ -194,8 +195,14 @@ Introduction to flutter packages: This repo will teach you some of the popular p
   </tr>
   <tr>
     <td>26</td>
-    <td><a href="lib/26_math_expressions/math_expressions.dart">Math Expressions</a></td>
+    <td><a href="/lib/26_math_expressions/math_expressions.dart">Math Expressions</a></td>
     <td><a href="https://pub.dev/packages/math_expressions" target="_blank">math_expressions: ^2.3.0</a></td>
     <td><img align="right" src="screenshots/26_math_expressions.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td><a href="/lib/27_clay_containers/clay_containers.dart">Clay Containers</a></td>
+    <td><a href="https://pub.dev/packages/clay_containers" target="_blank">clay_containers: ^0.3.2</a></td>
+    <td><img align="right" src="screenshots/27_clay_containers.gif" height="350"></img></td>
   </tr>
 </table>

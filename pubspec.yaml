@@ -69,6 +69,8 @@ dependencies:
   flutter_neumorphic: ^3.2.0
   # For parsing and evaluating mathematical expressions
   math_expressions: ^2.3.0
+  # For modern neumorphic containers
+  clay_containers: ^0.3.2
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

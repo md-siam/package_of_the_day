@@ -76,7 +76,7 @@ class _MyFlutterNeumorphicState extends State<MyFlutterNeumorphic> {
           ),
           padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 18),
           child: Text(
-            "Button 1 (Dark Mode)",
+            "Dark Mode",
             style: TextStyle(color: _textColor()),
           ),
           onPressed: () {
