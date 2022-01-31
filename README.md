@@ -33,6 +33,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 25. [Flutter Neumorphic](/lib/25_flutter_neumorphic/flutter_neumorphic.dart) > [Github](https://github.com/Idean/Flutter-Neumorphic/blob/master/example/lib/samples/widgets_sample.dart)
 26. [Math Expressions](/lib/26_math_expressions/math_expressions.dart) > Input type is string
 27. [Clay Containers](/lib/27_clay_containers/clay_containers.dart) > ClayContainer > color > height >width
+28. [Day Night Switcher](/lib/28_day_night_switcher/day_night_switcher.dart)
 
 ## Table of Contents:
 
@@ -204,5 +205,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/27_clay_containers/clay_containers.dart">Clay Containers</a></td>
     <td><a href="https://pub.dev/packages/clay_containers" target="_blank">clay_containers: ^0.3.2</a></td>
     <td><img align="right" src="screenshots/27_clay_containers.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td><a href="/lib/28_day_night_switcher/day_night_switcher.dart">Day Night Switcher</a></td>
+    <td><a href="https://pub.dev/packages/day_night_switcher" target="_blank">day_night_switcher: ^0.2.0+1</a></td>
+    <td><img align="right" src="screenshots/28_day_night_switcher.gif" height="350"></img></td>
   </tr>
 </table>
