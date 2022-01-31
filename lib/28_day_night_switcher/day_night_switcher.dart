@@ -32,12 +32,14 @@ class _MyDayNightSwitcherState extends State<MyDayNightSwitcher> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               DayNightSwitcher(
+                dayBackgroundColor: Colors.deepPurple,
                 isDarkModeEnabled: isDarkModeEnabled,
                 onStateChanged: onStateChanged,
               ),
               Padding(
                 padding: const EdgeInsets.only(top: 2),
                 child: DayNightSwitcherIcon(
+                  dayBackgroundColor: Colors.deepPurple,
                   isDarkModeEnabled: isDarkModeEnabled,
                   onStateChanged: onStateChanged,
                 ),
