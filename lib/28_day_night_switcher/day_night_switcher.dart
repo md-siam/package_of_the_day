@@ -24,7 +24,7 @@ class _MyDayNightSwitcherState extends State<MyDayNightSwitcher> {
       ),
       themeMode: isDarkModeEnabled ? ThemeMode.dark : ThemeMode.light,
       home: Scaffold(
-        appBar: AppBar(title: const Text('Day / Night Switcher')),
+        appBar: AppBar(title: const Text('Day Night Switcher')),
         body: SizedBox.expand(
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
