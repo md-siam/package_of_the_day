@@ -73,6 +73,8 @@ dependencies:
   clay_containers: ^0.3.2
   # For dark mode switch
   day_night_switcher: ^0.2.0+1
+  # For State management
+  provider: ^6.0.2
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

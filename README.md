@@ -210,6 +210,6 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td>28</td>
     <td><a href="/lib/28_day_night_switcher/day_night_switcher.dart">Day Night Switcher</a></td>
     <td><a href="https://pub.dev/packages/day_night_switcher" target="_blank">day_night_switcher: ^0.2.0+1</a></td>
-    <td><img align="right" src="screenshots/28_day_night_switcher.gif" height="350"></img></td>
+    <td><img align="right" src="screenshots/28_day_night_switcher_.gif" height="350"></img></td>
   </tr>
 </table>
