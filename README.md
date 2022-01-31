@@ -31,7 +31,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 23. [HTTP](/lib/23_http/http.dart) > watch this [YouTube](https://www.youtube.com/watch?v=ZEnWA8c3e_4) video
 24. [Onboarding](/lib/24_onboarding/onboarding.dart) > onboardingPagesList > PageModel > widget > Column > Container >
 25. [Flutter Neumorphic](/lib/25_flutter_neumorphic/flutter_neumorphic.dart) > [Github](https://github.com/Idean/Flutter-Neumorphic/blob/master/example/lib/samples/widgets_sample.dart)
-26. [Math Expressions](/lib/26_math_expressions/math_expressions.dart) > Input & output type is string
+26. [Math Expressions](/lib/26_math_expressions/math_expressions.dart) > Input type is string
 
 ## Table of Contents:
 

@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
       //home: const MyHTTP(),
       //home:  MyOnboarding(),
       //home: const MyFlutterNeumorphic(),
-      home:  MyMathExpressions(),
+      home: const MyMathExpressions(),
     );
   }
 }

@@ -83,7 +83,8 @@ class _MyMathExpressionsState extends State<MyMathExpressions> {
     String finaluserinput = userInput;
 
     finaluserinput = userInput.replaceAll('x', '*');
-    finaluserinput = userInput.replaceAll('%', '*0.01');
+    // '%'  = Modulo operator
+    //finaluserinput = userInput.replaceAll('%', '*0.01');
 
     Parser p = Parser();
     Expression exp = p.parse(finaluserinput);
