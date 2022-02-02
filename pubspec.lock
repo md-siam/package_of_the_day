@@ -106,6 +106,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.0"
+  feather_icons:
+    dependency: "direct main"
+    description:
+      name: feather_icons
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.2.0"
   ffi:
     dependency: transitive
     description:

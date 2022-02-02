@@ -41,7 +41,8 @@ class MyApp extends StatelessWidget {
       //home: const MyMathExpressions(),
       //home: const MyClayContainers(),
       //home: const MyDayNightSwitcher(),
-      home: const MyProvider(),
+      //home: const MyProvider(),
+      home: const MyFeatherIcons(),
     );
   }
 }

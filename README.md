@@ -39,6 +39,7 @@ Playlist URLs: <br>
 28. [Day Night Switcher](/lib/28_day_night_switcher/day_night_switcher.dart) > DayNightSwitcher / DayNightSwitcherIcon > dayBackgroundColor > isDarkModeEnabled > onStateChanged
 29. [Provider](/lib/29_provider/my_provider.dart) > MultiProvider > ChangeNotifierProvider > create: (\_) => Counter() > child: MyHomePage() <br>
     class Counter with ChangeNotifier > notifyListeners();
+30. [Feather Icons](/lib/30_feather_icons/feather_icons.dart) > Icon(FeatherIcons.aperture)
 
 ## Table of Contents:
 
@@ -222,5 +223,11 @@ Playlist URLs: <br>
     <td><a href="lib/29_provider/my_provider.dart">Provider</a></td>
     <td><a href="https://pub.dev/packages/provider" target="_blank">provider: ^6.0.2</a></td>
     <td><img align="right" src="screenshots/29_provider.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td><a href="lib/30_feather_icons/feather_icons.dart">Feather Icons</a></td>
+    <td><a href="https://pub.dev/packages/feather_icons" target="_blank">provider: ^6.0.2</a></td>
+    <td><img align="right" src="screenshots/30_feather_icons.png" height="350"></img></td>
   </tr>
 </table>
