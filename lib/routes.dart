@@ -26,3 +26,4 @@ export '25_flutter_neumorphic/flutter_neumorphic.dart';
 export '26_math_expressions/math_expressions.dart';
 export '27_clay_containers/clay_containers.dart';
 export '28_day_night_switcher/day_night_switcher.dart';
+export '29_provider/my_provider.dart';

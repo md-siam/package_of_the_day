@@ -40,7 +40,8 @@ class MyApp extends StatelessWidget {
       //home: const MyFlutterNeumorphic(),
       //home: const MyMathExpressions(),
       //home: const MyClayContainers(),
-      home: const MyDayNightSwitcher(),
+      //home: const MyDayNightSwitcher(),
+      home: const MyProvider(),
     );
   }
 }

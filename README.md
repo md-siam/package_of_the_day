@@ -1,7 +1,10 @@
 # Package of the Day
 
 <img align="right" src="assets/logo.png" height="200"></img>
-Introduction to flutter packages: This repo will teach you some of the popular packages that are available in [pub.dev](https://pub.dev), & how to use them for fast application development.<br> Playlist URL: [YouTube](https://www.youtube.com/watch?v=GEMoJxqpzhs&list=PLlvRDpXh1Se6mtlWw6pE9MXZ2o4k_KULp)
+Introduction to flutter packages: This repo will teach you some of the popular packages that are available in [pub.dev](https://pub.dev), & how to use them for fast application development.<br>
+Playlist URLs: <br>
+[YouTube](https://www.youtube.com/watch?v=GEMoJxqpzhs&list=PLlvRDpXh1Se6mtlWw6pE9MXZ2o4k_KULp) <br>
+[YouTube: provider](https://www.youtube.com/watch?v=L_QMsE2v6dw)<br>
 
 ## Packages List:
 
@@ -33,7 +36,9 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 25. [Flutter Neumorphic](/lib/25_flutter_neumorphic/flutter_neumorphic.dart) > [Github](https://github.com/Idean/Flutter-Neumorphic/blob/master/example/lib/samples/widgets_sample.dart)
 26. [Math Expressions](/lib/26_math_expressions/math_expressions.dart) > Input type is string
 27. [Clay Containers](/lib/27_clay_containers/clay_containers.dart) > ClayContainer > color > height >width
-28. [Day Night Switcher](/lib/28_day_night_switcher/day_night_switcher.dart)
+28. [Day Night Switcher](/lib/28_day_night_switcher/day_night_switcher.dart) > DayNightSwitcher / DayNightSwitcherIcon > dayBackgroundColor > isDarkModeEnabled > onStateChanged
+29. [Provider](/lib/29_provider/my_provider.dart) > MultiProvider > ChangeNotifierProvider > create: (\_) => Counter() > child: MyHomePage() <br>
+    class Counter with ChangeNotifier > notifyListeners();
 
 ## Table of Contents:
 
@@ -211,5 +216,11 @@ Introduction to flutter packages: This repo will teach you some of the popular p
     <td><a href="/lib/28_day_night_switcher/day_night_switcher.dart">Day Night Switcher</a></td>
     <td><a href="https://pub.dev/packages/day_night_switcher" target="_blank">day_night_switcher: ^0.2.0+1</a></td>
     <td><img align="right" src="screenshots/28_day_night_switcher_.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td><a href="lib/29_provider/my_provider.dart">Provider</a></td>
+    <td><a href="https://pub.dev/packages/provider" target="_blank">provider: ^6.0.2</a></td>
+    <td><img align="right" src="screenshots/29_provider.gif" height="350"></img></td>
   </tr>
 </table>
