@@ -227,7 +227,7 @@ Playlist URLs: <br>
   <tr>
     <td>30</td>
     <td><a href="lib/30_feather_icons/feather_icons.dart">Feather Icons</a></td>
-    <td><a href="https://pub.dev/packages/feather_icons" target="_blank">provider: ^6.0.2</a></td>
+    <td><a href="https://pub.dev/packages/feather_icons" target="_blank">feather_icons: ^1.2.0</a></td>
     <td><img align="right" src="screenshots/30_feather_icons.png" height="350"></img></td>
   </tr>
 </table>

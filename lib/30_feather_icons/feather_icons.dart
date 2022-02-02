@@ -7,9 +7,7 @@ class MyFeatherIcons extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Feather Icons'),
-      ),
+      appBar: AppBar(title: const Text('Feather Icons')),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
