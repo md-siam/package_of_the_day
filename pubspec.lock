@@ -195,6 +195,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.0"
+  flutter_swipable:
+    dependency: "direct main"
+    description:
+      name: flutter_swipable
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.2.1"
   flutter_swiper_null_safety:
     dependency: "direct main"
     description:

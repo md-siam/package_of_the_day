@@ -40,6 +40,7 @@ Playlist URLs: <br>
 29. [Provider](/lib/29_provider/my_provider.dart) > MultiProvider > ChangeNotifierProvider > create: (\_) => Counter() > child: MyHomePage() <br>
     class Counter with ChangeNotifier > notifyListeners();
 30. [Feather Icons](/lib/30_feather_icons/feather_icons.dart) > Icon(FeatherIcons.aperture)
+31. [Flutter Swipable](/lib/31_flutter_swipable/flutter_swipable.dart) > Swipable > child: Container()
 
 ## Table of Contents:
 
@@ -229,5 +230,11 @@ Playlist URLs: <br>
     <td><a href="lib/30_feather_icons/feather_icons.dart">Feather Icons</a></td>
     <td><a href="https://pub.dev/packages/feather_icons" target="_blank">feather_icons: ^1.2.0</a></td>
     <td><img align="right" src="screenshots/30_feather_icons.png" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td><a href="lib/31_flutter_swipable/flutter_swipable.dart">Flutter Swipable</a></td>
+    <td><a href="https://pub.dev/packages/flutter_swipable" target="_blank">flutter_swipable: ^1.2.1</a></td>
+    <td><img align="right" src="screenshots/31_flutter_swipable.gif" height="350"></img></td>
   </tr>
 </table>

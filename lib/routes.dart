@@ -28,3 +28,4 @@ export '27_clay_containers/clay_containers.dart';
 export '28_day_night_switcher/day_night_switcher.dart';
 export '29_provider/my_provider.dart';
 export '30_feather_icons/feather_icons.dart';
+export '31_flutter_swipable/flutter_swipable.dart';

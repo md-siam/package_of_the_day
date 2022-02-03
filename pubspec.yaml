@@ -77,6 +77,8 @@ dependencies:
   provider: ^6.0.2
   # For using Feather Icon pack
   feather_icons: ^1.2.0
+  # For tinder-like swipe card mechanism
+  flutter_swipable: ^1.2.1
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

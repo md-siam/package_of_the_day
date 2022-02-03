@@ -36,13 +36,14 @@ class MyApp extends StatelessWidget {
       //home: const MyAudioplayer(),
       //home: MyGoRouter(),
       //home: const MyHTTP(),
-      //home:  MyOnboarding(),
+      //home: MyOnboarding(),
       //home: const MyFlutterNeumorphic(),
       //home: const MyMathExpressions(),
       //home: const MyClayContainers(),
       //home: const MyDayNightSwitcher(),
       //home: const MyProvider(),
-      home: const MyFeatherIcons(),
+      //home: const MyFeatherIcons(),
+      home: const MyFlutterSwipable(),
     );
   }
 }
