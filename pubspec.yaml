@@ -79,6 +79,8 @@ dependencies:
   feather_icons: ^1.2.0
   # For tinder-like swipe card mechanism
   flutter_swipable: ^1.2.1
+  # For picking images from the image library, and taking new pictures with the camera
+  image_picker: ^0.8.4+6
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

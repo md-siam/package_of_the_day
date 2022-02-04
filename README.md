@@ -5,6 +5,7 @@ Introduction to flutter packages: This repo will teach you some of the popular p
 Playlist URLs: <br>
 [YouTube](https://www.youtube.com/watch?v=GEMoJxqpzhs&list=PLlvRDpXh1Se6mtlWw6pE9MXZ2o4k_KULp) <br>
 [YouTube: provider](https://www.youtube.com/watch?v=L_QMsE2v6dw)<br>
+[YouTube: image_picker](https://www.youtube.com/watch?v=MSv38jO4EJk)
 
 ## Packages List:
 
@@ -41,6 +42,7 @@ Playlist URLs: <br>
     class Counter with ChangeNotifier > notifyListeners();
 30. [Feather Icons](/lib/30_feather_icons/feather_icons.dart) > Icon(FeatherIcons.aperture)
 31. [Flutter Swipable](/lib/31_flutter_swipable/flutter_swipable.dart) > Swipable > child: Container()
+32. [Image Picker](/lib/32_image_picker/image_picker.dart) > watch the video, or read the [documentation](https://pub.dev/packages/image_picker)
 
 ## Table of Contents:
 
@@ -236,5 +238,11 @@ Playlist URLs: <br>
     <td><a href="lib/31_flutter_swipable/flutter_swipable.dart">Flutter Swipable</a></td>
     <td><a href="https://pub.dev/packages/flutter_swipable" target="_blank">flutter_swipable: ^1.2.1</a></td>
     <td><img align="right" src="screenshots/31_flutter_swipable.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td><a href="lib/32_image_picker/image_picker.dart">Image Picker</a></td>
+    <td><a href="https://pub.dev/packages/image_picker" target="_blank">image_picker: ^0.8.4+6</a></td>
+    <td><img align="right" src="screenshots/32_image_picker.gif" height="350"></img></td>
   </tr>
 </table>

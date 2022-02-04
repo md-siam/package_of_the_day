@@ -43,7 +43,8 @@ class MyApp extends StatelessWidget {
       //home: const MyDayNightSwitcher(),
       //home: const MyProvider(),
       //home: const MyFeatherIcons(),
-      home: const MyFlutterSwipable(),
+      //home: const MyFlutterSwipable(),
+      home: const MyImagePicker(),
     );
   }
 }
