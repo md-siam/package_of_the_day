@@ -43,6 +43,8 @@ Playlist URLs: <br>
 30. [Feather Icons](/lib/30_feather_icons/feather_icons.dart) > Icon(FeatherIcons.aperture)
 31. [Flutter Swipable](/lib/31_flutter_swipable/flutter_swipable.dart) > Swipable > child: Container()
 32. [Image Picker](/lib/32_image_picker/image_picker.dart) > watch the video, or read the [documentation](https://pub.dev/packages/image_picker)
+33. [Convex Bottom Bar](/lib/33_convex_bottom_bar/convex_bottom_bar.dart) > read the code
+34. [Intro Slider](/lib/34_intro_slider/intro_slider.dart) > read the code
 
 ## Table of Contents:
 
@@ -250,5 +252,11 @@ Playlist URLs: <br>
     <td><a href="lib/33_convex_bottom_bar/convex_bottom_bar.dart">Convex Bottom Bar</a></td>
     <td><a href="https://pub.dev/packages/convex_bottom_bar" target="_blank">convex_bottom_bar: ^3.0.0</a></td>
     <td><img align="right" src="screenshots/33_convex_bottom_bar.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td><a href="lib/34_intro_slider/intro_slider.dart">Intro Slider</a></td>
+    <td><a href="https://pub.dev/packages/intro_slider" target="_blank">intro_slider: ^3.0.3</a></td>
+    <td><img align="right" src="screenshots/34_intro_slider.gif" height="350"></img></td>
   </tr>
 </table>

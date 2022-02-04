@@ -83,6 +83,8 @@ dependencies:
   image_picker: ^0.8.4+6
   # For Convex Bottom Bar
   convex_bottom_bar: ^3.0.0
+  # For making a cool intro
+  intro_slider: ^3.0.3
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -111,6 +113,7 @@ flutter:
     - assets/images/rflutter_alert/
     - assets/images/audioplayer/
     - assets/images/onboarding/
+    - assets/images/intro_slider/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see

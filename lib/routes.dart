@@ -31,3 +31,4 @@ export '30_feather_icons/feather_icons.dart';
 export '31_flutter_swipable/flutter_swipable.dart';
 export '32_image_picker/image_picker.dart';
 export '33_convex_bottom_bar/convex_bottom_bar.dart';
+export '34_intro_slider/intro_slider.dart';
