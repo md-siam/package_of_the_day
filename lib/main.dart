@@ -44,7 +44,8 @@ class MyApp extends StatelessWidget {
       //home: const MyProvider(),
       //home: const MyFeatherIcons(),
       //home: const MyFlutterSwipable(),
-      home: const MyImagePicker(),
+      //home: const MyImagePicker(),
+      home: const MyConvexBottomBar(),
     );
   }
 }

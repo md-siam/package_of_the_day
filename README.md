@@ -245,4 +245,10 @@ Playlist URLs: <br>
     <td><a href="https://pub.dev/packages/image_picker" target="_blank">image_picker: ^0.8.4+6</a></td>
     <td><img align="right" src="screenshots/32_image_picker.gif" height="350"></img></td>
   </tr>
+  <tr>
+    <td>33</td>
+    <td><a href="lib/33_convex_bottom_bar/convex_bottom_bar.dart">Convex Bottom Bar</a></td>
+    <td><a href="https://pub.dev/packages/convex_bottom_bar" target="_blank">convex_bottom_bar: ^3.0.0</a></td>
+    <td><img align="right" src="screenshots/33_convex_bottom_bar.gif" height="350"></img></td>
+  </tr>
 </table>
