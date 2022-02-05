@@ -32,3 +32,4 @@ export '31_flutter_swipable/flutter_swipable.dart';
 export '32_image_picker/image_picker.dart';
 export '33_convex_bottom_bar/convex_bottom_bar.dart';
 export '34_intro_slider/intro_slider.dart';
+export '35_parallax_animation/parallax_animation.dart';

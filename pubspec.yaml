@@ -85,6 +85,8 @@ dependencies:
   convex_bottom_bar: ^3.0.0
   # For making a cool intro
   intro_slider: ^3.0.3
+  # For Parallax behavior for any Flutter Scrollable
+  parallax_animation: ^0.0.3
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -114,6 +116,7 @@ flutter:
     - assets/images/audioplayer/
     - assets/images/onboarding/
     - assets/images/intro_slider/
+    - assets/images/parallax_animation/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see

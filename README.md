@@ -45,6 +45,7 @@ Playlist URLs: <br>
 32. [Image Picker](/lib/32_image_picker/image_picker.dart) > watch the video, or read the [documentation](https://pub.dev/packages/image_picker)
 33. [Convex Bottom Bar](/lib/33_convex_bottom_bar/convex_bottom_bar.dart) > read the code
 34. [Intro Slider](/lib/34_intro_slider/intro_slider.dart) > read the code
+35. [Parallax Animation](/lib/35_parallax_animation/parallax_animation.dart) > ParallaxWidget > child: > background: > Image.asset
 
 ## Table of Contents:
 
@@ -258,5 +259,11 @@ Playlist URLs: <br>
     <td><a href="lib/34_intro_slider/intro_slider.dart">Intro Slider</a></td>
     <td><a href="https://pub.dev/packages/intro_slider" target="_blank">intro_slider: ^3.0.3</a></td>
     <td><img align="right" src="screenshots/34_intro_slider.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td><a href="lib/35_parallax_animation/parallax_animation.dart">Parallax Animation</a></td>
+    <td><a href="https://pub.dev/packages/parallax_animation" target="_blank">parallax_animation: ^0.0.3</a></td>
+    <td><img align="right" src="screenshots/35_parallax_animation.gif" height="350"></img></td>
   </tr>
 </table>
