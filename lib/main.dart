@@ -47,7 +47,8 @@ class MyApp extends StatelessWidget {
       //home: const MyImagePicker(),
       //home: const MyConvexBottomBar(),
       //home: const MyIntroSlider(),
-      home:  MyParallaxAnimation(),
+      //home: MyParallaxAnimation(),
+      home:   MyFlutterStaggeredGridView(),
     );
   }
 }

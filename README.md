@@ -46,6 +46,7 @@ Playlist URLs: <br>
 33. [Convex Bottom Bar](/lib/33_convex_bottom_bar/convex_bottom_bar.dart) > read the code
 34. [Intro Slider](/lib/34_intro_slider/intro_slider.dart) > read the code
 35. [Parallax Animation](/lib/35_parallax_animation/parallax_animation.dart) > ParallaxWidget > child: > background: > Image.asset
+36. [Flutter Staggered Grid View](/lib/36_flutter_staggered_grid_view/flutter_staggered_grid_view.dart) > GridView.custom > gridDelegate > pattern
 
 ## Table of Contents:
 
@@ -265,5 +266,11 @@ Playlist URLs: <br>
     <td><a href="lib/35_parallax_animation/parallax_animation.dart">Parallax Animation</a></td>
     <td><a href="https://pub.dev/packages/parallax_animation" target="_blank">parallax_animation: ^0.0.3</a></td>
     <td><img align="right" src="screenshots/35_parallax_animation.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td><a href="lib/36_flutter_staggered_grid_view/flutter_staggered_grid_view.dart">Flutter Staggered Grid View</a></td>
+    <td><a href="https://pub.dev/packages/flutter_staggered_grid_view" target="_blank">flutter_staggered_grid_view: ^0.6.1</a></td>
+    <td><img align="right" src="screenshots/36_flutter_staggered_grid_view.gif" height="350"></img></td>
   </tr>
 </table>

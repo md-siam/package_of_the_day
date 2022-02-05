@@ -87,6 +87,8 @@ dependencies:
   intro_slider: ^3.0.3
   # For Parallax behavior for any Flutter Scrollable
   parallax_animation: ^0.0.3
+  # For advanced grid view
+  flutter_staggered_grid_view: ^0.6.1
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
