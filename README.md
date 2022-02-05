@@ -6,6 +6,7 @@ Playlist URLs: <br>
 [YouTube](https://www.youtube.com/watch?v=GEMoJxqpzhs&list=PLlvRDpXh1Se6mtlWw6pE9MXZ2o4k_KULp) <br>
 [YouTube: provider](https://www.youtube.com/watch?v=L_QMsE2v6dw)<br>
 [YouTube: image_picker](https://www.youtube.com/watch?v=MSv38jO4EJk)
+[YouTube: shimmer](https://www.youtube.com/watch?v=yhABSANrsNc)
 
 ## Packages List:
 
@@ -42,11 +43,12 @@ Playlist URLs: <br>
     class Counter with ChangeNotifier > notifyListeners();
 30. [Feather Icons](/lib/30_feather_icons/feather_icons.dart) > Icon(FeatherIcons.aperture)
 31. [Flutter Swipable](/lib/31_flutter_swipable/flutter_swipable.dart) > Swipable > child: Container()
-32. [Image Picker](/lib/32_image_picker/image_picker.dart) > watch the video, or read the [documentation](https://pub.dev/packages/image_picker)
+32. [Image Picker](/lib/32_image_picker/image_picker.dart) > watch the video, or read the [documentation](https://pub.dev/packages/image_picker) for iOS support.
 33. [Convex Bottom Bar](/lib/33_convex_bottom_bar/convex_bottom_bar.dart) > read the code
 34. [Intro Slider](/lib/34_intro_slider/intro_slider.dart) > read the code
 35. [Parallax Animation](/lib/35_parallax_animation/parallax_animation.dart) > ParallaxWidget > child: > background: > Image.asset
 36. [Flutter Staggered Grid View](/lib/36_flutter_staggered_grid_view/flutter_staggered_grid_view.dart) > GridView.custom > gridDelegate > pattern
+37. [Shimmer](/lib/37_shimmer/shimmer.dart) > watch this [video](https://www.youtube.com/watch?v=yhABSANrsNc)
 
 ## Table of Contents:
 
@@ -272,5 +274,11 @@ Playlist URLs: <br>
     <td><a href="lib/36_flutter_staggered_grid_view/flutter_staggered_grid_view.dart">Flutter Staggered Grid View</a></td>
     <td><a href="https://pub.dev/packages/flutter_staggered_grid_view" target="_blank">flutter_staggered_grid_view: ^0.6.1</a></td>
     <td><img align="right" src="screenshots/36_flutter_staggered_grid_view.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td><a href="lib/37_shimmer/shimmer.dart">Shimmer</a></td>
+    <td><a href="https://pub.dev/packages/shimmer" target="_blank">shimmer: ^2.0.0</a></td>
+    <td><img align="right" src="screenshots/37_shimmer.gif" height="350"></img></td>
   </tr>
 </table>

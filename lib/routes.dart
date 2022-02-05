@@ -34,3 +34,4 @@ export '33_convex_bottom_bar/convex_bottom_bar.dart';
 export '34_intro_slider/intro_slider.dart';
 export '35_parallax_animation/parallax_animation.dart';
 export '36_flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+export '37_shimmer/shimmer.dart';
