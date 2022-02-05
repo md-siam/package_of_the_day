@@ -5,7 +5,7 @@ import 'data/foods.dart';
 import 'model/food_model.dart';
 
 class MyShimmer extends StatefulWidget {
-  MyShimmer({Key? key}) : super(key: key);
+  const MyShimmer({Key? key}) : super(key: key);
 
   @override
   State<MyShimmer> createState() => _MyShimmerState();
@@ -33,6 +33,7 @@ class _MyShimmerState extends State<MyShimmer> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.deepPurple[100],
       appBar: AppBar(title: const Text('Shimmer')),
       body: ListView.builder(
         itemCount: isLoading ? 3 : foods.length,
@@ -51,10 +52,10 @@ class _MyShimmerState extends State<MyShimmer> {
   Widget buildFood(Food food) {
     return ListTile(
       leading: CircleAvatar(
-        radius: 32,
-        child: Image.asset(
-          food.urlImage,
-          fit: BoxFit.cover,
+        radius: 35,
+        child: ClipRRect(
+          borderRadius: BorderRadius.circular(30),
+          child: Image.asset(food.urlImage),
         ),
       ),
       title: Text(

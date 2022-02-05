@@ -49,7 +49,7 @@ class MyApp extends StatelessWidget {
       //home: const MyIntroSlider(),
       //home: MyParallaxAnimation(),
       //home:   MyFlutterStaggeredGridView(),
-      home:  MyShimmer(),
+      home:  const MyShimmer(),
     );
   }
 }
