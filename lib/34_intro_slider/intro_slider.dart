@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:intro_slider/dot_animation_enum.dart';
 import 'package:intro_slider/intro_slider.dart';
 import 'package:intro_slider/slide_object.dart';
-import 'home_page.dart';
+import 'views/home_page.dart';
 
 class MyIntroSlider extends StatefulWidget {
   const MyIntroSlider({Key? key}) : super(key: key);
