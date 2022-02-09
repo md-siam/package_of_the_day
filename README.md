@@ -49,6 +49,7 @@ Playlist URLs: <br>
 35. [Parallax Animation](/lib/35_parallax_animation/parallax_animation.dart) > ParallaxWidget > child: > background: > Image.asset
 36. [Flutter Staggered Grid View](/lib/36_flutter_staggered_grid_view/flutter_staggered_grid_view.dart) > GridView.custom > gridDelegate > pattern
 37. [Shimmer](/lib/37_shimmer/shimmer.dart) > watch this [video](https://www.youtube.com/watch?v=yhABSANrsNc)
+38. [Lottie](/lib/38_lottie/lottie.dart) > make an animation controller for controlling the state of the animation
 
 ## Table of Contents:
 
@@ -280,5 +281,11 @@ Playlist URLs: <br>
     <td><a href="lib/37_shimmer/shimmer.dart">Shimmer</a></td>
     <td><a href="https://pub.dev/packages/shimmer" target="_blank">shimmer: ^2.0.0</a></td>
     <td><img align="right" src="screenshots/37_shimmer.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td><a href="lib/38_lottie/lottie.dart">Lottie</a></td>
+    <td><a href="https://pub.dev/packages/lottie" target="_blank">lottie: ^1.2.1</a></td>
+    <td><img align="right" src="screenshots/38_lottie.gif" height="350"></img></td>
   </tr>
 </table>
