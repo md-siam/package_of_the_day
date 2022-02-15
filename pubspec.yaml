@@ -93,6 +93,8 @@ dependencies:
   shimmer: ^2.0.0
   # For animation
   lottie: ^1.2.1
+  # For storing platform-specific persistent storage for simple data
+  shared_preferences: ^2.0.13
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

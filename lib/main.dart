@@ -50,7 +50,8 @@ class MyApp extends StatelessWidget {
       //home: MyParallaxAnimation(),
       //home:   MyFlutterStaggeredGridView(),
       //home:  const MyShimmer(),
-      home:  const MyLottie(),
+      //home:  const MyLottie(),
+      home:  const MySharedPreferences(),
     );
   }
 }

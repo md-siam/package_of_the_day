@@ -36,3 +36,4 @@ export '35_parallax_animation/parallax_animation.dart';
 export '36_flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 export '37_shimmer/shimmer.dart';
 export '38_lottie/lottie.dart';
+export '39_shared_preferences/shared_preferences.dart';

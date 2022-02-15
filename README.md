@@ -7,6 +7,7 @@ Playlist URLs: <br>
 [YouTube: provider](https://www.youtube.com/watch?v=L_QMsE2v6dw)<br>
 [YouTube: image_picker](https://www.youtube.com/watch?v=MSv38jO4EJk)
 [YouTube: shimmer](https://www.youtube.com/watch?v=yhABSANrsNc)
+[YouTube: shared_preferences](https://www.youtube.com/watch?v=5hQNFQ3y6UY)
 
 ## Packages List:
 
@@ -50,6 +51,7 @@ Playlist URLs: <br>
 36. [Flutter Staggered Grid View](/lib/36_flutter_staggered_grid_view/flutter_staggered_grid_view.dart) > GridView.custom > gridDelegate > pattern
 37. [Shimmer](/lib/37_shimmer/shimmer.dart) > watch this [video](https://www.youtube.com/watch?v=yhABSANrsNc)
 38. [Lottie](/lib/38_lottie/lottie.dart) > make an animation controller for controlling the state of the animation
+39. [Shared Preferences](/lib/39_shared_preferences/shared_preferences.dart) > watch this [video](https://www.youtube.com/watch?v=5hQNFQ3y6UY)
 
 ## Table of Contents:
 
@@ -287,5 +289,11 @@ Playlist URLs: <br>
     <td><a href="lib/38_lottie/lottie.dart">Lottie</a></td>
     <td><a href="https://pub.dev/packages/lottie" target="_blank">lottie: ^1.2.1</a></td>
     <td><img align="right" src="screenshots/38_lottie.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td><a href="lib/39_shared_preferences/shared_preferences.dart">Shared Preferences</a></td>
+    <td><a href="https://pub.dev/packages/shared_preferences" target="_blank">shared_preferences: ^2.0.13</a></td>
+    <td><img align="right" src="screenshots/39_shared_preferences.gif" height="350"></img></td>
   </tr>
 </table>
