@@ -38,3 +38,4 @@ export '37_shimmer/shimmer.dart';
 export '38_lottie/lottie.dart';
 export '39_shared_preferences/shared_preferences.dart';
 export '40_day_night_time_picker/day_night_time_picker.dart';
+export '41_device_info_plus/device_info_plus.dart';

@@ -52,7 +52,8 @@ class MyApp extends StatelessWidget {
       //home:  const MyShimmer(),
       //home:  const MyLottie(),
       //home:  const MySharedPreferences(),
-      home: const MyDayNightTimePicker(),
+      //home: const MyDayNightTimePicker(),
+      home: const MyDeviceInfoPlus(),
     );
   }
 }
