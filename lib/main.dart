@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:package_of_the_day/40_day_night_time_picker/day_night_time_picker.dart';
 import 'routes.dart';
 
 void main() => runApp(const MyApp());
@@ -51,7 +52,8 @@ class MyApp extends StatelessWidget {
       //home:   MyFlutterStaggeredGridView(),
       //home:  const MyShimmer(),
       //home:  const MyLottie(),
-      home:  const MySharedPreferences(),
+      //home:  const MySharedPreferences(),
+      home: const MyDayNightTimePicker(),
     );
   }
 }

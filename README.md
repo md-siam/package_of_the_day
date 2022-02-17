@@ -52,6 +52,7 @@ Playlist URLs: <br>
 37. [Shimmer](/lib/37_shimmer/shimmer.dart) > watch this [video](https://www.youtube.com/watch?v=yhABSANrsNc)
 38. [Lottie](/lib/38_lottie/lottie.dart) > make an animation controller for controlling the state of the animation
 39. [Shared Preferences](/lib/39_shared_preferences/shared_preferences.dart) > watch this [video](https://www.youtube.com/watch?v=5hQNFQ3y6UY)
+40. [Day Night Time Picker](/lib/40_day_night_time_picker/day_night_time_picker.dart) > TimeOfDay \_time = TimeOfDay.now().replacing(hour: 11, minute: 30); > Navigator.of(context).push(showPicker())
 
 ## Table of Contents:
 
@@ -295,5 +296,11 @@ Playlist URLs: <br>
     <td><a href="lib/39_shared_preferences/shared_preferences.dart">Shared Preferences</a></td>
     <td><a href="https://pub.dev/packages/shared_preferences" target="_blank">shared_preferences: ^2.0.13</a></td>
     <td><img align="right" src="screenshots/39_shared_preferences.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td><a href="lib/40_day_night_time_picker/day_night_time_picker.dart">Day Night Time Picker</a></td>
+    <td><a href="https://pub.dev/packages/day_night_time_picker" target="_blank">day_night_time_picker: ^1.0.5</a></td>
+    <td><img align="right" src="screenshots/40_day_night_time_picker.gif" height="350"></img></td>
   </tr>
 </table>
