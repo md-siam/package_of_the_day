@@ -53,7 +53,8 @@ class MyApp extends StatelessWidget {
       //home:  const MyLottie(),
       //home:  const MySharedPreferences(),
       //home: const MyDayNightTimePicker(),
-      home: const MyDeviceInfoPlus(),
+      //home: const MyDeviceInfoPlus(),
+      home: const MyGeolocator(),
     );
   }
 }

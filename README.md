@@ -8,6 +8,7 @@ Playlist URLs: <br>
 [YouTube: image_picker](https://www.youtube.com/watch?v=MSv38jO4EJk)
 [YouTube: shimmer](https://www.youtube.com/watch?v=yhABSANrsNc)
 [YouTube: shared_preferences](https://www.youtube.com/watch?v=5hQNFQ3y6UY)
+[TouTube: goelocator](https://www.youtube.com/watch?v=04U6xRK8bjg)
 
 ## Packages List:
 
@@ -54,6 +55,7 @@ Playlist URLs: <br>
 39. [Shared Preferences](/lib/39_shared_preferences/shared_preferences.dart) > watch this [video](https://www.youtube.com/watch?v=5hQNFQ3y6UY)
 40. [Day Night Time Picker](/lib/40_day_night_time_picker/day_night_time_picker.dart) > TimeOfDay \_time = TimeOfDay.now().replacing(hour: 11, minute: 30); > Navigator.of(context).push(showPicker())
 41. [Device Info Plus](/lib/41_device_info_plus/device_info_plus.dart) > deviceInfo() async{} > DeviceInfoPlugin deviceInfo = DeviceInfoPlugin(); > IosDeviceInfo iosInfo = await deviceInfo.iosInfo; > setState((){})
+42. [Geolocator](/lib/42_geolocator/geolocator.dart) > LocationPermission permission > await Geolocator.requestPermission() > Geolocator.getCurrentPosition()
 
 ## Table of Contents:
 
@@ -309,5 +311,11 @@ Playlist URLs: <br>
     <td><a href="lib/41_device_info_plus/device_info_plus.dart">Device Info Plus</a></td>
     <td><a href="https://pub.dev/packages/device_info_plus" target="_blank">device_info_plus: ^3.2.2</a></td>
     <td><img align="right" src="screenshots/41_device_info_plus.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td><a href="lib/42_geolocator/geolocator.dart">Geolocator</a></td>
+    <td><a href="https://pub.dev/packages/geolocator" target="_blank">geolocator: ^8.2.0</a></td>
+    <td><img align="right" src="screenshots/42_geolocator.gif" height="350"></img></td>
   </tr>
 </table>

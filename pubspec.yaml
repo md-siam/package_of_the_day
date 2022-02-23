@@ -99,6 +99,8 @@ dependencies:
   day_night_time_picker: ^1.0.5
   # For getting device information
   device_info_plus: ^3.2.2
+  # For device geolocation
+  geolocator: ^8.2.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
