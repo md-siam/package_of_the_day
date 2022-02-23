@@ -101,6 +101,8 @@ dependencies:
   device_info_plus: ^3.2.2
   # For device geolocation
   geolocator: ^8.2.0
+  # For GlassMorphism UI design
+  glass_kit: ^2.0.1
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -132,6 +134,7 @@ flutter:
     - assets/images/intro_slider/
     - assets/images/parallax_animation/
     - assets/images/foods/
+    - assets/images/background/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
