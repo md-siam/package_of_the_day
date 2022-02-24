@@ -55,7 +55,8 @@ class MyApp extends StatelessWidget {
       //home: const MyDayNightTimePicker(),
       //home: const MyDeviceInfoPlus(),
       //home: const MyGeolocator(),
-      home: const MyGlassKit(),
+      //home: const MyGlassKit(),
+      home: const MyUrlLauncher(),
     );
   }
 }

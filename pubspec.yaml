@@ -103,6 +103,8 @@ dependencies:
   geolocator: ^8.2.0
   # For GlassMorphism UI design
   glass_kit: ^2.0.1
+  # For launching a URL
+  url_launcher: ^6.0.20
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

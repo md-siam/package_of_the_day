@@ -8,7 +8,8 @@ Playlist URLs: <br>
 [YouTube: image_picker](https://www.youtube.com/watch?v=MSv38jO4EJk)
 [YouTube: shimmer](https://www.youtube.com/watch?v=yhABSANrsNc)
 [YouTube: shared_preferences](https://www.youtube.com/watch?v=5hQNFQ3y6UY)
-[TouTube: goelocator](https://www.youtube.com/watch?v=04U6xRK8bjg)
+[YouTube: goelocator](https://www.youtube.com/watch?v=04U6xRK8bjg)
+[YouTube: url_launcher](https://www.youtube.com/watch?v=dofN2lqEQ3w)
 
 ## Packages List:
 
@@ -57,6 +58,7 @@ Playlist URLs: <br>
 41. [Device Info Plus](/lib/41_device_info_plus/device_info_plus.dart) > deviceInfo() async{} > DeviceInfoPlugin deviceInfo = DeviceInfoPlugin(); > IosDeviceInfo iosInfo = await deviceInfo.iosInfo; > setState((){})
 42. [Geolocator](/lib/42_geolocator/geolocator.dart) > LocationPermission permission > await Geolocator.requestPermission() > Geolocator.getCurrentPosition()
 43. [Glass Kit](/lib/43_glass_kit/glass_kit.dart) > GlassContainer.clearGlass > height > width > child
+44. [URL Launcher](/lib/44_url_launcher/url_launcher.dart) > MaterialButton > onPressed: () async > if (await canLaunch(\_url)) > else
 
 ## Table of Contents:
 
@@ -324,5 +326,11 @@ Playlist URLs: <br>
     <td><a href="lib/43_glass_kit/glass_kit.dart">Glass Kit</a></td>
     <td><a href="https://pub.dev/packages/glass_kit#getting-started" target="_blank">glass_kit: ^2.0.1</a></td>
     <td><img align="right" src="screenshots/43_glass_kit.png" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td><a href="lib/44_url_launcher/url_launcher.dart">URL Launcher</a></td>
+    <td><a href="https://pub.dev/packages/url_launcher" target="_blank">url_launcher: ^6.0.20</a></td>
+    <td><img align="right" src="screenshots/44_url_launcher.gif" height="350"></img></td>
   </tr>
 </table>
