@@ -61,6 +61,7 @@ Playlist URLs: <br>
 43. [Glass Kit](/lib/43_glass_kit/glass_kit.dart) > GlassContainer.clearGlass > height > width > child
 44. [URL Launcher](/lib/44_url_launcher/url_launcher.dart) > MaterialButton > onPressed: () async > if (await canLaunch(\_url)) > else
 45. [Webview Flutter](/lib/45_webview_flutter/webview_flutter.dart) > WebView > javascriptMode: JavascriptMode.unrestricted > initialUrl: 'https://amazon.com' > onWebViewCreated: (controller){}
+46. [Responsive Sizer](/lib/46_responsive_sizer/responsive_sizer.dart) > ResponsiveSizer( builder: (context, orientation, screenType) { return: Center()}) > height: 20.h > width: 20.w
 
 ## Table of Contents:
 
@@ -340,5 +341,11 @@ Playlist URLs: <br>
     <td><a href="lib/45_webview_flutter/webview_flutter.dart">Webview Flutter</a></td>
     <td><a href="https://pub.dev/packages/webview_flutter" target="_blank">webview_flutter: ^3.0.1</a></td>
     <td><img align="right" src="screenshots/45_webview_flutter.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td><a href="lib/46_responsive_sizer/responsive_sizer.dart">Responsive Sizer</a></td>
+    <td><a href="https://pub.dev/packages/responsive_sizer" target="_blank">responsive_sizer: ^3.0.5+1</a></td>
+    <td><img align="right" src="screenshots/46_responsive_sizer.png" height="350"></img></td>
   </tr>
 </table>

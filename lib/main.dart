@@ -57,7 +57,8 @@ class MyApp extends StatelessWidget {
       //home: const MyGeolocator(),
       //home: const MyGlassKit(),
       //home: const MyUrlLauncher(),
-      home:  MyWebviewFlutter(),
+      //home:  MyWebviewFlutter(),
+      home:  MyResponsiveSizer(),
     );
   }
 }

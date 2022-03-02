@@ -107,6 +107,8 @@ dependencies:
   url_launcher: ^6.0.20
   ## For loading and displaying html
   webview_flutter: ^3.0.1
+  # For responsive UI design
+  responsive_sizer: ^3.0.5+1
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
