@@ -39,8 +39,10 @@ class MyResponsiveSizer extends StatelessWidget {
                   ),
                 ),
                 Container(
-                  width: 30.h, //It will take a 30% of screen height
-                  height: 30.h, //It will take a 30% of screen height
+                  //It will take a 30% of screen height
+                  width: 30.h,
+                  //It will take a 30% of screen height
+                  height: 30.h,
                   color: Colors.amber,
                   alignment: Alignment.center,
                   child: const Text('Responsive Square Container'),
