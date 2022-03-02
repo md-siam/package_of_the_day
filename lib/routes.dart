@@ -44,3 +44,4 @@ export '43_glass_kit/glass_kit.dart';
 export '44_url_launcher/url_launcher.dart';
 export '45_webview_flutter/webview_flutter.dart';
 export '46_responsive_sizer/responsive_sizer.dart';
+export '47_video_player/video_player.dart';

@@ -109,6 +109,8 @@ dependencies:
   webview_flutter: ^3.0.1
   # For responsive UI design
   responsive_sizer: ^3.0.5+1
+  # For playing video files
+  video_player: ^2.2.19
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -141,6 +143,7 @@ flutter:
     - assets/images/parallax_animation/
     - assets/images/foods/
     - assets/images/background/
+    - assets/videos/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see

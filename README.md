@@ -11,6 +11,7 @@ Playlist URLs: <br>
 [YouTube: goelocator](https://www.youtube.com/watch?v=04U6xRK8bjg)
 [YouTube: url_launcher](https://www.youtube.com/watch?v=dofN2lqEQ3w)
 [YouTube: webview_flutter](https://www.youtube.com/watch?v=LyAwnwvbBKM)
+[YouTube: video_player](https://www.youtube.com/watch?v=uz4xRnE-UIw)
 
 ## Packages List:
 
@@ -62,6 +63,7 @@ Playlist URLs: <br>
 44. [URL Launcher](/lib/44_url_launcher/url_launcher.dart) > MaterialButton > onPressed: () async > if (await canLaunch(\_url)) > else
 45. [Webview Flutter](/lib/45_webview_flutter/webview_flutter.dart) > WebView > javascriptMode: JavascriptMode.unrestricted > initialUrl: 'https://amazon.com' > onWebViewCreated: (controller){}
 46. [Responsive Sizer](/lib/46_responsive_sizer/responsive_sizer.dart) > ResponsiveSizer( builder: (context, orientation, screenType) { return: Center()}) > height: 20.h > width: 20.w
+47. [Video Player](/lib/47_video_player/video_player.dart) > watch the [video](https://www.youtube.com/watch?v=uz4xRnE-UIw)
 
 ## Table of Contents:
 
@@ -347,5 +349,11 @@ Playlist URLs: <br>
     <td><a href="lib/46_responsive_sizer/responsive_sizer.dart">Responsive Sizer</a></td>
     <td><a href="https://pub.dev/packages/responsive_sizer" target="_blank">responsive_sizer: ^3.0.5+1</a></td>
     <td><img align="right" src="screenshots/46_responsive_sizer.png" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>47</td>
+    <td><a href="lib/47_video_player/video_player.dart">Video Player</a></td>
+    <td><a href="https://pub.dev/packages/video_player" target="_blank">video_player: ^2.2.19</a></td>
+    <td><img align="right" src="screenshots/47_video_player.gif" height="350"></img></td>
   </tr>
 </table>
