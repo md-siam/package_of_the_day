@@ -42,3 +42,4 @@ export '41_device_info_plus/device_info_plus.dart';
 export '42_geolocator/geolocator.dart';
 export '43_glass_kit/glass_kit.dart';
 export '44_url_launcher/url_launcher.dart';
+export '45_webview_flutter/webview_flutter.dart';

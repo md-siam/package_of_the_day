@@ -10,6 +10,7 @@ Playlist URLs: <br>
 [YouTube: shared_preferences](https://www.youtube.com/watch?v=5hQNFQ3y6UY)
 [YouTube: goelocator](https://www.youtube.com/watch?v=04U6xRK8bjg)
 [YouTube: url_launcher](https://www.youtube.com/watch?v=dofN2lqEQ3w)
+[YouTube: webview_flutter](https://www.youtube.com/watch?v=LyAwnwvbBKM)
 
 ## Packages List:
 
@@ -59,6 +60,7 @@ Playlist URLs: <br>
 42. [Geolocator](/lib/42_geolocator/geolocator.dart) > LocationPermission permission > await Geolocator.requestPermission() > Geolocator.getCurrentPosition()
 43. [Glass Kit](/lib/43_glass_kit/glass_kit.dart) > GlassContainer.clearGlass > height > width > child
 44. [URL Launcher](/lib/44_url_launcher/url_launcher.dart) > MaterialButton > onPressed: () async > if (await canLaunch(\_url)) > else
+45. [Webview Flutter](/lib/45_webview_flutter/webview_flutter.dart) > WebView > javascriptMode: JavascriptMode.unrestricted > initialUrl: 'https://amazon.com' > onWebViewCreated: (controller){}
 
 ## Table of Contents:
 
@@ -332,5 +334,11 @@ Playlist URLs: <br>
     <td><a href="lib/44_url_launcher/url_launcher.dart">URL Launcher</a></td>
     <td><a href="https://pub.dev/packages/url_launcher" target="_blank">url_launcher: ^6.0.20</a></td>
     <td><img align="right" src="screenshots/44_url_launcher.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td><a href="lib/45_webview_flutter/webview_flutter.dart">Webview Flutter</a></td>
+    <td><a href="https://pub.dev/packages/webview_flutter" target="_blank">webview_flutter: ^3.0.1</a></td>
+    <td><img align="right" src="screenshots/45_webview_flutter.gif" height="350"></img></td>
   </tr>
 </table>
