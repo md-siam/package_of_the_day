@@ -58,8 +58,9 @@ class MyApp extends StatelessWidget {
       //home: const MyGlassKit(),
       //home: const MyUrlLauncher(),
       //home:  MyWebviewFlutter(),
-      //home: const MyResponsiveSizer(),
-      home: const MyVideoPlayer(),
+      // home: const MyResponsiveSizer(),    // run on `Chrome`
+      //home: const MyVideoPlayer(),
+      home: const MyResponsiveFramework(),   // run on `Chrome`
     );
   }
 }

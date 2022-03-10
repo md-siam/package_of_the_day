@@ -111,6 +111,8 @@ dependencies:
   responsive_sizer: ^3.0.5+1
   # For playing video files
   video_player: ^2.2.19
+  # For responsive design
+  responsive_framework: ^0.1.7
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
