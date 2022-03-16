@@ -1,3 +1,10 @@
+// Copyright (c) 2022, Md. Siam
+// http://mdsiam.xyz/
+//
+// Use of this source code is governed by an MIT-style
+// license that can be found in the LICENSE file or at
+// https://choosealicense.com/licenses/mit/
+
 export '1_avatar_glow/avatarglow.dart';
 export '2_google_fonts/googlefonts.dart';
 export '3_liquid_pull_to_refresh/pull_to_refresh.dart';
