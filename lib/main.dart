@@ -68,7 +68,8 @@ class MyApp extends StatelessWidget {
       // home: const MyResponsiveSizer(),      // run on `Chrome`
       //home: const MyVideoPlayer(),
       //home: const MyResponsiveFramework(),   // run on `Chrome`
-      home: const MyTimelines(),
+      // home: const MyTimelines(),
+      home: const MyJustAudio(),
     );
   }
 }
