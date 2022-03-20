@@ -119,6 +119,8 @@ dependencies:
   video_player: ^2.2.19
   # For responsive design
   responsive_framework: ^0.1.7
+  # For platform aware widget
+  flutter_platform_widgets: ^1.20.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

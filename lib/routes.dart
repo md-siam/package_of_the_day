@@ -53,3 +53,4 @@ export '45_webview_flutter/webview_flutter.dart';
 export '46_responsive_sizer/responsive_sizer.dart';
 export '47_video_player/video_player.dart';
 export '48_responsive_framework/responsive_framework.dart';
+export '49_flutter_platform_widgets/flutter_platform_widgets.dart';
