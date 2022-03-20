@@ -71,6 +71,7 @@ Playlist URLs: <br>
 46. [Responsive Sizer](/lib/46_responsive_sizer/responsive_sizer.dart) > ResponsiveSizer( builder: (context, orientation, screenType) { return: Center()}) > height: 20.h > width: 20.w
 47. [Video Player](/lib/47_video_player/video_player.dart) > watch the [video](https://www.youtube.com/watch?v=uz4xRnE-UIw)
 48. [Responsive Framework](/lib/48_responsive_framework/responsive_framework.dart) > builder: (context, widget) => ResponsiveWrapper.builder() > ResponsiveBreakpoint > ResponsiveRowColumn() > ResponsiveVisibility() > ResponsiveValue()
+49. [Timelines](/lib/49_timelines/timelines.dart) > Timeline.tileBuilder > TimelineTileBuilder.fromStyle
 
 ## Table of Contents:
 
@@ -368,5 +369,11 @@ Playlist URLs: <br>
     <td><a href="lib/48_responsive_framework/responsive_framework.dart">Responsive Framework</a></td>
     <td><a href="https://pub.dev/packages/responsive_framework" target="_blank">responsive_framework: ^0.1.7</a></td>
     <td><img align="right" src="screenshots/48_responsive_framework.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>49</td>
+    <td><a href="lib/49_timelines/timelines.dart">Timelines</a></td>
+    <td><a href="https://pub.dev/packages/timelines" target="_blank">timelines: ^0.1.0</a></td>
+    <td><img align="right" src="screenshots/49_timelines.gif" height="350"></img></td>
   </tr>
 </table>

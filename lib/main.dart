@@ -68,7 +68,7 @@ class MyApp extends StatelessWidget {
       // home: const MyResponsiveSizer(),      // run on `Chrome`
       //home: const MyVideoPlayer(),
       //home: const MyResponsiveFramework(),   // run on `Chrome`
-      home: const MyFlutterPlatformWidgets(),  
+      home: const MyTimelines(),
     );
   }
 }
