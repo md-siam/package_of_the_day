@@ -125,6 +125,8 @@ dependencies:
   just_audio: ^0.9.20
   # For audio progress bar
   audio_video_progress_bar: ^0.10.0
+  # For bottom nav bar
+  persistent_bottom_nav_bar: ^4.0.2
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
