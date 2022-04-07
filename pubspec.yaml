@@ -153,6 +153,7 @@ flutter:
     - assets/images/banner/
     - assets/svg/
     - assets/images/rflutter_alert/
+    - assets/images/staggered_grid_view/
     - assets/images/audioplayer/
     - assets/images/onboarding/
     - assets/images/intro_slider/

@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
       //home: const MyConvexBottomBar(),
       //home: const MyIntroSlider(),
       //home: MyParallaxAnimation(),
-      //home:   MyFlutterStaggeredGridView(),
+      home:   const MyFlutterStaggeredGridView(),
       //home:  const MyShimmer(),
       //home:  const MyLottie(),
       //home:  const MySharedPreferences(),
@@ -70,7 +70,8 @@ class MyApp extends StatelessWidget {
       //home: const MyResponsiveFramework(),   // run on `Chrome`
       // home: const MyTimelines(),
       //home: const MyJustAudio(),
-      home: const MyPersistentBottomNavBar(),
+      //home: const MyPersistentBottomNavBar(),
+     
     );
   }
 }

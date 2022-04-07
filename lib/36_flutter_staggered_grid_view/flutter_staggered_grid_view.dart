@@ -1,75 +1,120 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+import 'package:flutter/rendering.dart';
+
+import 'pages/aligned.dart';
+import 'pages/masonry.dart';
+import 'pages/quilted.dart';
+import 'pages/staggered.dart';
+import 'pages/staired.dart';
+import 'pages/woven.dart';
 
 class MyFlutterStaggeredGridView extends StatelessWidget {
-  MyFlutterStaggeredGridView({Key? key}) : super(key: key);
-  final List _imageList = [
-    'assets/images/parallax_animation/background_1.jpg',
-    'assets/images/parallax_animation/background_2.jpg',
-    'assets/images/parallax_animation/background_3.jpg',
-    'assets/images/parallax_animation/background_4.jpg',
-    'assets/images/parallax_animation/background_3.jpg',
-    'assets/images/parallax_animation/background_4.jpg',
-    'assets/images/parallax_animation/background_1.jpg',
-    'assets/images/parallax_animation/background_3.jpg',
-    'assets/images/parallax_animation/background_4.jpg',
-    'assets/images/parallax_animation/background_3.jpg',
-    'assets/images/parallax_animation/background_4.jpg',
-    'assets/images/parallax_animation/background_1.jpg',
-    'assets/images/parallax_animation/background_2.jpg',
-    'assets/images/parallax_animation/background_1.jpg',
-    'assets/images/parallax_animation/background_3.jpg',
-    'assets/images/parallax_animation/background_4.jpg',
-    'assets/images/parallax_animation/background_3.jpg',
-    'assets/images/parallax_animation/background_4.jpg',
-    'assets/images/parallax_animation/background_1.jpg',
-    'assets/images/parallax_animation/background_2.jpg',
-    'assets/images/parallax_animation/background_1.jpg',
-    'assets/images/parallax_animation/background_2.jpg',
-    'assets/images/parallax_animation/background_4.jpg',
-    'assets/images/parallax_animation/background_3.jpg',
-    'assets/images/parallax_animation/background_4.jpg',
-    'assets/images/parallax_animation/background_2.jpg',
-    'assets/images/parallax_animation/background_3.jpg',
-    'assets/images/parallax_animation/background_1.jpg',
-    'assets/images/parallax_animation/background_3.jpg',
-    'assets/images/parallax_animation/background_4.jpg',
-  ];
+  const MyFlutterStaggeredGridView({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.deepPurple[100],
-      appBar: AppBar(title: const Text('Flutter Staggered Grid View')),
-      body: GridView.custom(
-        gridDelegate: SliverQuiltedGridDelegate(
-          crossAxisCount: 4,
-          mainAxisSpacing: 4,
-          crossAxisSpacing: 4,
-          repeatPattern: QuiltedGridRepeatPattern.inverted,
-          pattern: [
-            const QuiltedGridTile(2, 2),
-            const QuiltedGridTile(1, 1),
-            const QuiltedGridTile(1, 1),
-            const QuiltedGridTile(1, 2),
-          ],
+      appBar: AppBar(title: const Text('Staggered Grid View')),
+      body: Center(
+        child: SingleChildScrollView(
+          child: Column(
+            children: const [
+              SizedBox(height: 10),
+              MenuEntry(
+                title: 'Staggered',
+                imageName: 'staggered',
+                destination: StaggeredPage(),
+              ),
+              SizedBox(height: 10),
+              MenuEntry(
+                title: 'Masonry',
+                imageName: 'masonry',
+                destination: MasonryPage(),
+              ),
+              SizedBox(height: 10),
+              MenuEntry(
+                title: 'Quilted',
+                imageName: 'quilted',
+                destination: QuiltedPage(),
+              ),
+              SizedBox(height: 10),
+              MenuEntry(
+                title: 'Woven',
+                imageName: 'woven',
+                destination: WovenPage(),
+              ),
+              SizedBox(height: 10),
+              MenuEntry(
+                title: 'Staired',
+                imageName: 'staired',
+                destination: StairedPage(),
+              ),
+              SizedBox(height: 10),
+              MenuEntry(
+                title: 'Aligned',
+                imageName: 'aligned',
+                destination: AlignedPage(),
+              ),
+            ],
+          ),
         ),
-        childrenDelegate: SliverChildBuilderDelegate(
-          (context, index) {
-            while (index < _imageList.length) {
-              return Container(
-                padding: const EdgeInsets.all(8.0),
-                child: ClipRRect(
-                  borderRadius: BorderRadius.circular(8.0),
-                  child: Image.asset(
-                    '${_imageList[index]}',
-                    fit: BoxFit.cover,
+      ),
+    );
+  }
+}
+
+class MenuEntry extends StatelessWidget {
+  const MenuEntry({
+    Key? key,
+    required this.title,
+    required this.imageName,
+    required this.destination,
+  }) : super(key: key);
+
+  final String title;
+  final Widget destination;
+  final String imageName;
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      elevation: 4,
+      child: InkWell(
+        onTap: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute<void>(
+              builder: (context) => destination,
+            ),
+          );
+        },
+        child: Stack(
+          children: [
+            Image.asset(
+              'assets/images/staggered_grid_view/$imageName.png',
+              fit: BoxFit.fill,
+            ),
+            Positioned.fill(
+              child: FractionallySizedBox(
+                heightFactor: 0.25,
+                alignment: Alignment.bottomCenter,
+                child: ColoredBox(
+                  color: Colors.black.withOpacity(0.75),
+                  child: Center(
+                    child: Text(
+                      title,
+                      overflow: TextOverflow.ellipsis,
+                      textAlign: TextAlign.center,
+                      style: Theme.of(context)
+                          .textTheme
+                          .headline6!
+                          .copyWith(color: Colors.white),
+                    ),
                   ),
                 ),
-              );
-            }
-            return null;
-          },
+              ),
+            ),
+          ],
         ),
       ),
     );

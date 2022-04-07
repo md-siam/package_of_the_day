@@ -9,12 +9,16 @@
     "geolocation",
     "geolocator",
     "googlefonts",
+    "gridview",
     "Morphism",
     "Okey",
     "rflutter",
     "spinkit",
+    "staired",
     "swipable",
     "swiper",
-    "syncfusion"
+    "syncfusion",
+    "Tocker",
+    "vsync"
   ]
 }
