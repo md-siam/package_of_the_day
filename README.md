@@ -74,6 +74,7 @@ Playlist URLs: <br>
 49. [Timelines](/lib/49_timelines/timelines.dart) > Timeline.tileBuilder > TimelineTileBuilder.fromStyle
 50. [Just Audio](/lib/50_just_audio/just_audio.dart) > check the code
 51. [Persistent Bottom Nav Bar](/lib/51_persistent_bottom_nav_bar/bottom_nav_bar.dart) > check the code
+52. [Equatable](/lib/52_equatable/equatable.dart) > class User extends Equatable > List< Object?> get props => [name, urlImage];
 
 ## Table of Contents:
 
@@ -389,5 +390,11 @@ Playlist URLs: <br>
     <td><a href="lib/51_persistent_bottom_nav_bar/bottom_nav_bar.dart">Persistent BNb</a></td>
     <td><a href="https://pub.dev/packages/persistent_bottom_nav_bar" target="_blank">persistent_b_n_b: ^4.0.2</a></td>
     <td><img align="right" src="screenshots/51_persistent_bottom_nav_bar.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>52</td>
+    <td><a href="lib/52_equatable/equatable.dart">Equatable</a></td>
+    <td><a href="https://pub.dev/packages/equatable" target="_blank">equatable: ^2.0.3</a></td>
+    <td><img align="right" src="screenshots/52_equatable.png" height="350"></img></td>
   </tr>
 </table>

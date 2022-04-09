@@ -56,3 +56,4 @@ export '48_responsive_framework/responsive_framework.dart';
 export '49_timelines/timelines.dart';
 export '50_just_audio/just_audio.dart';
 export '51_persistent_bottom_nav_bar/persistent_bottom_nav_bar.dart';
+export '52_equatable/equatable.dart';

@@ -127,6 +127,8 @@ dependencies:
   audio_video_progress_bar: ^0.10.0
   # For bottom nav bar
   persistent_bottom_nav_bar: ^4.0.2
+  # For comparing objects in Dart
+  equatable: ^2.0.3
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
