@@ -55,23 +55,24 @@ class MyApp extends StatelessWidget {
       //home: const MyConvexBottomBar(),
       //home: const MyIntroSlider(),
       //home: MyParallaxAnimation(),
-      //home:   const MyFlutterStaggeredGridView(),
-      //home:  const MyShimmer(),
-      //home:  const MyLottie(),
-      //home:  const MySharedPreferences(),
+      //home: const MyFlutterStaggeredGridView(),
+      //home: const MyShimmer(),
+      //home: const MyLottie(),
+      //home: const MySharedPreferences(),
       //home: const MyDayNightTimePicker(),
       //home: const MyDeviceInfoPlus(),
       //home: const MyGeolocator(),
       //home: const MyGlassKit(),
       //home: const MyUrlLauncher(),
-      //home:  MyWebviewFlutter(),
+      //home: MyWebviewFlutter(),
       //home: const MyResponsiveSizer(),      // run on `Chrome`
       //home: const MyVideoPlayer(),
       //home: const MyResponsiveFramework(),   // run on `Chrome`
-      // home: const MyTimelines(),
+      //home: const MyTimelines(),
       //home: const MyJustAudio(),
-      // home: const MyPersistentBottomNavBar(),
-      home: const MyEquatable(),
+      //home: const MyPersistentBottomNavBar(),
+      //home: const MyEquatable(),
+      home: const MyWebScraper(),
     );
   }
 }

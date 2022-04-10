@@ -75,7 +75,7 @@ Playlist URLs: <br>
 50. [Just Audio](/lib/50_just_audio/just_audio.dart) > check the code
 51. [Persistent Bottom Nav Bar](/lib/51_persistent_bottom_nav_bar/bottom_nav_bar.dart) > check the code
 52. [Equatable](/lib/52_equatable/equatable.dart) > class User extends Equatable > List< Object?> get props => [name, urlImage];
-
+53. [Web Scraper](/lib/53_web_scraper/web_scraper.dart) > read documentation
 ## Table of Contents:
 
 <table align="center" style="margin: 0px auto;">
@@ -396,5 +396,11 @@ Playlist URLs: <br>
     <td><a href="lib/52_equatable/equatable.dart">Equatable</a></td>
     <td><a href="https://pub.dev/packages/equatable" target="_blank">equatable: ^2.0.3</a></td>
     <td><img align="right" src="screenshots/52_equatable.png" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>53</td>
+    <td><a href="lib/53_web_scraper/web_scraper.dart">Web Scraper</a></td>
+    <td><a href="https://pub.dev/packages/web_scraper" target="_blank">web_scraper: ^0.1.4</a></td>
+    <td><img align="right" src="screenshots/53_web_scraper.gif" height="350"></img></td>
   </tr>
 </table>
