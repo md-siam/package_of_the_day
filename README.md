@@ -13,7 +13,7 @@ Playlist URLs: <br>
 [YouTube: image_picker](https://www.youtube.com/watch?v=MSv38jO4EJk)<br>
 [YouTube: shimmer](https://www.youtube.com/watch?v=yhABSANrsNc)<br>
 [YouTube: shared_preferences](https://www.youtube.com/watch?v=5hQNFQ3y6UY)<br>
-[YouTube: goelocator](https://www.youtube.com/watch?v=04U6xRK8bjg)<br>
+[YouTube: geolocator](https://www.youtube.com/watch?v=04U6xRK8bjg)<br>
 [YouTube: url_launcher](https://www.youtube.com/watch?v=dofN2lqEQ3w)<br>
 [YouTube: webview_flutter](https://www.youtube.com/watch?v=LyAwnwvbBKM)<br>
 [YouTube: video_player](https://www.youtube.com/watch?v=uz4xRnE-UIw)<br>

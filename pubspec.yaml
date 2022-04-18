@@ -131,8 +131,6 @@ dependencies:
   equatable: ^2.0.3
   # For web scraping
   web_scraper: ^0.1.4
-  # For localization facilities, date/number formatting and parsing
-  intl: ^0.17.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
