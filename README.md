@@ -18,6 +18,7 @@ Playlist URLs: <br>
 [YouTube: webview_flutter](https://www.youtube.com/watch?v=LyAwnwvbBKM)<br>
 [YouTube: video_player](https://www.youtube.com/watch?v=uz4xRnE-UIw)<br>
 [YouTube: responsive_framework](https://www.youtube.com/watch?v=bXwK1Lrfihw&t=871s)<br>
+[YouTube: introduction_screen](https://www.youtube.com/watch?v=CQlA2p--oEg)<br>
 
 ## Packages List:
 
@@ -76,6 +77,8 @@ Playlist URLs: <br>
 51. [Persistent Bottom Nav Bar](/lib/51_persistent_bottom_nav_bar/bottom_nav_bar.dart) > check the code
 52. [Equatable](/lib/52_equatable/equatable.dart) > class User extends Equatable > List< Object?> get props => [name, urlImage];
 53. [Web Scraper](/lib/53_web_scraper/web_scraper.dart) > read documentation
+54. [Introduction Screen](/lib/54_introduction_screen/onbording_screen.dart) > next > done > onDone > pages
+
 ## Table of Contents:
 
 <table align="center" style="margin: 0px auto;">
@@ -402,5 +405,11 @@ Playlist URLs: <br>
     <td><a href="lib/53_web_scraper/web_scraper.dart">Web Scraper</a></td>
     <td><a href="https://pub.dev/packages/web_scraper" target="_blank">web_scraper: ^0.1.4</a></td>
     <td><img align="right" src="screenshots/53_web_scraper.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>54</td>
+    <td><a href="lib/54_introduction_screen/onbording_screen.dart">Introduction Screen</a></td>
+    <td><a href="https://pub.dev/packages/introduction_screen" target="_blank">introduction_screen: ^3.0.2</a></td>
+    <td><img align="right" src="screenshots/54_introduction_screen.gif" height="350"></img></td>
   </tr>
 </table>

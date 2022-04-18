@@ -131,6 +131,8 @@ dependencies:
   equatable: ^2.0.3
   # For web scraping
   web_scraper: ^0.1.4
+  # For onboarding UI screen
+  introduction_screen: ^3.0.2
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -165,6 +167,7 @@ flutter:
     - assets/images/foods/
     - assets/images/background/
     - assets/videos/
+    - assets/images/introduction_screen/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see

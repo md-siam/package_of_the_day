@@ -72,7 +72,8 @@ class MyApp extends StatelessWidget {
       //home: const MyJustAudio(),
       //home: const MyPersistentBottomNavBar(),
       //home: const MyEquatable(),
-      home: const MyWebScraper(),
+      //home: const MyWebScraper(),
+      home: const MyIntroductionScreen(),
     );
   }
 }
