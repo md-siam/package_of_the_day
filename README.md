@@ -19,6 +19,7 @@ Playlist URLs: <br>
 [YouTube: video_player](https://www.youtube.com/watch?v=uz4xRnE-UIw)<br>
 [YouTube: responsive_framework](https://www.youtube.com/watch?v=bXwK1Lrfihw&t=871s)<br>
 [YouTube: introduction_screen](https://www.youtube.com/watch?v=CQlA2p--oEg)<br>
+[YouTube: confetti](https://www.youtube.com/watch?v=lowMUJI5iP4)<br>
 
 ## Packages List:
 
@@ -80,6 +81,7 @@ Playlist URLs: <br>
 54. [Introduction Screen](/lib/54_introduction_screen/onbording_screen.dart) > next > done > onDone > pages
 55. [Cube Transition Plus](/lib/55_cube_transition_plus/cube_transition_plus.dart) > Navigator.of(context).push > CubePageRoute() > enterPage: const SecondScreen() > exitPage: this > duration: const Duration(milliseconds: 900)
 56. [Horizontal Data Table](/lib/56_horizontal_data_table/horizontal_data_table.dart) > read code
+57. [Confetti](/lib/57_confetti/confetti.dart) > bool isPlaying = false > final controller = ConfettiController()
 
 ## Table of Contents:
 
@@ -425,5 +427,11 @@ Playlist URLs: <br>
     <td><a href="lib/56_horizontal_data_table/horizontal_data_table.dart">Horizontal Data Table</a></td>
     <td><a href="https://pub.dev/packages/horizontal_data_table" target="_blank">horizontal_data_table: ^3.6.1+1</a></td>
     <td><img align="right" src="screenshots/56_horizontal_data_table.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>57</td>
+    <td><a href="lib/57_confetti/confetti.dart">Confetti</a></td>
+    <td><a href="https://pub.dev/packages/confetti" target="_blank">confetti: ^0.6.0</a></td>
+    <td><img align="right" src="screenshots/57_confetti.gif" height="350"></img></td>
   </tr>
 </table>

@@ -75,7 +75,8 @@ class MyApp extends StatelessWidget {
       //home: const MyWebScraper(),
       //home: const MyIntroductionScreen(),
       //home: const MyCubeTransitionPlus(),
-      home: const MyHorizontalDataTable(),
+      //home: const MyHorizontalDataTable(),
+      home: const MyConfetti(),
     );
   }
 }

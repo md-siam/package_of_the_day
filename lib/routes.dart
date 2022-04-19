@@ -61,3 +61,4 @@ export '53_web_scraper/web_scraper.dart';
 export '54_introduction_screen/introduction_screen.dart';
 export '55_cube_transition_plus/cube_transition_plus.dart';
 export '56_horizontal_data_table/horizontal_data_table.dart';
+export '57_confetti/confetti.dart';
