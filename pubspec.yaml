@@ -135,6 +135,8 @@ dependencies:
   introduction_screen: ^3.0.2
   # For cube page transition
   cube_transition_plus: ^2.0.1
+  # For horizontal data table
+  horizontal_data_table: ^3.6.1+1
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

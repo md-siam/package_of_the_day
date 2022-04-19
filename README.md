@@ -79,6 +79,7 @@ Playlist URLs: <br>
 53. [Web Scraper](/lib/53_web_scraper/web_scraper.dart) > read documentation
 54. [Introduction Screen](/lib/54_introduction_screen/onbording_screen.dart) > next > done > onDone > pages
 55. [Cube Transition Plus](/lib/55_cube_transition_plus/cube_transition_plus.dart) > Navigator.of(context).push > CubePageRoute() > enterPage: const SecondScreen() > exitPage: this > duration: const Duration(milliseconds: 900)
+56. [Horizontal Data Table](/lib/56_horizontal_data_table/horizontal_data_table.dart) > read code
 
 ## Table of Contents:
 
@@ -418,5 +419,11 @@ Playlist URLs: <br>
     <td><a href="lib/55_cube_transition_plus/cube_transition_plus.dart">Cube Transition Plus</a></td>
     <td><a href="https://pub.dev/packages/cube_transition_plus" target="_blank">cube_transition_plus: ^2.0.1</a></td>
     <td><img align="right" src="screenshots/55_cube_transition_plus.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>56</td>
+    <td><a href="lib/56_horizontal_data_table/horizontal_data_table.dart">Horizontal Data Table</a></td>
+    <td><a href="https://pub.dev/packages/horizontal_data_table" target="_blank">horizontal_data_table: ^3.6.1+1</a></td>
+    <td><img align="right" src="screenshots/56_horizontal_data_table.gif" height="350"></img></td>
   </tr>
 </table>
