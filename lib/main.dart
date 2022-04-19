@@ -73,7 +73,8 @@ class MyApp extends StatelessWidget {
       //home: const MyPersistentBottomNavBar(),
       //home: const MyEquatable(),
       //home: const MyWebScraper(),
-      home: const MyIntroductionScreen(),
+      //home: const MyIntroductionScreen(),
+      home: const MyCubeTransitionPlus(),
     );
   }
 }

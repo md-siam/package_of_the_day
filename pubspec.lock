@@ -127,6 +127,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.17.1"
+  cube_transition_plus:
+    dependency: "direct main"
+    description:
+      name: cube_transition_plus
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.1"
   cupertino_icons:
     dependency: "direct main"
     description:

@@ -59,3 +59,4 @@ export '51_persistent_bottom_nav_bar/persistent_bottom_nav_bar.dart';
 export '52_equatable/equatable.dart';
 export '53_web_scraper/web_scraper.dart';
 export '54_introduction_screen/introduction_screen.dart';
+export '55_cube_transition_plus/cube_transition_plus.dart';
