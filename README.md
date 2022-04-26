@@ -82,6 +82,7 @@ Playlist URLs: <br>
 55. [Cube Transition Plus](/lib/55_cube_transition_plus/cube_transition_plus.dart) > Navigator.of(context).push > CubePageRoute() > enterPage: const SecondScreen() > exitPage: this > duration: const Duration(milliseconds: 900)
 56. [Horizontal Data Table](/lib/56_horizontal_data_table/horizontal_data_table.dart) > read code
 57. [Confetti](/lib/57_confetti/confetti.dart) > bool isPlaying = false > final controller = ConfettiController()
+58. [Chewie](/lib/58_chewie/chewie_player.dart) > final VideoPlayerController videoPlayerController > final bool looping > late ChewieController \_chewieController > Chewie(controller: \_chewieController,)
 
 ## Table of Contents:
 
@@ -433,5 +434,14 @@ Playlist URLs: <br>
     <td><a href="lib/57_confetti/confetti.dart">Confetti</a></td>
     <td><a href="https://pub.dev/packages/confetti" target="_blank">confetti: ^0.6.0</a></td>
     <td><img align="right" src="screenshots/57_confetti.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>58</td>
+    <td><a href="lib/58_chewie/chewie_player.dart">Chewie</a></td>
+    <td>
+    <a href="https://pub.dev/packages/chewie" target="_blank">chewie: ^1.3.2</a><br>
+    <a href="https://pub.dev/packages/video_player" target="_blank">video_player: ^2.4.0</a>
+    </td>
+    <td><img align="right" src="screenshots/58_chewie.gif" height="350"></img></td>
   </tr>
 </table>
