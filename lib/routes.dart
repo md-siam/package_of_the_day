@@ -64,3 +64,4 @@ export '56_horizontal_data_table/horizontal_data_table.dart';
 export '57_confetti/confetti.dart';
 export '58_chewie/chewie.dart';
 export '59_get_it/get_it.dart';
+export '60_overlay_support/overlay_support.dart';

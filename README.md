@@ -84,6 +84,7 @@ Playlist URLs: <br>
 57. [Confetti](/lib/57_confetti/confetti.dart) > bool isPlaying = false > final controller = ConfettiController()
 58. [Chewie](/lib/58_chewie/chewie_player.dart) > final VideoPlayerController videoPlayerController > final bool looping > late ChewieController \_chewieController > Chewie(controller: \_chewieController,)
 59. [Get It](/lib/59_get_it/get_it.dart) > GetIt getIt = GetIt.instance > getIt.registerSingleton< AppModel>(AppModelImplementation(), signalsReady: true) > FutureBuilder > future: getIt.allReady()
+60. [Overlay Support](/lib/60_overlay_support/overlay_support.dart) > showSimpleNotification() > Text("simple notification") > background: Colors.green
 
 ## Table of Contents:
 
@@ -452,5 +453,13 @@ Playlist URLs: <br>
     <a href="https://pub.dev/packages/get_it" target="_blank">get_it: ^7.2.0</a><br>
     </td>
     <td><img align="right" src="screenshots/59_get_it.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>60</td>
+    <td><a href="lib/60_overlay_support/overlay_support.dart">Overlay Support</a></td>
+    <td>
+    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^1.2.1</a><br>
+    </td>
+    <td><img align="right" src="screenshots/60_overlay_support.gif" height="350"></img></td>
   </tr>
 </table>
