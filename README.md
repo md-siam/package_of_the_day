@@ -20,6 +20,7 @@ Playlist URLs: <br>
 [YouTube: responsive_framework](https://www.youtube.com/watch?v=bXwK1Lrfihw&t=871s)<br>
 [YouTube: introduction_screen](https://www.youtube.com/watch?v=CQlA2p--oEg)<br>
 [YouTube: confetti](https://www.youtube.com/watch?v=lowMUJI5iP4)<br>
+[YouTube: connectivity_plus](https://www.youtube.com/watch?v=_DaLGGzt8Hc)<br>
 
 ## Packages List:
 
@@ -85,6 +86,7 @@ Playlist URLs: <br>
 58. [Chewie](/lib/58_chewie/chewie_player.dart) > final VideoPlayerController videoPlayerController > final bool looping > late ChewieController \_chewieController > Chewie(controller: \_chewieController,)
 59. [Get It](/lib/59_get_it/get_it.dart) > GetIt getIt = GetIt.instance > getIt.registerSingleton< AppModel>(AppModelImplementation(), signalsReady: true) > FutureBuilder > future: getIt.allReady()
 60. [Overlay Support](/lib/60_overlay_support/overlay_support.dart) > showSimpleNotification() > Text("simple notification") > background: Colors.green
+61. [Connectivity Plus](/lib/61_connectivity_plus/connectivity_plus.dart) > late StreamSubscription subscription > subscription = Connectivity().onConnectivityChanged.listen((result) {showConnectivitySnackBar(context, result);}
 
 ## Table of Contents:
 
@@ -450,7 +452,7 @@ Playlist URLs: <br>
     <td>59</td>
     <td><a href="lib/59_get_it/get_it.dart">Get It</a></td>
     <td>
-    <a href="https://pub.dev/packages/get_it" target="_blank">get_it: ^7.2.0</a><br>
+    <a href="https://pub.dev/packages/get_it" target="_blank">get_it: ^7.2.0</a>
     </td>
     <td><img align="right" src="screenshots/59_get_it.gif" height="350"></img></td>
   </tr>
@@ -458,8 +460,18 @@ Playlist URLs: <br>
     <td>60</td>
     <td><a href="lib/60_overlay_support/overlay_support.dart">Overlay Support</a></td>
     <td>
-    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^1.2.1</a><br>
+    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^1.2.1</a>
     </td>
     <td><img align="right" src="screenshots/60_overlay_support.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>61</td>
+    <td><a href="lib/61_connectivity_plus/connectivity_plus.dart">Connectivity Plus</a>
+    </td>
+    <td>
+    <a href="https://pub.dev/packages/connectivity_plus" target="_blank">connectivity_plus: ^2.3.0</a><br>
+    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^1.2.1</a>
+    </td>
+    <td><img align="right" src="screenshots/61_connectivity_plus.gif" height="350"></img></td>
   </tr>
 </table>

@@ -145,6 +145,8 @@ dependencies:
   get_it: ^7.2.0
   # For In-App notification/snackbar
   overlay_support: ^1.2.1
+  # For discovering network connectivity
+  connectivity_plus: ^2.3.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

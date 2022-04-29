@@ -79,7 +79,8 @@ class MyApp extends StatelessWidget {
       //home: const MyConfetti(),
       //home: const MyChewie(),
       //home: const MyGetIt(),
-      home: const MyOverlaySupport(),
+      //home: const MyOverlaySupport(),
+      home: const MyConnectivityPlus(),
     );
   }
 }
