@@ -83,6 +83,7 @@ Playlist URLs: <br>
 56. [Horizontal Data Table](/lib/56_horizontal_data_table/horizontal_data_table.dart) > read code
 57. [Confetti](/lib/57_confetti/confetti.dart) > bool isPlaying = false > final controller = ConfettiController()
 58. [Chewie](/lib/58_chewie/chewie_player.dart) > final VideoPlayerController videoPlayerController > final bool looping > late ChewieController \_chewieController > Chewie(controller: \_chewieController,)
+59. [Get It](/lib/59_get_it/get_it.dart) > GetIt getIt = GetIt.instance > getIt.registerSingleton< AppModel>(AppModelImplementation(), signalsReady: true) > FutureBuilder > future: getIt.allReady()
 
 ## Table of Contents:
 
@@ -443,5 +444,13 @@ Playlist URLs: <br>
     <a href="https://pub.dev/packages/video_player" target="_blank">video_player: ^2.4.0</a>
     </td>
     <td><img align="right" src="screenshots/58_chewie.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>59</td>
+    <td><a href="lib/59_get_it/get_it.dart">Get It</a></td>
+    <td>
+    <a href="https://pub.dev/packages/get_it" target="_blank">get_it: ^7.2.0</a><br>
+    </td>
+    <td><img align="right" src="screenshots/59_get_it.gif" height="350"></img></td>
   </tr>
 </table>

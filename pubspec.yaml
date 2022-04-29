@@ -141,6 +141,8 @@ dependencies:
   confetti: ^0.6.0
   # For playing video
   chewie: ^1.3.2
+  # For Service Locator
+  get_it: ^7.2.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

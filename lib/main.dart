@@ -77,7 +77,8 @@ class MyApp extends StatelessWidget {
       //home: const MyCubeTransitionPlus(),
       //home: const MyHorizontalDataTable(),
       //home: const MyConfetti(),
-      home: const MyChewie(),
+      //home: const MyChewie(),
+      home: const MyGetIt(),
     );
   }
 }
