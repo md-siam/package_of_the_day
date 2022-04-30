@@ -147,6 +147,8 @@ dependencies:
   overlay_support: ^1.2.1
   # For discovering network connectivity
   connectivity_plus: ^2.3.0
+  # Flutter implementation of React hooks
+  flutter_hooks: ^0.18.3
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

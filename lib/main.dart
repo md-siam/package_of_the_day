@@ -80,7 +80,8 @@ class MyApp extends StatelessWidget {
       //home: const MyChewie(),
       //home: const MyGetIt(),
       //home: const MyOverlaySupport(),
-      home: const MyConnectivityPlus(),
+      //home: const MyConnectivityPlus(),
+      home: const MyFlutterHooks(),
     );
   }
 }
