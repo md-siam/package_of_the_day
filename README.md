@@ -21,6 +21,7 @@ Playlist URLs: <br>
 [YouTube: introduction_screen](https://www.youtube.com/watch?v=CQlA2p--oEg)<br>
 [YouTube: confetti](https://www.youtube.com/watch?v=lowMUJI5iP4)<br>
 [YouTube: connectivity_plus](https://www.youtube.com/watch?v=_DaLGGzt8Hc)<br>
+[YouTube: flutter_hooks](https://www.youtube.com/watch?v=hiqpPKF_fic&t=287s)<br>
 
 ## Packages List:
 
@@ -87,6 +88,7 @@ Playlist URLs: <br>
 59. [Get It](/lib/59_get_it/get_it.dart) > GetIt getIt = GetIt.instance > getIt.registerSingleton< AppModel>(AppModelImplementation(), signalsReady: true) > FutureBuilder > future: getIt.allReady()
 60. [Overlay Support](/lib/60_overlay_support/overlay_support.dart) > showSimpleNotification() > Text("simple notification") > background: Colors.green
 61. [Connectivity Plus](/lib/61_connectivity_plus/connectivity_plus.dart) > late StreamSubscription subscription > subscription = Connectivity().onConnectivityChanged.listen((result) {showConnectivitySnackBar(context, result);}
+62. [Flutter Hooks](/lib/62_flutter_hooks/flutter_hooks.dart) > class MyFlutterHooks extends HookWidget > final usernameController = useTextEditingController() > final passwordController = useTextEditingController()
 
 ## Table of Contents:
 
@@ -473,5 +475,11 @@ Playlist URLs: <br>
     <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^1.2.1</a>
     </td>
     <td><img align="right" src="screenshots/61_connectivity_plus.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>62</td>
+    <td><a href="lib/62_flutter_hooks/flutter_hooks.dart">Flutter Hooks</a></td>
+    <td><a href="https://pub.dev/packages/flutter_hooks" target="_blank">flutter_hooks: ^0.18.3</a></td>
+    <td><img align="right" src="screenshots/62_flutter_hooks.gif" height="350"></img></td>
   </tr>
 </table>
