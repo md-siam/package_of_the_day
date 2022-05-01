@@ -67,3 +67,4 @@ export '59_get_it/get_it.dart';
 export '60_overlay_support/overlay_support.dart';
 export '61_connectivity_plus/connectivity_plus.dart';
 export '62_flutter_hooks/flutter_hooks.dart';
+export '63_path_provider/path_provider.dart';
