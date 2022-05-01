@@ -66,7 +66,7 @@ class MyApp extends StatelessWidget {
       //home: const MyUrlLauncher(),
       //home: MyWebviewFlutter(),
       //home: const MyResponsiveSizer(),      // run on `Chrome`
-      //home: const MyVideoPlayer(),
+      home: const MyVideoPlayer(),
       //home: const MyResponsiveFramework(),   // run on `Chrome`
       //home: const MyTimelines(),
       //home: const MyJustAudio(),
@@ -81,7 +81,7 @@ class MyApp extends StatelessWidget {
       //home: const MyGetIt(),
       //home: const MyOverlaySupport(),
       //home: const MyConnectivityPlus(),
-      home: const MyFlutterHooks(),
+      //home: const MyFlutterHooks(),
     );
   }
 }
