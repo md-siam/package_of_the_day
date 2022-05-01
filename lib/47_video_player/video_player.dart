@@ -20,6 +20,11 @@ class MyVideoPlayer extends StatelessWidget {
             isMute: false,
             videoPlayerController: VideoPlayerController.network(
               'https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4',
+
+              /// Set `mixWithOthers: true` for playing multiple videos
+              /// simultaneously
+              ///
+              videoPlayerOptions: VideoPlayerOptions(mixWithOthers: true),
             ),
           ),
           const SizedBox(height: 30),
@@ -28,6 +33,7 @@ class MyVideoPlayer extends StatelessWidget {
             isMute: true,
             videoPlayerController: VideoPlayerController.asset(
               'assets/videos/bullfinch.mp4',
+              videoPlayerOptions: VideoPlayerOptions(mixWithOthers: true),
             ),
           ),
         ],
