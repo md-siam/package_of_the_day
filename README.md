@@ -103,7 +103,13 @@ Playlist URLs: <br>
   <tr>
     <td>1</td>
     <td><a href="/lib/1_avatar_glow/avatarglow.dart">Avatar Glow</a></td>
-    <td><a href="https://pub.dev/packages/avatar_glow" target="_blank">avatar_glow: ^2.0.2</a></td>
+    <td>
+    <div style="position: relative">
+    <a href="https://pub.dev/packages/avatar_glow" target="_blank">avatar_glow: ^2.0.2</a>
+    <div style="position: absolute; top: 8px; right: 16px; font-size: 18px;">Top
+    </div>
+    </div>
+    </td>
     <td><img align="right" src="screenshots/1_avatar_glow.gif" height="350"></img></td>
   </tr>
   <tr>
