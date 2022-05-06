@@ -105,11 +105,13 @@ Playlist URLs: <br>
     <td><a href="/lib/1_avatar_glow/avatarglow.dart">Avatar Glow</a></td>
     <td>
     <div style="position: relative">
-    <a href="https://pub.dev/packages/avatar_glow" target="_blank">avatar_glow: ^2.0.2</a>
-    <div style="position: absolute; top: 8px; right: 16px; font-size: 18px;">Top
-    </div>
+    <img align="right" src="screenshots/1_avatar_glow.gif" height="350"></img>
+    <!-- <a href="https://pub.dev/packages/avatar_glow" target="_blank">avatar_glow: ^2.0.2</a> -->
+    <div style="position: absolute; top: 8px; right: 16px; font-size: 18px;">
+    <img align="right" src="screenshots/flutter_ favorite_badges/FlutterFavoriteLogo.png" width="30">
     </div>
     </td>
+    </div>
     <td><img align="right" src="screenshots/1_avatar_glow.gif" height="350"></img></td>
   </tr>
   <tr>
