@@ -82,7 +82,8 @@ class MyApp extends StatelessWidget {
       //home: const MyOverlaySupport(),
       //home: const MyConnectivityPlus(),
       //home: const MyFlutterHooks(),
-      home: const MyPathProvider(),
+      //home: const MyPathProvider(),
+      home: const MyPermissionHandler(),
     );
   }
 }
