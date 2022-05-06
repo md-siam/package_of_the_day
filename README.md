@@ -94,17 +94,6 @@ Playlist URLs: <br>
 ## Table of Contents:
 
 <table align="center" style="margin: 0px auto;">
-  <style>
-      .container {
-        position: relative;
-      }
-      .topright {
-        position: absolute;
-        top: 8px;
-        right: 16px;
-        font-size: 18px;
-      }
-  </style>
   <tr>
     <th>No.</th>
     <th>Name of the Package</th>
