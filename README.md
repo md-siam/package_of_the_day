@@ -103,9 +103,8 @@ Playlist URLs: <br>
   <tr>
     <td>1</td>
     <td><a href="/lib/1_avatar_glow/avatarglow.dart">Avatar Glow</a></td>
-    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    <img src="screenshots/flutter_ favorite_badges/flutter_favorite.png" width="58"><br><br><br><br>
-    <a href="https://pub.dev/packages/avatar_glow" target="_blank">avatar_glow: ^2.0.2</a><br><br><br><br><br><br><br><br>
+    <td>
+    <a href="https://pub.dev/packages/avatar_glow" target="_blank">avatar_glow: ^2.0.2</a>
     </td>
     <td><img align="right" src="screenshots/1_avatar_glow.gif" height="350"></img></td>
   </tr>
@@ -142,10 +141,13 @@ Playlist URLs: <br>
     <td><a href="https://pub.dev/packages/smooth_page_indicator" target="_blank">smooth_page_indicator: ^1.0.0+2</a></td>
     <td><img align="right" src="screenshots/6_smooth_page_indicator.gif" height="350"></img></td>
   </tr>
-    <tr>
+  <tr>
     <td>7</td>
     <td><a href="/lib/7_font_awesome_flutter/font_awesome_flutter.dart">Font Awesome Flutter</a></td>
-    <td><a href="https://pub.dev/packages/font_awesome_flutter" target="_blank">font_awesome_flutter: ^9.2.0</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_ favorite_badges/flutter_favorite.png" width="58"><br><br><br><br>
+    <a href="https://pub.dev/packages/font_awesome_flutter" target="_blank">font_awesome_flutter: ^9.2.0</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="right" src="screenshots/7_font_awesome_flutter.png" height="350"></img></td>
   </tr>
   <tr>
