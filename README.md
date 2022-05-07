@@ -509,7 +509,7 @@ Playlist URLs: <br>
     <td>61</td>
     <td><a href="lib/61_connectivity_plus/connectivity_plus.dart">Connectivity Plus</a>
     </td>
-    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
     <a href="https://pub.dev/packages/connectivity_plus" target="_blank">connectivity_plus: ^2.3.0</a><br>
     <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^1.2.1</a><br><br><br><br><br><br><br><br>
@@ -525,7 +525,7 @@ Playlist URLs: <br>
   <tr>
     <td>63</td>
     <td><a href="lib/63_path_provider/path_provider.dart">Path Provider</a></td>
-    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
     <a href="https://pub.dev/packages/path_provider" target="_blank">path_provider: ^2.0.9</a><br><br><br><br><br><br><br><br>
     </td>
