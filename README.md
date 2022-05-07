@@ -183,7 +183,10 @@ Playlist URLs: <br>
   <tr>
     <td>13</td>
     <td><a href="/lib/13_flutter_SVG/flutter_svg.dart">Flutter SVG</a></td>
-    <td><a href="https://pub.dev/packages/flutter_svg" target="_blank">flutter_svg: ^1.0.0</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/flutter_svg" target="_blank">flutter_svg: ^1.0.0</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="right" src="screenshots/13_flutter_svg.png" height="350"></img></td>
   </tr>
   <tr>
@@ -237,7 +240,9 @@ Playlist URLs: <br>
   <tr>
     <td>22</td>
     <td><a href="/lib/22_go_router/go_router.dart">Go Router</a></td>
-    <td><a href="https://pub.dev/packages/go_router" target="_blank">go_router: ^3.0.1</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/go_router" target="_blank">go_router: ^3.0.1</a></td><br><br><br><br><br><br><br><br>
     <td><img align="right" src="screenshots/22_go_router.gif" height="350"></img></td>
   </tr>
   <tr>
