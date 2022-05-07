@@ -429,7 +429,10 @@ Playlist URLs: <br>
   <tr>
     <td>50</td>
     <td><a href="lib/50_just_audio/just_audio.dart">Just Audio</a></td>
-    <td><a href="https://pub.dev/packages/just_audio" target="_blank">just_audio: ^0.9.20</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/just_audio" target="_blank">just_audio: ^0.9.20</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="right" src="screenshots/50_just_audio.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -503,9 +506,10 @@ Playlist URLs: <br>
     <td>61</td>
     <td><a href="lib/61_connectivity_plus/connectivity_plus.dart">Connectivity Plus</a>
     </td>
-    <td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
     <a href="https://pub.dev/packages/connectivity_plus" target="_blank">connectivity_plus: ^2.3.0</a><br>
-    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^1.2.1</a>
+    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^1.2.1</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="right" src="screenshots/61_connectivity_plus.gif" height="350"></img></td>
   </tr>
@@ -518,7 +522,10 @@ Playlist URLs: <br>
   <tr>
     <td>63</td>
     <td><a href="lib/63_path_provider/path_provider.dart">Path Provider</a></td>
-    <td><a href="https://pub.dev/packages/path_provider" target="_blank">path_provider: ^2.0.9</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/path_provider" target="_blank">path_provider: ^2.0.9</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="right" src="screenshots/63_path_provider.gif" height="350"></img></td>
   </tr>
 </table>
