@@ -111,7 +111,7 @@ Playlist URLs: <br>
   <tr>
     <td>2</td>
     <td><a href="/lib/2_google_fonts/googlefonts.dart">Google Fonts</a></td>
-    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
     <a href="https://pub.dev/packages/google_fonts" target="_blank">google_fonts: ^2.1.0</a><br><br><br><br><br><br><br><br>
     </td>
