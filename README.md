@@ -351,7 +351,10 @@ Playlist URLs: <br>
   <tr>
     <td>39</td>
     <td><a href="lib/39_shared_preferences/shared_preferences.dart">Shared Preferences</a></td>
-    <td><a href="https://pub.dev/packages/shared_preferences" target="_blank">shared_preferences: ^2.0.13</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/shared_preferences" target="_blank">shared_preferences: ^2.0.13</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="right" src="screenshots/39_shared_preferences.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -363,13 +366,19 @@ Playlist URLs: <br>
   <tr>
     <td>41</td>
     <td><a href="lib/41_device_info_plus/device_info_plus.dart">Device Info Plus</a></td>
-    <td><a href="https://pub.dev/packages/device_info_plus" target="_blank">device_info_plus: ^3.2.2</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/device_info_plus" target="_blank">device_info_plus: ^3.2.2</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="right" src="screenshots/41_device_info_plus.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>42</td>
     <td><a href="lib/42_geolocator/geolocator.dart">Geolocator</a></td>
-    <td><a href="https://pub.dev/packages/geolocator" target="_blank">geolocator: ^8.2.0</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/geolocator" target="_blank">geolocator: ^8.2.0</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="right" src="screenshots/42_geolocator.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -381,7 +390,10 @@ Playlist URLs: <br>
   <tr>
     <td>44</td>
     <td><a href="lib/44_url_launcher/url_launcher.dart">URL Launcher</a></td>
-    <td><a href="https://pub.dev/packages/url_launcher" target="_blank">url_launcher: ^6.0.20</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/url_launcher" target="_blank">url_launcher: ^6.0.20</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="right" src="screenshots/44_url_launcher.gif" height="350"></img></td>
   </tr>
   <tr>
