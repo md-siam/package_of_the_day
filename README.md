@@ -145,7 +145,7 @@ Playlist URLs: <br>
     <td>7</td>
     <td><a href="/lib/7_font_awesome_flutter/font_awesome_flutter.dart">Font Awesome Flutter</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    <img src="screenshots/flutter_ favorite_badges/flutter_favorite.png" width="58"><br><br><br><br>
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
     <a href="https://pub.dev/packages/font_awesome_flutter" target="_blank">font_awesome_flutter: ^9.2.0</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="right" src="screenshots/7_font_awesome_flutter.png" height="350"></img></td>
