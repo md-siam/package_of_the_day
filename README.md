@@ -300,7 +300,10 @@ Playlist URLs: <br>
   <tr>
     <td>31</td>
     <td><a href="lib/31_flutter_swipable/flutter_swipable.dart">Flutter Swipable</a></td>
-    <td><a href="https://pub.dev/packages/flutter_swipable" target="_blank">flutter_swipable: ^1.2.1</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/discontinued_badge/discontinued_badge.png" height="65"><br><br><br><br><br>
+    <a href="https://pub.dev/packages/flutter_swipable" target="_blank">flutter_swipable: ^1.2.1</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="right" src="screenshots/31_flutter_swipable.gif" height="350"></img></td>
   </tr>
   <tr>
