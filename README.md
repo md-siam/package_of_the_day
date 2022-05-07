@@ -285,7 +285,7 @@ Playlist URLs: <br>
   <tr>
     <td>29</td>
     <td><a href="lib/29_provider/my_provider.dart">Provider</a></td>
-    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
     <a href="https://pub.dev/packages/provider" target="_blank">provider: ^6.0.2</a><br><br><br><br><br><br><br><br>
     </td>
