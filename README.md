@@ -91,8 +91,9 @@ Playlist URLs: <br>
 61. [Connectivity Plus](/lib/61_connectivity_plus/connectivity_plus.dart) > late StreamSubscription subscription > subscription = Connectivity().onConnectivityChanged.listen((result) {showConnectivitySnackBar(context, result);}
 62. [Flutter Hooks](/lib/62_flutter_hooks/flutter_hooks.dart) > class MyFlutterHooks extends HookWidget > final usernameController = useTextEditingController() > final passwordController = useTextEditingController()
 63. [Path Provider](/lib/63_path_provider/path_provider.dart) > Directory tempDir = await getTemporaryDirectory(); > await getApplicationDocumentsDirectory();
-64. [Youtube Player Iframe](/lib/64_youtube_player_iframe/youtube_player_iframe.dart) > late YoutubePlayerController \_controller > \_controller = YoutubePlayerController()
-65. [Flutter Slidable](/lib/65_flutter_slidable/flutter_slidable.dart) > Read code
+64. [Youtube Player Flutter](/lib/64_youtube_player_flutter/youtube_player_flutter.dart) > Read code
+65. [Youtube Player Iframe](/lib/65_youtube_player_iframe/youtube_player_iframe.dart) > late YoutubePlayerController \_controller > \_controller = YoutubePlayerController()
+66. [Flutter Slidable](/lib/66_flutter_slidable/flutter_slidable.dart) > Read code
 
 ## Table of Contents:
 
@@ -536,17 +537,23 @@ Playlist URLs: <br>
   </tr>
   <tr>
     <td>64</td>
-    <td><a href="lib/64_youtube_player_iframe/youtube_player_iframe.dart">Youtube Player Iframe</a></td>
-    <td><a href="https://pub.dev/packages/youtube_player_iframe" target="_blank">youtube_player_iframe: ^2.2.2</a></td>
-    <td><img align="center" src="screenshots/64_youtube_player_iframe.gif" height="350"></img></td>
+    <td><a href="lib/64_youtube_player_flutter/youtube_player_flutter.dart">Youtube Player Flutter</a></td>
+    <td><a href="https://pub.dev/packages/youtube_player_flutter" target="_blank">youtube_player_flutter: ^8.0.0</a></td>
+    <td><img align="center" src="screenshots/64_youtube_player_flutter.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>65</td>
-    <td><a href="lib/65_flutter_slidable/flutter_slidable.dart">Flutter Slidable</a></td>
+    <td><a href="lib/65_youtube_player_iframe/youtube_player_iframe.dart">Youtube Player Iframe</a></td>
+    <td><a href="https://pub.dev/packages/youtube_player_iframe" target="_blank">youtube_player_iframe: ^2.2.2</a></td>
+    <td><img align="center" src="screenshots/65_youtube_player_iframe.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>66</td>
+    <td><a href="lib/66_flutter_slidable/flutter_slidable.dart">Flutter Slidable</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
     <a href="https://pub.dev/packages/flutter_slidable" target="_blank">flutter_slidable: ^1.2.0</a><br><br><br><br><br><br><br><br>
     </td>
-    <td><img align="center" src="screenshots/65_flutter_slidable.gif" height="350"></img></td>
+    <td><img align="center" src="screenshots/66_flutter_slidable.gif" height="350"></img></td>
   </tr>
 </table>

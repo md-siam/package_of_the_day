@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:package_of_the_day/64_youtube_player_iframe/youtube_player.dart';
+import 'youtube_player.dart';
 
 class MyYoutubePlayerIframe extends StatelessWidget {
   const MyYoutubePlayerIframe({Key? key}) : super(key: key);
