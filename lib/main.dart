@@ -83,9 +83,9 @@ class MyApp extends StatelessWidget {
       //home: const MyConnectivityPlus(),
       //home: const MyFlutterHooks(),
       //home: const MyPathProvider(),
-      home: const MyYoutubePlayerFlutter(),
+      //home: const MyYoutubePlayerFlutter(),
       //home: const MyYoutubePlayerIframe(),
-      //home: const MyFlutterSlidable(),
+      home: const MyFlutterSlidable(),
     );
   }
 }

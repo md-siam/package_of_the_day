@@ -91,7 +91,7 @@ Playlist URLs: <br>
 61. [Connectivity Plus](/lib/61_connectivity_plus/connectivity_plus.dart) > late StreamSubscription subscription > subscription = Connectivity().onConnectivityChanged.listen((result) {showConnectivitySnackBar(context, result);}
 62. [Flutter Hooks](/lib/62_flutter_hooks/flutter_hooks.dart) > class MyFlutterHooks extends HookWidget > final usernameController = useTextEditingController() > final passwordController = useTextEditingController()
 63. [Path Provider](/lib/63_path_provider/path_provider.dart) > Directory tempDir = await getTemporaryDirectory(); > await getApplicationDocumentsDirectory();
-64. [Youtube Player Flutter](/lib/64_youtube_player_flutter/youtube_player_flutter.dart) > Read code
+64. [Youtube Player Flutter](/lib/64_youtube_player_flutter/youtube_player_flutter.dart) > late YoutubePlayerController \_controller ? YoutubePlayerBuilder() > player: YoutubePlayer(controller: \_controller) > builder: (context, player) {}
 65. [Youtube Player Iframe](/lib/65_youtube_player_iframe/youtube_player_iframe.dart) > late YoutubePlayerController \_controller > \_controller = YoutubePlayerController()
 66. [Flutter Slidable](/lib/66_flutter_slidable/flutter_slidable.dart) > Read code
 
