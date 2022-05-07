@@ -153,6 +153,8 @@ dependencies:
   path_provider: ^2.0.9
   # For playing YouTube videos
   youtube_player_iframe: ^2.2.2
+  # For implementation of slidable list item
+  flutter_slidable: ^1.2.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
