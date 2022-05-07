@@ -151,8 +151,8 @@ dependencies:
   flutter_hooks: ^0.18.3
   # For locating the filesystem
   path_provider: ^2.0.9
-  # Ask the user for permissions while the app is running
-  permission_handler: ^9.2.0
+  # For playing YouTube videos
+  youtube_player_iframe: ^2.2.2
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
