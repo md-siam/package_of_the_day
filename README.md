@@ -242,7 +242,8 @@ Playlist URLs: <br>
     <td><a href="/lib/22_go_router/go_router.dart">Go Router</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/go_router" target="_blank">go_router: ^3.0.1</a></td><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/go_router" target="_blank">go_router: ^3.0.1</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="right" src="screenshots/22_go_router.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -284,7 +285,10 @@ Playlist URLs: <br>
   <tr>
     <td>29</td>
     <td><a href="lib/29_provider/my_provider.dart">Provider</a></td>
-    <td><a href="https://pub.dev/packages/provider" target="_blank">provider: ^6.0.2</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/provider" target="_blank">provider: ^6.0.2</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="right" src="screenshots/29_provider.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -308,7 +312,10 @@ Playlist URLs: <br>
   <tr>
     <td>33</td>
     <td><a href="lib/33_convex_bottom_bar/convex_bottom_bar.dart">Convex Bottom Bar</a></td>
-    <td><a href="https://pub.dev/packages/convex_bottom_bar" target="_blank">convex_bottom_bar: ^3.0.0</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/convex_bottom_bar" target="_blank">convex_bottom_bar: ^3.0.0</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="right" src="screenshots/33_convex_bottom_bar.gif" height="350"></img></td>
   </tr>
   <tr>
