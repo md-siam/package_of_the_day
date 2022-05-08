@@ -71,6 +71,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.0"
+  card_swiper:
+    dependency: "direct main"
+    description:
+      name: card_swiper
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.3"
   characters:
     dependency: transitive
     description:
@@ -419,13 +426,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.1"
-  flutter_swiper_null_safety:
-    dependency: "direct main"
-    description:
-      name: flutter_swiper_null_safety
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.2"
   flutter_test:
     dependency: "direct dev"
     description: flutter

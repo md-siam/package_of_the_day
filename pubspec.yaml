@@ -43,8 +43,8 @@ dependencies:
   neon: ^0.1.0
   # For Aurora gradient
   aurora: ^1.0.0
-  # For banner swiping effects
-  flutter_swiper_null_safety: ^1.0.2
+  # For card swiping effects
+  card_swiper: ^2.0.3
   # For displaying blur image while loading
   flutter_blurhash: ^0.6.0
   # For  rendering SVG image

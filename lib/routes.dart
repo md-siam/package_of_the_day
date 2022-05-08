@@ -15,7 +15,7 @@ export '7_font_awesome_flutter/font_awesome_flutter.dart';
 export '8_animations/animations.dart';
 export '9_neon/neon.dart';
 export '10_aurora_gradient/aurora.dart';
-export '11_flutter_swiper/flutter_swiper.dart';
+export '11_card_swiper/card_swiper.dart';
 export '12_flutter_blurhash/flutter_blurhash.dart';
 export '13_flutter_SVG/flutter_svg.dart';
 export '14_flutter_custom_clippers/flutter_custom_clippers.dart';

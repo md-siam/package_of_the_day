@@ -36,7 +36,7 @@ Playlist URLs: <br>
 8. [Animations](/lib/8_animations/animations.dart) > Container transform
 9. [Neon](/lib/9_neon/neon.dart) > text > color > fontSize > font: NeonFont.Cyberpunk > flickeringText: true
 10. [Aurora](/lib/10_aurora_gradient/aurora.dart) > backgroundColor: Colors.black > Aurora > size > color list
-11. [Flutter Swiper](/lib/11_flutter_swiper/flutter_swiper.dart) > itemCount > autoplay: true > autoplayDelay > Card <br>
+11. [Card Swiper](/lib/11_card_swiper/card_swiper.dart) > itemCount > autoplay: true > autoplayDelay > Card <br>
     Require a model.dart > BannerImageModel >
 12. [Flutter Blurhash](/lib/12_flutter_blurhash/flutter_blurhash.dart) > BlurHash > hash (String) > image (from network)
 13. [Flutter SVG](/lib/13_flutter_SVG/flutter_svg.dart) > Container > SvgPicture.asset() or SvgPicture.network()
@@ -174,9 +174,9 @@ Playlist URLs: <br>
   </tr>
   <tr>
     <td>11</td>
-    <td><a href="/lib/11_flutter_swiper/flutter_swiper.dart">Flutter Swiper</a></td>
-    <td><a href="https://pub.dev/packages/flutter_swiper_null_safety/example" target="_blank">flutter_swiper_null_safety: ^1.0.2</a></td>
-    <td><img align="center" src="screenshots/11_flutter_swiper.gif" height="350"></img></td>
+    <td><a href="/lib/11_card_swiper/card_swiper.dart">Card Swiper</a></td>
+    <td><a href="https://pub.dev/packages/card_swiper" target="_blank">card_swiper: ^2.0.3</a></td>
+    <td><img align="center" src="screenshots/11_card_swiper.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>12</td>

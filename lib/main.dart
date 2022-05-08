@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
       //home: const MyAnimations(),
       //home: const MyNeonSign(),
       //home: const MyAuroraGradient(),
-      //home: const MySwiperBanner(),
+      home: const MyCardSwiper(),
       //home: const MyBlurhash(),
       //home: const MyFlutterSVG(),
       //home: const MyCustomCliper(),
@@ -85,7 +85,7 @@ class MyApp extends StatelessWidget {
       //home: const MyPathProvider(),
       //home: const MyYoutubePlayerFlutter(),
       //home: const MyYoutubePlayerIframe(),
-      home: const MyFlutterSlidable(),
+      //home: const MyFlutterSlidable(),
     );
   }
 }
