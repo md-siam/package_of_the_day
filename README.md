@@ -283,7 +283,10 @@ Playlist URLs: <br>
   <tr>
     <td>28</td>
     <td><a href="/lib/28_day_night_switcher/day_night_switcher.dart">Day Night Switcher</a></td>
-    <td><a href="https://pub.dev/packages/day_night_switcher" target="_blank">day_night_switcher: ^0.2.0+1</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/bug_badge/bug_badge.png" height="65"><br><br><br><br><br>
+    <a href="https://pub.dev/packages/day_night_switcher" target="_blank">day_night_switcher: ^0.2.0+1</a><br><br><br><br><br><br><br><br>
+    </td>
     <td><img align="center" src="screenshots/28_day_night_switcher_.gif" height="350"></img></td>
   </tr>
   <tr>
