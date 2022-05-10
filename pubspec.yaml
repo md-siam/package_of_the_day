@@ -157,6 +157,8 @@ dependencies:
   youtube_player_iframe: ^2.2.2
   # For implementation of slidable list item
   flutter_slidable: ^1.2.0
+  # For JSON to Dart class generator
+  json_annotation: ^4.5.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -165,6 +167,10 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^1.0.0
+  # It provides a concrete way of generating files using Dart code
+  build_runner: ^2.1.10
+  # Dependency of "json_annotation"
+  json_serializable: ^6.2.0
   flutter_test:
     sdk: flutter
 

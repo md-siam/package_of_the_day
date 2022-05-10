@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
       //home: const MySpinkit(),
       //home: const MyAudioplayer(),
       //home: MyGoRouter(),
-      home: const MyHTTP(),
+      //home: const MyHTTP(),
       //home: MyOnboarding(),
       //home: const MyFlutterNeumorphic(),
       //home: const MyMathExpressions(),
@@ -86,6 +86,7 @@ class MyApp extends StatelessWidget {
       //home: const MyYoutubePlayerFlutter(),
       //home: const MyYoutubePlayerIframe(),
       //home: const MyFlutterSlidable(),
+      home: const MyJSONAnnotation(),
     );
   }
 }

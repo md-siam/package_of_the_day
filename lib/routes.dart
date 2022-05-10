@@ -71,3 +71,4 @@ export '63_path_provider/path_provider.dart';
 export '64_youtube_player_flutter/youtube_player_flutter.dart';
 export '65_youtube_player_iframe/youtube_player_iframe.dart';
 export '66_flutter_slidable/flutter_slidable.dart';
+export '67_json_annotation/json_annotation.dart';

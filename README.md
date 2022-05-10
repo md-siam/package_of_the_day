@@ -23,6 +23,7 @@ Playlist URLs: <br>
 [YouTube: connectivity_plus](https://www.youtube.com/watch?v=_DaLGGzt8Hc)<br>
 [YouTube: flutter_hooks](https://www.youtube.com/watch?v=hiqpPKF_fic&t=287s)<br>
 [YouTube: flutter_slidable](https://www.youtube.com/watch?v=TmSKRUVKNsQ)<br>
+[YouTube: json_annotation](https://www.youtube.com/watch?v=v5xGLrhzDGE)<br>
 
 ## Packages List:
 
@@ -93,7 +94,7 @@ Playlist URLs: <br>
 63. [Path Provider](/lib/63_path_provider/path_provider.dart) > Directory tempDir = await getTemporaryDirectory(); > await getApplicationDocumentsDirectory();
 64. [Youtube Player Flutter](/lib/64_youtube_player_flutter/youtube_player_flutter.dart) > late YoutubePlayerController \_controller ? YoutubePlayerBuilder() > player: YoutubePlayer(controller: \_controller) > builder: (context, player) {}
 65. [Youtube Player Iframe](/lib/65_youtube_player_iframe/youtube_player_iframe.dart) > late YoutubePlayerController \_controller > \_controller = YoutubePlayerController()
-66. [Flutter Slidable](/lib/66_flutter_slidable/flutter_slidable.dart) > Read code
+66. [Flutter Slidable](/lib/66_flutter_slidable/flutter_slidable.dart) > Read code 67.[JSON Annotation](/lib/67_json_annotation/json_annotation.dart) > '$ flutter packages pub run build_runner build' > Read code
 
 ## Table of Contents:
 
@@ -558,5 +559,17 @@ Playlist URLs: <br>
     <a href="https://pub.dev/packages/flutter_slidable" target="_blank">flutter_slidable: ^1.2.0</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/66_flutter_slidable.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>67</td>
+    <td><a href="lib/67_json_annotation/json_annotation.dart">JSON Annotation</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/json_annotation" target="_blank">json_annotation: ^4.5.0</a><br>
+    <a href="https://pub.dev/packages/json_serializable" target="_blank">json_serializable: ^6.2.0</a> [F.F.]<br>
+    <a href="https://pub.dev/packages/build_runner" target="_blank">build_runner: ^2.1.10</a>
+    <br><br><br><br><br><br>
+    </td>
+    <td><img align="center" src="screenshots/67_json_annotation.gif" height="350"></img></td>
   </tr>
 </table>
