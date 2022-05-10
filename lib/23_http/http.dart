@@ -12,28 +12,32 @@ class MyHTTP extends StatefulWidget {
 class _MyHTTPState extends State<MyHTTP> {
   String data = "";
   String title = "";
+  final url = Uri.parse('https://jsonplaceholder.typicode.com/albums/1');
+  bool isLoading = false;
+
   performHTTPRequest() async {
     String output = "";
-    final response = await http
-        .get(Uri.parse('https://jsonplaceholder.typicode.com/albums/1'));
-    print('Statuscode: ${response.statusCode}');
-    //http://192.168.0.27:5500/messages.json
-    if (response.statusCode == 200) {
-      output = response.body;
-      var json = jsonDecode(output);
-      setState(() {
-        data = output;
-        title = json['title'];
-      });
-      print('Body: ${response.body}');
-    } else {
-      throw Exception('Failed to load data');
-    }
-    return output;
-  }
 
-  getHTTPRequestData() {
-    performHTTPRequest();
+    try {
+      final response = await http.get(url);
+      debugPrint('Status code: ${response.statusCode}');
+      //http://192.168.0.27:5500/messages.json
+      if (response.statusCode == 200) {
+        output = response.body;
+        var json = jsonDecode(output);
+        setState(() {
+          data = output;
+          title = json['title'];
+          isLoading = false;
+        });
+        debugPrint('Body: ${response.body}');
+      } else {
+        throw Exception('Failed to load data');
+      }
+      return output;
+    } catch (e) {
+      print(e);
+    }
   }
 
   @override
@@ -48,24 +52,45 @@ class _MyHTTPState extends State<MyHTTP> {
               '::: HTTP Response :::\n',
               style: Theme.of(context).textTheme.headline6,
             ),
-            Text(
-              data,
-              style: const TextStyle(fontSize: 16, color: Colors.teal),
-            ),
+            !isLoading
+                ? Text(
+                    data,
+                    style: const TextStyle(fontSize: 16, color: Colors.teal),
+                  )
+                : const SizedBox(child: CircularProgressIndicator()),
             const SizedBox(height: 60),
             Text(
               '\n::: The JSON title attribute :::\n',
               style: Theme.of(context).textTheme.headline6,
             ),
-            Text(
-              title,
-              style: const TextStyle(fontSize: 16, color: Colors.red),
-            ),
+            !isLoading
+                ? Text(
+                    title,
+                    style: const TextStyle(fontSize: 16, color: Colors.red),
+                  )
+                : const SizedBox(child: CircularProgressIndicator()),
             const SizedBox(height: 70),
             ElevatedButton(
-              onPressed: () => getHTTPRequestData(),
+              onPressed: () async {
+                setState(() => isLoading = true);
+                performHTTPRequest();
+
+                /// if `performHTTPRequest()` is not responding
+                ///
+                await Future.delayed(const Duration(seconds: 3));
+                setState(() => isLoading = false);
+              },
               child: const Text('GET DATA FROM HTTP REQUEST'),
             ),
+            ElevatedButton(
+              child: const Text('RESET'),
+              onPressed: () {
+                setState(() {
+                  data = "";
+                  title = "";
+                });
+              },
+            )
           ],
         ),
       ),
