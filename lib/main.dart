@@ -59,12 +59,12 @@ class MyApp extends StatelessWidget {
       //home: const MyShimmer(),
       //home: const MyLottie(),
       //home: const MySharedPreferences(),
-      home: const MyAutoSizeText(),
+      //home: const MyAutoSizeText(),
       //home: const MyDeviceInfoPlus(),
       //home: const MyGeolocator(),
       //home: const MyGlassKit(),
-      //home: const MyUrlLauncher(),
-      //home: MyWebviewFlutter(),
+      home: const MyUrlLauncher(),
+      //home: const MyWebviewFlutter(),
       //home: const MyResponsiveSizer(),      // run on `Chrome`
       //home: const MyVideoPlayer(),
       //home: const MyResponsiveFramework(),   // run on `Chrome`

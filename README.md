@@ -1,6 +1,7 @@
 <img src="screenshots/badges/built-with-love.svg" height="28px"/>&nbsp;&nbsp;
 <img src="screenshots/badges/flutter-dart.svg" height="28px" />&nbsp;&nbsp;
 <a href="https://choosealicense.com/licenses/mit/" target="_blank"><img src="screenshots/badges/license-MIT.svg" height="28px" /></a>&nbsp;&nbsp;
+<img src="screenshots/badges/Flutter-3.svg" height="28px" />&nbsp;&nbsp;
 <img src="screenshots/badges/dart-null_safety-blue.svg" height="28px"/>
 
 # Package of the Day
@@ -379,7 +380,7 @@ Playlist URLs: <br>
     <td><a href="lib/41_device_info_plus/device_info_plus.dart">Device Info Plus</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/device_info_plus" target="_blank">device_info_plus: ^3.2.2</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/device_info_plus" target="_blank">device_info_plus: ^3.2.3</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/41_device_info_plus.gif" height="350"></img></td>
   </tr>
@@ -388,7 +389,7 @@ Playlist URLs: <br>
     <td><a href="lib/42_geolocator/geolocator.dart">Geolocator</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/geolocator" target="_blank">geolocator: ^8.2.0</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/geolocator" target="_blank">geolocator: ^8.2.1</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/42_geolocator.gif" height="350"></img></td>
   </tr>
@@ -403,32 +404,32 @@ Playlist URLs: <br>
     <td><a href="lib/44_url_launcher/url_launcher.dart">URL Launcher</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/url_launcher" target="_blank">url_launcher: ^6.0.20</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/url_launcher" target="_blank">url_launcher: ^6.1.2</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/44_url_launcher.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>45</td>
     <td><a href="lib/45_webview_flutter/webview_flutter.dart">Webview Flutter</a></td>
-    <td><a href="https://pub.dev/packages/webview_flutter" target="_blank">webview_flutter: ^3.0.1</a></td>
+    <td><a href="https://pub.dev/packages/webview_flutter" target="_blank">webview_flutter: ^3.0.4</a></td>
     <td><img align="center" src="screenshots/45_webview_flutter.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>46</td>
     <td><a href="lib/46_responsive_sizer/responsive_sizer.dart">Responsive Sizer</a></td>
-    <td><a href="https://pub.dev/packages/responsive_sizer" target="_blank">responsive_sizer: ^3.0.5+1</a></td>
+    <td><a href="https://pub.dev/packages/responsive_sizer" target="_blank">responsive_sizer: ^3.0.8</a></td>
     <td><img align="center" src="screenshots/46_responsive_sizer.png" height="350"></img></td>
   </tr>
   <tr>
     <td>47</td>
     <td><a href="lib/47_video_player/video_player.dart">Video Player</a></td>
-    <td><a href="https://pub.dev/packages/video_player" target="_blank">video_player: ^2.2.19</a></td>
+    <td><a href="https://pub.dev/packages/video_player" target="_blank">video_player: ^2.4.2</a></td>
     <td><img align="center" src="screenshots/47_video_player.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>48</td>
     <td><a href="lib/48_responsive_framework/responsive_framework.dart">Responsive Framework</a></td>
-    <td><a href="https://pub.dev/packages/responsive_framework" target="_blank">responsive_framework: ^0.1.7</a></td>
+    <td><a href="https://pub.dev/packages/responsive_framework" target="_blank">responsive_framework: ^0.2.0</a></td>
     <td><img align="center" src="screenshots/48_responsive_framework.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -442,7 +443,7 @@ Playlist URLs: <br>
     <td><a href="lib/50_just_audio/just_audio.dart">Just Audio</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/just_audio" target="_blank">just_audio: ^0.9.20</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/just_audio" target="_blank">just_audio: ^0.9.21</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/50_just_audio.gif" height="350"></img></td>
   </tr>

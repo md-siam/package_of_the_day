@@ -103,28 +103,28 @@ dependencies:
   shared_preferences: ^2.0.15
   # For automatically resizes text to fit perfectly within its bounds
   auto_size_text: ^3.0.0
-  # # For getting device information
-  # device_info_plus: ^3.2.2
-  # # For device geolocation
-  # geolocator: ^8.2.0
-  # # For GlassMorphism UI design
-  # glass_kit: ^2.0.1
-  # # For launching a URL
-  # url_launcher: ^6.0.20
-  # ## For loading and displaying html
-  # webview_flutter: ^3.0.1
-  # # For responsive UI design
-  # responsive_sizer: ^3.0.5+1
-  # # For playing video files
-  # video_player: ^2.2.19
-  # # For responsive design
-  # responsive_framework: ^0.1.7
-  # # For displaying timeline
-  # timelines: ^0.1.0
-  # # For playing audio
-  # just_audio: ^0.9.20
-  # # For audio progress bar
-  # audio_video_progress_bar: ^0.10.0
+  # For getting device information
+  device_info_plus: ^3.2.3
+  # For device geolocation
+  geolocator: ^8.2.1
+  # For GlassMorphism UI design
+  glass_kit: ^2.0.1
+  # For launching a URL
+  url_launcher: ^6.1.2
+  ## For loading and displaying html
+  webview_flutter: ^3.0.4
+  # For responsive UI design
+  responsive_sizer: ^3.0.8
+  # For playing video files
+  video_player: ^2.4.2
+  # For responsive design
+  responsive_framework: ^0.2.0
+  # For displaying timeline
+  timelines: ^0.1.0
+  # For playing audio
+  just_audio: ^0.9.21
+  # For audio progress bar
+  audio_video_progress_bar: ^0.10.0
   # # For bottom nav bar
   # persistent_bottom_nav_bar: ^4.0.2
   # # For comparing objects in Dart
