@@ -15,13 +15,6 @@ class MyFontAwesome extends StatelessWidget {
             Container(
               height: 50,
               width: 50,
-              child: const Center(
-                child: FaIcon(
-                  FontAwesomeIcons.arrowUp,
-                  color: Colors.white,
-                  size: 30,
-                ),
-              ),
               decoration: BoxDecoration(
                 color: Colors.deepPurple[300],
                 borderRadius: BorderRadius.circular(15),
@@ -34,6 +27,13 @@ class MyFontAwesome extends StatelessWidget {
                   ),
                 ],
               ),
+              child: const Center(
+                child: FaIcon(
+                  FontAwesomeIcons.arrowUp,
+                  color: Colors.white,
+                  size: 30,
+                ),
+              ),
             ),
             const SizedBox(height: 50),
             Row(
@@ -42,6 +42,19 @@ class MyFontAwesome extends StatelessWidget {
                 Container(
                   height: 50,
                   width: 50,
+                  decoration: BoxDecoration(
+                    color: Colors.deepPurple[300],
+                    borderRadius: BorderRadius.circular(15),
+                    boxShadow: [
+                      BoxShadow(
+                        color: Colors.grey.withOpacity(0.5),
+                        spreadRadius: 5,
+                        blurRadius: 7,
+                        offset:
+                            const Offset(0, 3), // changes position of shadow
+                      ),
+                    ],
+                  ),
                   child: const Center(
                     child: FaIcon(
                       FontAwesomeIcons.arrowLeft,
@@ -49,6 +62,10 @@ class MyFontAwesome extends StatelessWidget {
                       size: 30,
                     ),
                   ),
+                ),
+                Container(
+                  height: 50,
+                  width: 50,
                   decoration: BoxDecoration(
                     color: Colors.deepPurple[300],
                     borderRadius: BorderRadius.circular(15),
@@ -62,10 +79,6 @@ class MyFontAwesome extends StatelessWidget {
                       ),
                     ],
                   ),
-                ),
-                Container(
-                  height: 50,
-                  width: 50,
                   child: const Center(
                     child: FaIcon(
                       FontAwesomeIcons.arrowDown,
@@ -73,6 +86,10 @@ class MyFontAwesome extends StatelessWidget {
                       size: 30,
                     ),
                   ),
+                ),
+                Container(
+                  height: 50,
+                  width: 50,
                   decoration: BoxDecoration(
                     color: Colors.deepPurple[300],
                     borderRadius: BorderRadius.circular(15),
@@ -86,29 +103,12 @@ class MyFontAwesome extends StatelessWidget {
                       ),
                     ],
                   ),
-                ),
-                Container(
-                  height: 50,
-                  width: 50,
                   child: const Center(
                     child: FaIcon(
                       FontAwesomeIcons.arrowRight,
                       color: Colors.white,
                       size: 30,
                     ),
-                  ),
-                  decoration: BoxDecoration(
-                    color: Colors.deepPurple[300],
-                    borderRadius: BorderRadius.circular(15),
-                    boxShadow: [
-                      BoxShadow(
-                        color: Colors.grey.withOpacity(0.5),
-                        spreadRadius: 5,
-                        blurRadius: 7,
-                        offset:
-                            const Offset(0, 3), // changes position of shadow
-                      ),
-                    ],
                   ),
                 ),
               ],

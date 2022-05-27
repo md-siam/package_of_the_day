@@ -118,20 +118,20 @@ Playlist URLs: <br>
     <td><a href="/lib/2_google_fonts/googlefonts.dart">Google Fonts</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/google_fonts" target="_blank">google_fonts: ^2.1.0</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/google_fonts" target="_blank">google_fonts: ^3.0.1</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/2_google_fonts.png" height="350"></img></td>
   </tr>
   <tr>
     <td>3</td>
     <td><a href="/lib/3_liquid_pull_to_refresh/pull_to_refresh.dart">Liquid Pull To Refresh</a></td>
-    <td><a href="https://pub.dev/packages/liquid_pull_to_refresh" target="_blank">liquid_pull_to_refresh: ^3.0.0</a></td>
+    <td><a href="https://pub.dev/packages/liquid_pull_to_refresh" target="_blank">liquid_pull_to_refresh: ^3.0.1</a></td>
     <td><img align="center" src="screenshots/3_liquid_pull_to_refresh.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>4</td>
     <td><a href="/lib/4_percent_indicator/percent_indicator.dart">Percent Indicator</a></td>
-    <td><a href="https://pub.dev/packages/percent_indicator" target="_blank">percent_indicator: ^3.4.0</a></td>
+    <td><a href="https://pub.dev/packages/percent_indicator" target="_blank">percent_indicator: ^4.2.2</a></td>
     <td><img align="center" src="screenshots/4_percent_indicator.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -151,14 +151,14 @@ Playlist URLs: <br>
     <td><a href="/lib/7_font_awesome_flutter/font_awesome_flutter.dart">Font Awesome Flutter</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/font_awesome_flutter" target="_blank">font_awesome_flutter: ^9.2.0</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/font_awesome_flutter" target="_blank">font_awesome_flutter: ^10.1.0</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/7_font_awesome_flutter.png" height="350"></img></td>
   </tr>
   <tr>
     <td>8</td>
     <td><a href="/lib/8_animations/animations.dart">Animations</a></td>
-    <td><a href="https://pub.dev/packages/animations" target="_blank">animations: ^2.0.2</a></td>
+    <td><a href="https://pub.dev/packages/animations" target="_blank">animations: ^2.0.3</a></td>
     <td><img align="center" src="screenshots/8_animations.gif" height="350"></img></td>
   </tr>
   <tr>
