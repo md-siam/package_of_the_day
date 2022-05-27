@@ -247,7 +247,7 @@ Playlist URLs: <br>
     <td><a href="/lib/22_go_router/go_router.dart">Go Router</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/go_router" target="_blank">go_router: ^3.0.1</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/go_router" target="_blank">go_router: ^3.1.0</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/22_go_router.gif" height="350"></img></td>
   </tr>
@@ -260,7 +260,7 @@ Playlist URLs: <br>
   <tr>
     <td>24</td>
     <td><a href="/lib/24_onboarding/onboarding.dart">Onboarding</a></td>
-    <td><a href="https://pub.dev/packages/onboarding" target="_blank">onboarding: ^2.1.0</a></td>
+    <td><a href="https://pub.dev/packages/onboarding" target="_blank">onboarding: ^3.1.0</a></td>
     <td><img align="center" src="screenshots/24_onboarding.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -295,7 +295,7 @@ Playlist URLs: <br>
     <td><a href="lib/29_provider/my_provider.dart">Provider</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/provider" target="_blank">provider: ^6.0.2</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/provider" target="_blank">provider: ^6.0.3</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/29_provider.gif" height="350"></img></td>
   </tr>

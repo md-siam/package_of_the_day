@@ -63,26 +63,26 @@ dependencies:
   flutter_settings_ui: ^2.0.1
   # For animated loading indicators
   flutter_spinkit: ^5.1.0
-  # # For playing audio files
-  # audioplayers: ^0.20.1
-  # # For easy-to-use navigation
-  # go_router: ^3.0.1
-  # # For making HTTP request
-  # http: ^0.13.4
-  # # For landing page
-  # onboarding: ^2.1.0
-  # # For neumorphic UI design
-  # flutter_neumorphic: ^3.2.0
-  # # For parsing and evaluating mathematical expressions
-  # math_expressions: ^2.3.0
-  # # For modern neumorphic containers
-  # clay_containers: ^0.3.2
-  # # For dark mode switch
-  # day_night_switcher: ^0.2.0+1
-  # # For State-management
-  # provider: ^6.0.2
-  # # For using Feather Icon pack
-  # feather_icons: ^1.2.0
+  # For playing audio files
+  audioplayers: ^0.20.1
+  # For easy-to-use navigation
+  go_router: ^3.1.0
+  # For making HTTP request
+  http: ^0.13.4
+  # For landing page
+  onboarding: ^3.1.0
+  # For neumorphic UI design
+  flutter_neumorphic: ^3.2.0
+  # For parsing and evaluating mathematical expressions
+  math_expressions: ^2.3.0
+  # For modern neumorphic containers
+  clay_containers: ^0.3.2
+  # For dark mode switch
+  day_night_switcher: ^0.2.0+1
+  # For State-management
+  provider: ^6.0.3
+  # For using Feather Icon pack
+  feather_icons: ^1.2.0
   # # For tinder-like swipe card mechanism
   # flutter_swipable: ^1.2.1
   # # For picking images from the image library, and taking new pictures with the camera
