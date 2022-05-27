@@ -59,7 +59,7 @@ Playlist URLs: <br>
 29. [Provider](/lib/29_provider/my_provider.dart) > MultiProvider > ChangeNotifierProvider > create: (\_) => Counter() > child: MyHomePage() <br>
     class Counter with ChangeNotifier > notifyListeners();
 30. [Feather Icons](/lib/30_feather_icons/feather_icons.dart) > Icon(FeatherIcons.aperture)
-31. [Flutter Swipable](/lib/31_flutter_swipable/flutter_swipable.dart) > Swipable > child: Container()
+31. [Simple Gradient Text](/lib/31_simple_gradient_text/simple_gradient_text.dart) > GradientTex() > colors: const []
 32. [Image Picker](/lib/32_image_picker/image_picker.dart) > watch the video, or read the [documentation](https://pub.dev/packages/image_picker) for iOS support.
 33. [Convex Bottom Bar](/lib/33_convex_bottom_bar/convex_bottom_bar.dart) > read the code
 34. [Intro Slider](/lib/34_intro_slider/intro_slider.dart) > read the code
@@ -68,7 +68,7 @@ Playlist URLs: <br>
 37. [Shimmer](/lib/37_shimmer/shimmer.dart) > watch this [video](https://www.youtube.com/watch?v=yhABSANrsNc)
 38. [Lottie](/lib/38_lottie/lottie.dart) > make an animation controller for controlling the state of the animation
 39. [Shared Preferences](/lib/39_shared_preferences/shared_preferences.dart) > watch this [video](https://www.youtube.com/watch?v=5hQNFQ3y6UY)
-40. [Day Night Time Picker](/lib/40_day_night_time_picker/day_night_time_picker.dart) > TimeOfDay \_time = TimeOfDay.now().replacing(hour: 11, minute: 30); > Navigator.of(context).push(showPicker())
+40. [Auto Size Text](/lib/40_auto_size_text/auto_size_text.dart) > AutoSizeText() > minFontSize: 18 > maxLines: 4 > overflow: TextOverflow.ellipsis
 41. [Device Info Plus](/lib/41_device_info_plus/device_info_plus.dart) > deviceInfo() async{} > DeviceInfoPlugin deviceInfo = DeviceInfoPlugin(); > IosDeviceInfo iosInfo = await deviceInfo.iosInfo; > setState((){})
 42. [Geolocator](/lib/42_geolocator/geolocator.dart) > LocationPermission permission > await Geolocator.requestPermission() > Geolocator.getCurrentPosition()
 43. [Glass Kit](/lib/43_glass_kit/glass_kit.dart) > GlassContainer.clearGlass > height > width > child
@@ -307,12 +307,9 @@ Playlist URLs: <br>
   </tr>
   <tr>
     <td>31</td>
-    <td><a href="lib/31_flutter_swipable/flutter_swipable.dart">Flutter Swipable</a></td>
-    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    <img src="screenshots/discontinued_badge/discontinued_badge.png" height="65"><br><br><br><br><br>
-    <a href="https://pub.dev/packages/flutter_swipable" target="_blank">flutter_swipable: ^1.2.1</a><br><br><br><br><br><br><br><br>
-    </td>
-    <td><img align="center" src="screenshots/31_flutter_swipable.gif" height="350"></img></td>
+    <td><a href="lib/31_simple_gradient_text/simple_gradient_text.dart">Simple Gradient Text</a></td>
+    <td><a href="https://pub.dev/packages/simple_gradient_text" target="_blank">simple_gradient_text: ^1.2.3</a></td>
+    <td><img align="center" src="screenshots/31_simple_gradient_text.png" height="350"></img></td>
   </tr>
   <tr>
     <td>32</td>
@@ -370,9 +367,12 @@ Playlist URLs: <br>
   </tr>
   <tr>
     <td>40</td>
-    <td><a href="lib/40_day_night_time_picker/day_night_time_picker.dart">Day Night Time Picker</a></td>
-    <td><a href="https://pub.dev/packages/day_night_time_picker" target="_blank">day_night_time_picker: ^1.0.5</a></td>
-    <td><img align="center" src="screenshots/40_day_night_time_picker.gif" height="350"></img></td>
+    <td><a href="lib/40_auto_size_text/auto_size_text.dart">Auto Size Text</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/auto_size_text" target="_blank">auto_size_text: ^3.0.0</a><br><br><br><br><br><br><br><br>
+    </td>
+    <td><img align="center" src="screenshots/40_auto_size_text.png" height="350"></img></td>
   </tr>
   <tr>
     <td>41</td>
