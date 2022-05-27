@@ -182,7 +182,7 @@ Playlist URLs: <br>
   <tr>
     <td>12</td>
     <td><a href="/lib/12_flutter_blurhash/flutter_blurhash.dart">Flutter BlurHash</a></td>
-    <td><a href="https://pub.dev/packages/flutter_blurhash" target="_blank">flutter_blurhash: ^0.6.0</a></td>
+    <td><a href="https://pub.dev/packages/flutter_blurhash" target="_blank">flutter_blurhash: ^0.7.0</a></td>
     <td><img align="center" src="screenshots/12_flutter_blurhash.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -190,7 +190,7 @@ Playlist URLs: <br>
     <td><a href="/lib/13_flutter_SVG/flutter_svg.dart">Flutter SVG</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/flutter_svg" target="_blank">flutter_svg: ^1.0.0</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/flutter_svg" target="_blank">flutter_svg: ^1.1.0</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/13_flutter_svg.png" height="350"></img></td>
   </tr>
@@ -215,7 +215,7 @@ Playlist URLs: <br>
   <tr>
     <td>17</td>
     <td><a href="/lib/17_syncfusion_flutter_charts/syncfusion_flutter_charts.dart">Syncfusion Charts</a></td>
-    <td><a href="https://pub.dev/packages/syncfusion_flutter_charts" target="_blank">syncfusion_flutter_charts: ^19.4.42</a></td>
+    <td><a href="https://pub.dev/packages/syncfusion_flutter_charts" target="_blank">syncfusion_flutter_charts: ^20.1.57</a></td>
     <td><img align="center" src="screenshots/17_syncfusion_flutter_charts.gif" height="350"></img></td>
   </tr>
   <tr>
