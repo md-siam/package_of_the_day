@@ -314,7 +314,7 @@ Playlist URLs: <br>
   <tr>
     <td>32</td>
     <td><a href="lib/32_image_picker/image_picker.dart">Image Picker</a></td>
-    <td><a href="https://pub.dev/packages/image_picker" target="_blank">image_picker: ^0.8.4+6</a></td>
+    <td><a href="https://pub.dev/packages/image_picker" target="_blank">image_picker: ^0.8.5+3</a></td>
     <td><img align="center" src="screenshots/32_image_picker.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -329,7 +329,7 @@ Playlist URLs: <br>
   <tr>
     <td>34</td>
     <td><a href="lib/34_intro_slider/intro_slider.dart">Intro Slider</a></td>
-    <td><a href="https://pub.dev/packages/intro_slider" target="_blank">intro_slider: ^3.0.3</a></td>
+    <td><a href="https://pub.dev/packages/intro_slider" target="_blank">intro_slider: ^3.0.5</a></td>
     <td><img align="center" src="screenshots/34_intro_slider.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -353,7 +353,7 @@ Playlist URLs: <br>
   <tr>
     <td>38</td>
     <td><a href="lib/38_lottie/lottie.dart">Lottie</a></td>
-    <td><a href="https://pub.dev/packages/lottie" target="_blank">lottie: ^1.2.1</a></td>
+    <td><a href="https://pub.dev/packages/lottie" target="_blank">lottie: ^1.3.0</a></td>
     <td><img align="center" src="screenshots/38_lottie.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -361,7 +361,7 @@ Playlist URLs: <br>
     <td><a href="lib/39_shared_preferences/shared_preferences.dart">Shared Preferences</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/shared_preferences" target="_blank">shared_preferences: ^2.0.13</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/shared_preferences" target="_blank">shared_preferences: ^2.0.15</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/39_shared_preferences.gif" height="350"></img></td>
   </tr>
