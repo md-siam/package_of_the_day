@@ -66,7 +66,7 @@ dependencies:
   # For playing audio files
   audioplayers: ^0.20.1
   # For easy-to-use navigation
-  go_router: ^3.1.0
+  go_router: ^3.1.1
   # For making HTTP request
   http: ^0.13.4
   # For landing page
@@ -125,26 +125,26 @@ dependencies:
   just_audio: ^0.9.21
   # For audio progress bar
   audio_video_progress_bar: ^0.10.0
-  # # For bottom nav bar
-  # persistent_bottom_nav_bar: ^4.0.2
-  # # For comparing objects in Dart
-  # equatable: ^2.0.3
-  # # For web scraping
-  # web_scraper: ^0.1.4
-  # # For onboarding UI screen
-  # introduction_screen: ^3.0.2
-  # # For cube page transition
-  # cube_transition_plus: ^2.0.1
-  # # For horizontal data table
-  # horizontal_data_table: ^3.6.1+1
-  # # For confetti animation
-  # confetti: ^0.6.0
-  # # For playing video
-  # chewie: ^1.3.2
-  # # For using global ServiceLocator
-  # get_it: ^7.2.0
-  # # For In-App notification/snackbar
-  # overlay_support: ^1.2.1
+  # For bottom nav bar
+  persistent_bottom_nav_bar: ^4.0.2
+  # For comparing objects in Dart
+  equatable: ^2.0.3
+  # For web scraping
+  web_scraper: ^0.1.4
+  # For onboarding UI screen
+  introduction_screen: ^3.0.2
+  # For cube page transition
+  cube_transition_plus: ^2.0.1
+  # For horizontal data table
+  horizontal_data_table: ^3.6.5
+  # For confetti animation
+  confetti: ^0.7.0
+  # For playing video
+  chewie: ^1.3.3
+  # For using global ServiceLocator
+  get_it: ^7.2.0
+  # For In-App notification/snackbar
+  overlay_support: ^2.0.0
   # # For discovering network connectivity
   # connectivity_plus: ^2.3.0
   # # Flutter implementation of React hooks

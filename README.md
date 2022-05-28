@@ -248,7 +248,7 @@ Playlist URLs: <br>
     <td><a href="/lib/22_go_router/go_router.dart">Go Router</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/go_router" target="_blank">go_router: ^3.1.0</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/go_router" target="_blank">go_router: ^3.1.1</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/22_go_router.gif" height="350"></img></td>
   </tr>
@@ -480,21 +480,21 @@ Playlist URLs: <br>
   <tr>
     <td>56</td>
     <td><a href="lib/56_horizontal_data_table/horizontal_data_table.dart">Horizontal Data Table</a></td>
-    <td><a href="https://pub.dev/packages/horizontal_data_table" target="_blank">horizontal_data_table: ^3.6.1+1</a></td>
+    <td><a href="https://pub.dev/packages/horizontal_data_table" target="_blank">horizontal_data_table: ^3.6.5</a></td>
     <td><img align="center" src="screenshots/56_horizontal_data_table.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>57</td>
     <td><a href="lib/57_confetti/confetti.dart">Confetti</a></td>
-    <td><a href="https://pub.dev/packages/confetti" target="_blank">confetti: ^0.6.0</a></td>
+    <td><a href="https://pub.dev/packages/confetti" target="_blank">confetti: ^0.7.0</a></td>
     <td><img align="center" src="screenshots/57_confetti.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>58</td>
     <td><a href="lib/58_chewie/chewie_player.dart">Chewie</a></td>
     <td>
-    <a href="https://pub.dev/packages/chewie" target="_blank">chewie: ^1.3.2</a><br>
-    <a href="https://pub.dev/packages/video_player" target="_blank">video_player: ^2.4.0</a>
+    <a href="https://pub.dev/packages/chewie" target="_blank">chewie: ^1.3.3</a><br>
+    <a href="https://pub.dev/packages/video_player" target="_blank">video_player: ^2.4.2</a>
     </td>
     <td><img align="center" src="screenshots/58_chewie.gif" height="350"></img></td>
   </tr>
@@ -510,7 +510,7 @@ Playlist URLs: <br>
     <td>60</td>
     <td><a href="lib/60_overlay_support/overlay_support.dart">Overlay Support</a></td>
     <td>
-    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^1.2.1</a>
+    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^2.0.0</a>
     </td>
     <td><img align="center" src="screenshots/60_overlay_support.gif" height="350"></img></td>
   </tr>
