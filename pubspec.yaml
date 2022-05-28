@@ -145,20 +145,20 @@ dependencies:
   get_it: ^7.2.0
   # For In-App notification/snackbar
   overlay_support: ^2.0.0
-  # # For discovering network connectivity
-  # connectivity_plus: ^2.3.0
-  # # Flutter implementation of React hooks
-  # flutter_hooks: ^0.18.3
-  # # For locating the filesystem
-  # path_provider: ^2.0.9
-  # # For playing YouTube videos
-  # youtube_player_flutter: ^8.0.0
-  # # For playing YouTube videos
-  # youtube_player_iframe: ^2.2.2
-  # # For implementation of slidable list item
-  # flutter_slidable: ^1.2.0
-  # # For JSON to Dart class generator
-  # json_annotation: ^4.5.0
+  # For discovering network connectivity
+  connectivity_plus: ^2.3.0
+  # Flutter implementation of React hooks
+  flutter_hooks: ^0.18.4
+  # For locating the filesystem
+  path_provider: ^2.0.10
+  # For playing YouTube videos
+  youtube_player_flutter: ^8.1.0
+  # For playing YouTube videos
+  youtube_player_iframe: ^2.3.0
+  # For implementation of slidable list item
+  flutter_slidable: ^1.3.0
+  # For JSON to Dart class generator
+  json_annotation: ^4.5.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -168,7 +168,7 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^2.0.1
   # It provides a concrete way of generating files using Dart code
-  #build_runner: ^2.1.10
+  build_runner: ^2.1.11
   # Dependency of "json_annotation"
   json_serializable: ^6.2.0
   flutter_test:

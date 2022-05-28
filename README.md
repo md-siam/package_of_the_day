@@ -521,14 +521,14 @@ Playlist URLs: <br>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
     <a href="https://pub.dev/packages/connectivity_plus" target="_blank">connectivity_plus: ^2.3.0</a><br>
-    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^1.2.1</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^2.0.0</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/61_connectivity_plus.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>62</td>
     <td><a href="lib/62_flutter_hooks/flutter_hooks.dart">Flutter Hooks</a></td>
-    <td><a href="https://pub.dev/packages/flutter_hooks" target="_blank">flutter_hooks: ^0.18.3</a></td>
+    <td><a href="https://pub.dev/packages/flutter_hooks" target="_blank">flutter_hooks: ^0.18.4</a></td>
     <td><img align="center" src="screenshots/62_flutter_hooks.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -536,20 +536,20 @@ Playlist URLs: <br>
     <td><a href="lib/63_path_provider/path_provider.dart">Path Provider</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/path_provider" target="_blank">path_provider: ^2.0.9</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/path_provider" target="_blank">path_provider: ^2.0.10</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/63_path_provider.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>64</td>
     <td><a href="lib/64_youtube_player_flutter/youtube_player_flutter.dart">Youtube Player Flutter</a></td>
-    <td><a href="https://pub.dev/packages/youtube_player_flutter" target="_blank">youtube_player_flutter: ^8.0.0</a></td>
+    <td><a href="https://pub.dev/packages/youtube_player_flutter" target="_blank">youtube_player_flutter: ^8.1.0</a></td>
     <td><img align="center" src="screenshots/64_youtube_player_flutter.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>65</td>
     <td><a href="lib/65_youtube_player_iframe/youtube_player_iframe.dart">Youtube Player Iframe</a></td>
-    <td><a href="https://pub.dev/packages/youtube_player_iframe" target="_blank">youtube_player_iframe: ^2.2.2</a></td>
+    <td><a href="https://pub.dev/packages/youtube_player_iframe" target="_blank">youtube_player_iframe: ^2.3.0</a></td>
     <td><img align="center" src="screenshots/65_youtube_player_iframe.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -557,7 +557,7 @@ Playlist URLs: <br>
     <td><a href="lib/66_flutter_slidable/flutter_slidable.dart">Flutter Slidable</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/flutter_slidable" target="_blank">flutter_slidable: ^1.2.0</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/flutter_slidable" target="_blank">flutter_slidable: ^1.3.0</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/66_flutter_slidable.gif" height="350"></img></td>
   </tr>
@@ -568,7 +568,7 @@ Playlist URLs: <br>
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
     <a href="https://pub.dev/packages/json_annotation" target="_blank">json_annotation: ^4.5.0</a><br>
     <a href="https://pub.dev/packages/json_serializable" target="_blank">json_serializable: ^6.2.0</a> [F.F.]<br>
-    <a href="https://pub.dev/packages/build_runner" target="_blank">build_runner: ^2.1.10</a>
+    <a href="https://pub.dev/packages/build_runner" target="_blank">build_runner: ^2.1.11</a>
     <br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/67_json_annotation.gif" height="350"></img></td>
