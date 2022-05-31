@@ -52,11 +52,11 @@ dependencies:
   # For various custom shapes
   flutter_custom_clippers: ^2.0.0
   # For Text-to-speech in flutter
-  flutter_tts: ^3.3.3
+  flutter_tts: ^3.4.0
   # For Code highlight
   flutter_highlight: ^0.7.0
   # For Drawing charts
-  syncfusion_flutter_charts: ^20.1.57
+  syncfusion_flutter_charts: ^20.1.58
   # For displaying alert pop-up
   rflutter_alert: ^2.0.4
   # For setting ui for both android & iOS
@@ -74,7 +74,7 @@ dependencies:
   # For neumorphic UI design
   flutter_neumorphic: ^3.2.0
   # For parsing and evaluating mathematical expressions
-  math_expressions: ^2.3.0
+  math_expressions: ^2.3.1
   # For modern neumorphic containers
   clay_containers: ^0.3.2
   # For dark mode switch
@@ -122,7 +122,7 @@ dependencies:
   # For displaying timeline
   timelines: ^0.1.0
   # For playing audio
-  just_audio: ^0.9.21
+  just_audio: ^0.9.24
   # For audio progress bar
   audio_video_progress_bar: ^0.10.0
   # For bottom nav bar
@@ -136,7 +136,7 @@ dependencies:
   # For cube page transition
   cube_transition_plus: ^2.0.1
   # For horizontal data table
-  horizontal_data_table: ^3.6.5
+  horizontal_data_table: ^3.7.0
   # For confetti animation
   confetti: ^0.7.0
   # For playing video
@@ -146,7 +146,7 @@ dependencies:
   # For In-App notification/snackbar
   overlay_support: ^2.0.0
   # For discovering network connectivity
-  connectivity_plus: ^2.3.0
+  connectivity_plus: ^2.3.1
   # Flutter implementation of React hooks
   flutter_hooks: ^0.18.4
   # For locating the filesystem
