@@ -98,6 +98,7 @@ Playlist URLs: <br>
 66. [Flutter Slidable](/lib/66_flutter_slidable/flutter_slidable.dart) > Read code 
 67. [JSON Annotation](/lib/67_json_annotation/json_annotation.dart) > '$ flutter packages pub run build_runner build' > Read code
 68. [Dio](/lib/68_dio/dio.dart) > Read code
+69. [Gallery Saver](/lib/69_gallery_saver/gallery_saver.dart) > watch this [video](https://www.youtube.com/watch?v=JILcQLZvjKE&list=LL&index=2)
 
 ## Table of Contents:
 
@@ -580,5 +581,11 @@ Playlist URLs: <br>
     <td><a href="lib/68_dio/dio.dart">Dio</a></td>
     <td><a href="https://pub.dev/packages/dio" target="_blank">dio: ^4.0.6</a></td>
     <td><img align="center" src="screenshots/68_dio.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>69</td>
+    <td><a href="lib/69_gallery_saver/gallery_saver.dart">Gallery Saver</a></td>
+    <td><a href="https://pub.dev/packages/gallery_saver" target="_blank">gallery_saver: ^2.3.2</a></td>
+    <td><img align="center" src="screenshots/69_gallery_saver.gif" height="350"></img></td>
   </tr>
 </table>

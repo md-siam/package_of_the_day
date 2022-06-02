@@ -161,6 +161,8 @@ dependencies:
   json_annotation: ^4.5.0
   # A powerful Http client for Dart
   dio: ^4.0.6
+  # For saving images and videos in gallery
+  gallery_saver: ^2.3.2
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
