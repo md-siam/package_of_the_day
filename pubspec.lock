@@ -224,7 +224,7 @@ packages:
       name: connectivity_plus
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.3.0"
+    version: "2.3.2"
   connectivity_plus_linux:
     dependency: transitive
     description:
@@ -652,7 +652,7 @@ packages:
       name: horizontal_data_table
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.6.5"
+    version: "3.7.0"
   html:
     dependency: transitive
     description:
@@ -771,7 +771,7 @@ packages:
       name: just_audio
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.9.21"
+    version: "0.9.24"
   just_audio_platform_interface:
     dependency: transitive
     description:
