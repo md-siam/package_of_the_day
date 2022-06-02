@@ -86,7 +86,8 @@ class MyApp extends StatelessWidget {
       //home: const MyYoutubePlayerFlutter(),
       //home: const MyYoutubePlayerIframe(),
       //home: const MyFlutterSlidable(),
-      home: const MyJSONAnnotation(),
+      //home: const MyJSONAnnotation(),
+      home: const MyDio(),
     );
   }
 }

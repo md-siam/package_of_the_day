@@ -95,7 +95,9 @@ Playlist URLs: <br>
 63. [Path Provider](/lib/63_path_provider/path_provider.dart) > Directory tempDir = await getTemporaryDirectory(); > await getApplicationDocumentsDirectory();
 64. [Youtube Player Flutter](/lib/64_youtube_player_flutter/youtube_player_flutter.dart) > late YoutubePlayerController \_controller ? YoutubePlayerBuilder() > player: YoutubePlayer(controller: \_controller) > builder: (context, player) {}
 65. [Youtube Player Iframe](/lib/65_youtube_player_iframe/youtube_player_iframe.dart) > late YoutubePlayerController \_controller > \_controller = YoutubePlayerController()
-66. [Flutter Slidable](/lib/66_flutter_slidable/flutter_slidable.dart) > Read code 67.[JSON Annotation](/lib/67_json_annotation/json_annotation.dart) > '$ flutter packages pub run build_runner build' > Read code
+66. [Flutter Slidable](/lib/66_flutter_slidable/flutter_slidable.dart) > Read code 
+67. [JSON Annotation](/lib/67_json_annotation/json_annotation.dart) > '$ flutter packages pub run build_runner build' > Read code
+68. [Dio](/lib/68_dio/dio.dart) > Read code
 
 ## Table of Contents:
 
@@ -572,5 +574,11 @@ Playlist URLs: <br>
     <br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/67_json_annotation.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>68</td>
+    <td><a href="lib/68_dio/dio.dart">Dio</a></td>
+    <td><a href="https://pub.dev/packages/dio" target="_blank">dio: ^4.0.6</a></td>
+    <td><img align="center" src="screenshots/68_dio.gif" height="350"></img></td>
   </tr>
 </table>
