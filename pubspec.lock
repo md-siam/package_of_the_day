@@ -15,6 +15,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.1.0"
+  anim_search_bar:
+    dependency: "direct main"
+    description:
+      name: anim_search_bar
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.2"
   animations:
     dependency: "direct main"
     description:

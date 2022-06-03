@@ -88,7 +88,8 @@ class MyApp extends StatelessWidget {
       //home: const MyFlutterSlidable(),
       //home: const MyJSONAnnotation(),
       //home: const MyDio(),
-      home: const MyGallerySaver(),
+      //home: const MyGallerySaver(),
+      home: const MyAnimSearchBar(),
     );
   }
 }

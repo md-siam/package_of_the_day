@@ -95,10 +95,11 @@ Playlist URLs: <br>
 63. [Path Provider](/lib/63_path_provider/path_provider.dart) > Directory tempDir = await getTemporaryDirectory(); > await getApplicationDocumentsDirectory();
 64. [Youtube Player Flutter](/lib/64_youtube_player_flutter/youtube_player_flutter.dart) > late YoutubePlayerController \_controller ? YoutubePlayerBuilder() > player: YoutubePlayer(controller: \_controller) > builder: (context, player) {}
 65. [Youtube Player Iframe](/lib/65_youtube_player_iframe/youtube_player_iframe.dart) > late YoutubePlayerController \_controller > \_controller = YoutubePlayerController()
-66. [Flutter Slidable](/lib/66_flutter_slidable/flutter_slidable.dart) > Read code 
+66. [Flutter Slidable](/lib/66_flutter_slidable/flutter_slidable.dart) > Read code
 67. [JSON Annotation](/lib/67_json_annotation/json_annotation.dart) > '$ flutter packages pub run build_runner build' > Read code
 68. [Dio](/lib/68_dio/dio.dart) > Read code
 69. [Gallery Saver](/lib/69_gallery_saver/gallery_saver.dart) > watch this [video](https://www.youtube.com/watch?v=JILcQLZvjKE&list=LL&index=2)
+70. [Anim Search Bar](/lib/70_anim_search_bar/anim_search_bar.dart) > _searchController.addListener(() {}) > Read the code
 
 ## Table of Contents:
 
@@ -587,5 +588,11 @@ Playlist URLs: <br>
     <td><a href="lib/69_gallery_saver/gallery_saver.dart">Gallery Saver</a></td>
     <td><a href="https://pub.dev/packages/gallery_saver" target="_blank">gallery_saver: ^2.3.2</a></td>
     <td><img align="center" src="screenshots/69_gallery_saver.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>70</td>
+    <td><a href="lib/70_anim_search_bar/anim_search_bar.dart">Anim Search Bar</a></td>
+    <td><a href="https://pub.dev/packages/anim_search_bar" target="_blank">anim_search_bar: ^2.0.2</a></td>
+    <td><img align="center" src="screenshots/70_anim_search_bar.gif" height="350"></img></td>
   </tr>
 </table>

@@ -163,6 +163,8 @@ dependencies:
   dio: ^4.0.6
   # For saving images and videos in gallery
   gallery_saver: ^2.3.2
+  # For animated search bar
+  anim_search_bar: ^2.0.2
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
