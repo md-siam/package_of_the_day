@@ -26,6 +26,7 @@ Playlist URLs: <br>
 [YouTube: flutter_slidable](https://www.youtube.com/watch?v=TmSKRUVKNsQ)<br>
 [YouTube: json_annotation](https://www.youtube.com/watch?v=v5xGLrhzDGE)<br>
 [YouTube: file_picker](https://www.youtube.com/watch?v=LlO5jydXws0)<br>
+[YouTube: share_plus](https://www.youtube.com/watch?v=CNUBhb_cM6E)<br>
 
 ## Packages List:
 
@@ -101,7 +102,8 @@ Playlist URLs: <br>
 68. [Dio](/lib/68_dio/dio.dart) > Read code
 69. [Gallery Saver](/lib/69_gallery_saver/gallery_saver.dart) > watch this [video](https://www.youtube.com/watch?v=JILcQLZvjKE&list=LL&index=2)
 70. [Anim Search Bar](/lib/70_anim_search_bar/anim_search_bar.dart) > \_searchController.addListener(() {}) > Read the code
-71. [File Picker]() > watch this [video](https://www.youtube.com/watch?v=LlO5jydXws0)
+71. [File Picker](/lib/71_file_picker/file_picker.dart) > watch this [video](https://www.youtube.com/watch?v=LlO5jydXws0)
+72. [Share Plus](/lib/72_share_plus/share_plus.dart) > watch this [video](https://www.youtube.com/watch?v=CNUBhb_cM6E)
 
 ## Table of Contents:
 
@@ -605,5 +607,14 @@ Playlist URLs: <br>
     <a href="https://pub.dev/packages/open_file" target="_blank">open_file: ^3.2.1</a>
     </td>
     <td><img align="center" src="screenshots/71_file_picker.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>72</td>
+    <td><a href="lib/72_share_plus/share_plus.dart">Share Plus</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/share_plus" target="_blank">share_plus: ^4.0.6</a><br><br><br><br><br><br><br><br>
+    </td>
+    <td><img align="center" src="screenshots/72_share_plus.gif" height="350"></img></td>
   </tr>
 </table>

@@ -79,7 +79,7 @@ class MyApp extends StatelessWidget {
       //home: const MyConfetti(),
       //home: const MyChewie(),
       //home: const MyGetIt(),
-      home: const MyOverlaySupport(),
+      //home: const MyOverlaySupport(),
       //home: const MyConnectivityPlus(),
       //home: const MyFlutterHooks(),
       //home: const MyPathProvider(),
@@ -91,6 +91,7 @@ class MyApp extends StatelessWidget {
       //home: const MyGallerySaver(),
       //home: const MyAnimSearchBar(),
       //home: const MyFilePicker(),
+      home: const MySharePlus(),
     );
   }
 }

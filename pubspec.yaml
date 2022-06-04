@@ -169,6 +169,8 @@ dependencies:
   file_picker: ^4.6.1
   # For using the native APP to open files
   open_file: ^3.2.1
+  # For sharing contents from Flutter app
+  share_plus: ^4.0.6
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
