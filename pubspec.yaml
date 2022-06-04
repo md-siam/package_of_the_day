@@ -136,7 +136,7 @@ dependencies:
   # For cube page transition
   cube_transition_plus: ^2.0.1
   # For horizontal data table
-  horizontal_data_table: ^3.7.0
+  horizontal_data_table: ^4.0.0
   # For confetti animation
   confetti: ^0.7.0
   # For playing video
@@ -144,7 +144,7 @@ dependencies:
   # For using global ServiceLocator
   get_it: ^7.2.0
   # For In-App notification/snackbar
-  overlay_support: ^2.0.0
+  overlay_support: ^2.0.1
   # For discovering network connectivity
   connectivity_plus: ^2.3.2
   # Flutter implementation of React hooks

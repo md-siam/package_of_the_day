@@ -486,7 +486,7 @@ Playlist URLs: <br>
   <tr>
     <td>56</td>
     <td><a href="lib/56_horizontal_data_table/horizontal_data_table.dart">Horizontal Data Table</a></td>
-    <td><a href="https://pub.dev/packages/horizontal_data_table" target="_blank">horizontal_data_table: ^3.6.5</a></td>
+    <td><a href="https://pub.dev/packages/horizontal_data_table" target="_blank">horizontal_data_table: ^4.0.0</a></td>
     <td><img align="center" src="screenshots/56_horizontal_data_table.gif" height="350"></img></td>
   </tr>
   <tr>
@@ -516,7 +516,7 @@ Playlist URLs: <br>
     <td>60</td>
     <td><a href="lib/60_overlay_support/overlay_support.dart">Overlay Support</a></td>
     <td>
-    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^2.0.0</a>
+    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^2.0.1</a>
     </td>
     <td><img align="center" src="screenshots/60_overlay_support.gif" height="350"></img></td>
   </tr>
