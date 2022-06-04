@@ -89,23 +89,31 @@ class _MyAnimSearchBarState extends State<MyAnimSearchBar> {
         padding: const EdgeInsets.symmetric(horizontal: 8.0),
         child: Card(
           elevation: 4.0,
-          child: ListTile(
-            leading: CircleAvatar(
-              radius: 30,
-              backgroundColor: Colors.transparent,
-              backgroundImage: NetworkImage(userList[index].imageURL),
+          child: InkWell(
+            splashColor: Colors.deepPurple[100],
+            onTap: () {
+              setState(() {
+                userList[index].isLiked = !userList[index].isLiked;
+              });
+            },
+            child: ListTile(
+              leading: CircleAvatar(
+                radius: 30,
+                backgroundColor: Colors.transparent,
+                backgroundImage: NetworkImage(userList[index].imageURL),
+              ),
+              title: Text(
+                userList[index].name,
+                style: nameTextStyle,
+              ),
+              subtitle: Text(
+                userList[index].location,
+                style: locationTextStyle,
+              ),
+              trailing: userList[index].isLiked
+                  ? const Icon(Icons.favorite, color: Colors.deepOrange)
+                  : const Icon(Icons.favorite_border, color: Colors.grey),
             ),
-            title: Text(
-              userList[index].name,
-              style: nameTextStyle,
-            ),
-            subtitle: Text(
-              userList[index].location,
-              style: locationTextStyle,
-            ),
-            trailing: userList[index].isLiked
-                ? const Icon(Icons.favorite, color: Colors.deepOrange)
-                : const Icon(Icons.favorite_border, color: Colors.grey),
           ),
         ),
       );

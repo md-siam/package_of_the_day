@@ -2,7 +2,7 @@ class UserModel {
   final String name;
   final String location;
   final String imageURL;
-  final bool isLiked;
+  bool isLiked;
   UserModel({
     required this.name,
     required this.location,
