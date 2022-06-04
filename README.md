@@ -25,6 +25,7 @@ Playlist URLs: <br>
 [YouTube: flutter_hooks](https://www.youtube.com/watch?v=hiqpPKF_fic&t=287s)<br>
 [YouTube: flutter_slidable](https://www.youtube.com/watch?v=TmSKRUVKNsQ)<br>
 [YouTube: json_annotation](https://www.youtube.com/watch?v=v5xGLrhzDGE)<br>
+[YouTube: file_picker](https://www.youtube.com/watch?v=LlO5jydXws0)<br>
 
 ## Packages List:
 
@@ -99,7 +100,8 @@ Playlist URLs: <br>
 67. [JSON Annotation](/lib/67_json_annotation/json_annotation.dart) > '$ flutter packages pub run build_runner build' > Read code
 68. [Dio](/lib/68_dio/dio.dart) > Read code
 69. [Gallery Saver](/lib/69_gallery_saver/gallery_saver.dart) > watch this [video](https://www.youtube.com/watch?v=JILcQLZvjKE&list=LL&index=2)
-70. [Anim Search Bar](/lib/70_anim_search_bar/anim_search_bar.dart) > _searchController.addListener(() {}) > Read the code
+70. [Anim Search Bar](/lib/70_anim_search_bar/anim_search_bar.dart) > \_searchController.addListener(() {}) > Read the code
+71. [File Picker]() > watch this [video](https://www.youtube.com/watch?v=LlO5jydXws0)
 
 ## Table of Contents:
 
@@ -594,5 +596,14 @@ Playlist URLs: <br>
     <td><a href="lib/70_anim_search_bar/anim_search_bar.dart">Anim Search Bar</a></td>
     <td><a href="https://pub.dev/packages/anim_search_bar" target="_blank">anim_search_bar: ^2.0.2</a></td>
     <td><img align="center" src="screenshots/70_anim_search_bar.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>71</td>
+    <td><a href="lib/71_file_picker/file_picker.dart">File Picker</a></td>
+    <td>
+    <a href="https://pub.dev/packages/file_picker" target="_blank">file_picker: ^4.6.1</a><br>
+    <a href="https://pub.dev/packages/open_file" target="_blank">open_file: ^3.2.1</a>
+    </td>
+    <td><img align="center" src="screenshots/71_file_picker.gif" height="350"></img></td>
   </tr>
 </table>

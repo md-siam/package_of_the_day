@@ -165,6 +165,10 @@ dependencies:
   gallery_saver: ^2.3.2
   # For animated search bar
   anim_search_bar: ^2.0.2
+  # For using the native file explorer to pick files
+  file_picker: ^4.6.1
+  # For using the native APP to open files
+  open_file: ^3.2.1
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

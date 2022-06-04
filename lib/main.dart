@@ -89,7 +89,8 @@ class MyApp extends StatelessWidget {
       //home: const MyJSONAnnotation(),
       //home: const MyDio(),
       //home: const MyGallerySaver(),
-      home: const MyAnimSearchBar(),
+      //home: const MyAnimSearchBar(),
+      home: const MyFilePicker(),
     );
   }
 }

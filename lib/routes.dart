@@ -75,3 +75,4 @@ export '67_json_annotation/json_annotation.dart';
 export '68_dio/dio.dart';
 export '69_gallery_saver/gallery_saver.dart';
 export '70_anim_search_bar/anim_search_bar.dart';
+export '71_file_picker/file_picker.dart';
