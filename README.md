@@ -458,7 +458,7 @@ Playlist URLs: <br>
   <tr>
     <td>51</td>
     <td><a href="lib/51_persistent_bottom_nav_bar/bottom_nav_bar.dart">Persistent BNb v2</a></td>
-    <td><a href="https://pub.dev/packages/persistent_bottom_nav_bar_v2" target="_blank">persistent_b_n_b_v2 4.2.3</a></td>
+    <td><a href="https://pub.dev/packages/persistent_bottom_nav_bar_v2" target="_blank">persistent_b_n_b_v2: ^4.2.3</a></td>
     <td><img align="center" src="screenshots/51_persistent_bottom_nav_bar.gif" height="350"></img></td>
   </tr>
   <tr>
