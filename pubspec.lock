@@ -1010,13 +1010,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.2.2"
-  persistent_bottom_nav_bar:
+  persistent_bottom_nav_bar_v2:
     dependency: "direct main"
     description:
-      name: persistent_bottom_nav_bar
+      name: persistent_bottom_nav_bar_v2
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.0.2"
+    version: "4.2.3"
   petitparser:
     dependency: transitive
     description:

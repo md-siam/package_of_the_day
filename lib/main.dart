@@ -70,7 +70,7 @@ class MyApp extends StatelessWidget {
       //home: const MyResponsiveFramework(),   // run on `Chrome`
       //home: const MyTimelines(),
       //home: const MyJustAudio(),
-      //home: const MyPersistentBottomNavBar(),
+      home: const MyPersistentBottomNavBar(),
       //home: const MyEquatable(),
       //home: const MyWebScraper(),
       //home: const MyIntroductionScreen(),
@@ -91,7 +91,7 @@ class MyApp extends StatelessWidget {
       //home: const MyGallerySaver(),
       //home: const MyAnimSearchBar(),
       //home: const MyFilePicker(),
-      home: const MySharePlus(),
+      //home: const MySharePlus(),
     );
   }
 }

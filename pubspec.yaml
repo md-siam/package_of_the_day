@@ -126,7 +126,7 @@ dependencies:
   # For audio progress bar
   audio_video_progress_bar: ^0.10.0
   # For bottom nav bar
-  persistent_bottom_nav_bar: ^4.0.2
+  persistent_bottom_nav_bar_v2: ^4.2.3
   # For comparing objects in Dart
   equatable: ^2.0.3
   # For web scraping
