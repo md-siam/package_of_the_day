@@ -185,7 +185,7 @@ Playlist URLs: <br>
   <tr>
     <td>11</td>
     <td><a href="/lib/11_card_swiper/card_swiper.dart">Card Swiper</a></td>
-    <td><a href="https://pub.dev/packages/card_swiper" target="_blank">card_swiper: ^2.0.3</a></td>
+    <td><a href="https://pub.dev/packages/card_swiper" target="_blank">card_swiper: ^2.0.4</a></td>
     <td><img align="center" src="screenshots/11_card_swiper.gif" height="350"></img></td>
   </tr>
   <tr>

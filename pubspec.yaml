@@ -44,7 +44,7 @@ dependencies:
   # For Aurora gradient
   aurora: ^1.0.0
   # For card swiping effects
-  card_swiper: ^2.0.3
+  card_swiper: ^2.0.4
   # For displaying blur image while loading
   flutter_blurhash: ^0.7.0
   # For  rendering SVG image
