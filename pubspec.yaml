@@ -133,8 +133,8 @@ dependencies:
   web_scraper: ^0.1.4
   # For onboarding UI screen
   introduction_screen: ^3.0.2
-  # For cube page transition
-  cube_transition_plus: ^2.0.1
+  # For animated text
+  animated_text_kit: ^4.2.2
   # For horizontal data table
   horizontal_data_table: ^4.0.0
   # For confetti animation
@@ -226,11 +226,24 @@ flutter:
       fonts:
         - asset: fonts/NeumorphicIcons.ttf
 
-  #   - family: Trajan Pro
-  #     fonts:
-  #       - asset: fonts/TrajanPro.ttf
-  #       - asset: fonts/TrajanPro_Bold.ttf
-  #         weight: 700
-  #
+    - family: Canterbury
+      fonts:
+        - asset: fonts/Canterbury.ttf
+
+    - family: HelloStockholm
+      fonts:
+        - asset: fonts/HelloStockholm.otf
+
+    - family: Horizon
+      fonts:
+        - asset: fonts/Horizon.otf
+
+    - family: Bobbers
+      fonts:
+        - asset: fonts/Bobbers.ttf
+
+    - family: Agne
+      fonts:
+        - asset: fonts/Agne.otf
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

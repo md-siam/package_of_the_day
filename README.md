@@ -86,7 +86,7 @@ Playlist URLs: <br>
 52. [Equatable](/lib/52_equatable/equatable.dart) > class User extends Equatable > List< Object?> get props => [name, urlImage];
 53. [Web Scraper](/lib/53_web_scraper/web_scraper.dart) > read documentation
 54. [Introduction Screen](/lib/54_introduction_screen/onbording_screen.dart) > next > done > onDone > pages
-55. [Cube Transition Plus](/lib/55_cube_transition_plus/cube_transition_plus.dart) > Navigator.of(context).push > CubePageRoute() > enterPage: const SecondScreen() > exitPage: this > duration: const Duration(milliseconds: 900)
+55. [Animated Text Kit](/lib/55_animated_text_kit/animated_text_kit.dart) > read documentation from [here](https://pub.dev/packages/animated_text_kit)
 56. [Horizontal Data Table](/lib/56_horizontal_data_table/horizontal_data_table.dart) > read code
 57. [Confetti](/lib/57_confetti/confetti.dart) > bool isPlaying = false > final controller = ConfettiController()
 58. [Chewie](/lib/58_chewie/chewie_player.dart) > final VideoPlayerController videoPlayerController > final bool looping > late ChewieController \_chewieController > Chewie(controller: \_chewieController,)
@@ -482,9 +482,12 @@ Playlist URLs: <br>
   </tr>
   <tr>
     <td>55</td>
-    <td><a href="lib/55_cube_transition_plus/cube_transition_plus.dart">Cube Transition Plus</a></td>
-    <td><a href="https://pub.dev/packages/cube_transition_plus" target="_blank">cube_transition_plus: ^2.0.1</a></td>
-    <td><img align="center" src="screenshots/55_cube_transition_plus.gif" height="350"></img></td>
+    <td><a href="lib/55_animated_text_kit/animated_text_kit.dart">Animated Text Kit</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/animated_text_kit" target="_blank">animated_text_kit: ^4.2.2</a><br><br><br><br><br><br><br><br>
+    </td>
+    <td><img align="center" src="screenshots/55_animated_text_kit.gif" height="350"></img></td>
   </tr>
   <tr>
     <td>56</td>
