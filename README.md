@@ -66,7 +66,7 @@ Playlist URLs: <br>
 32. [Image Picker](/lib/32_image_picker/image_picker.dart) > watch the video, or read the [documentation](https://pub.dev/packages/image_picker) for iOS support.
 33. [Convex Bottom Bar](/lib/33_convex_bottom_bar/convex_bottom_bar.dart) > read the code
 34. [Intro Slider](/lib/34_intro_slider/intro_slider.dart) > read the code
-35. [Parallax Animation](/lib/35_parallax_animation/parallax_animation.dart) > ParallaxWidget > child: > background: > Image.asset
+35. [Icofont Flutter](/lib/35_icofont_flutter/icofont_flutter.dart) > Icon() > IcoFontIcons.cab > color: Colors.white > size: 40
 36. [Flutter Staggered Grid View](/lib/36_flutter_staggered_grid_view/flutter_staggered_grid_view.dart) > GridView.custom > gridDelegate > pattern
 37. [Shimmer](/lib/37_shimmer/shimmer.dart) > watch this [video](https://www.youtube.com/watch?v=yhABSANrsNc)
 38. [Lottie](/lib/38_lottie/lottie.dart) > make an animation controller for controlling the state of the animation
@@ -343,9 +343,9 @@ Playlist URLs: <br>
   </tr>
   <tr>
     <td>35</td>
-    <td><a href="lib/35_parallax_animation/parallax_animation.dart">Parallax Animation</a></td>
-    <td><a href="https://pub.dev/packages/parallax_animation" target="_blank">parallax_animation: ^0.0.3</a></td>
-    <td><img align="center" src="screenshots/35_parallax_animation.gif" height="350"></img></td>
+    <td><a href="lib/35_icofont_flutter/icofont_flutter.dart">Icofont Flutter</a></td>
+    <td><a href="https://pub.dev/packages/icofont_flutter" target="_blank">icofont_flutter: ^1.4.0</a></td>
+    <td><img align="center" src="screenshots/35_icofont_flutter.png" height="350"></img></td>
   </tr>
   <tr>
     <td>36</td>

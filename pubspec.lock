@@ -709,6 +709,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.0.1"
+  icofont_flutter:
+    dependency: "direct main"
+    description:
+      name: icofont_flutter
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.4.0"
   image_picker:
     dependency: "direct main"
     description:
@@ -926,13 +933,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.2"
-  parallax_animation:
-    dependency: "direct main"
-    description:
-      name: parallax_animation
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.0.3"
   path:
     dependency: transitive
     description:

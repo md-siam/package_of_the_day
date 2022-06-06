@@ -91,8 +91,8 @@ dependencies:
   convex_bottom_bar: ^3.0.0
   # For making a cool intro
   intro_slider: ^3.0.5
-  # For Parallax behavior for any Flutter Scrollable
-  parallax_animation: ^0.0.3
+  # For icons
+  icofont_flutter: ^1.4.0
   # For advanced grid view
   flutter_staggered_grid_view: ^0.6.1
   # For shimmer loading effect
