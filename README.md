@@ -104,6 +104,7 @@ Playlist URLs: <br>
 70. [Anim Search Bar](/lib/70_anim_search_bar/anim_search_bar.dart) > \_searchController.addListener(() {}) > Read the code
 71. [File Picker](/lib/71_file_picker/file_picker.dart) > watch this [video](https://www.youtube.com/watch?v=LlO5jydXws0)
 72. [Share Plus](/lib/72_share_plus/share_plus.dart) > watch this [video](https://www.youtube.com/watch?v=CNUBhb_cM6E)
+73. [Infinite Scroll Pagination](/lib/73_infinite_scroll_pagination/infinite_scroll_pagination.dart) > read documentation from [here](https://pub.dev/packages/infinite_scroll_pagination)
 
 ## Table of Contents:
 
