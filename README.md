@@ -617,4 +617,13 @@ Playlist URLs: <br>
     </td>
     <td><img align="center" src="screenshots/72_share_plus.gif" height="350"></img></td>
   </tr>
+    <tr>
+    <td>73</td>
+    <td><a href="lib/73_infinite_scroll_pagination/infinite_scroll_pagination.dart">infinite_scroll_pag</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/infinite_scroll_pagination" target="_blank">infinite_scroll_pag: ^3.2.0</a><br><br><br><br><br><br><br><br>
+    </td>
+    <td><img align="center" src="screenshots/73_infinite_scroll_pagination.gif" height="350"></img></td>
+  </tr>
 </table>

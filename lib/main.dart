@@ -91,7 +91,8 @@ class MyApp extends StatelessWidget {
       //home: const MyGallerySaver(),
       //home: const MyAnimSearchBar(),
       //home: const MyFilePicker(),
-      home: const MySharePlus(),
+      //home: const MySharePlus(),
+      home: const MyInfiniteScrollPagination(),
     );
   }
 }
