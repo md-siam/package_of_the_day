@@ -173,6 +173,8 @@ dependencies:
   share_plus: ^4.0.6
   # For infinite scrolling
   infinite_scroll_pagination: ^3.2.0
+  # For animated text
+  marquee: ^2.2.3
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

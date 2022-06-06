@@ -105,6 +105,7 @@ Playlist URLs: <br>
 71. [File Picker](/lib/71_file_picker/file_picker.dart) > watch this [video](https://www.youtube.com/watch?v=LlO5jydXws0)
 72. [Share Plus](/lib/72_share_plus/share_plus.dart) > watch this [video](https://www.youtube.com/watch?v=CNUBhb_cM6E)
 73. [Infinite Scroll Pagination](/lib/73_infinite_scroll_pagination/infinite_scroll_pagination.dart) > read documentation from [here](https://pub.dev/packages/infinite_scroll_pagination)
+74. [Marquee](/lib/74_marquee/marquee.dart) > text > scrollAxis > crossAxisAlignment > blankSpace > velocity > pauseAfterRound > startPadding
 
 ## Table of Contents:
 
@@ -621,7 +622,7 @@ Playlist URLs: <br>
     </td>
     <td><img align="center" src="screenshots/72_share_plus.gif" height="350"></img></td>
   </tr>
-    <tr>
+  <tr>
     <td>73</td>
     <td><a href="lib/73_infinite_scroll_pagination/infinite_scroll_pagination.dart">Infinite Scroll Pagination</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -629,5 +630,11 @@ Playlist URLs: <br>
     <a href="https://pub.dev/packages/infinite_scroll_pagination" target="_blank">infinite_scroll_pagination: ^3.2.0</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/73_infinite_scroll_pagination.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>74</td>
+    <td><a href="lib/74_marquee/marquee.dart">Marquee</a></td>
+    <td><a href="https://pub.dev/packages/marquee" target="_blank">marquee: ^2.2.3</a></td>
+    <td><img align="center" src="screenshots/74_marquee.gif" height="350"></img></td>
   </tr>
 </table>

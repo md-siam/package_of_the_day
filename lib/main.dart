@@ -74,7 +74,7 @@ class MyApp extends StatelessWidget {
       //home: const MyEquatable(),
       //home: const MyWebScraper(),
       //home: const MyIntroductionScreen(),
-      home: const MyAnimatedTextKit(),
+      //home: const MyAnimatedTextKit(),
       //home: const MyHorizontalDataTable(),
       //home: const MyConfetti(),
       //home: const MyChewie(),
@@ -93,6 +93,7 @@ class MyApp extends StatelessWidget {
       //home: const MyFilePicker(),
       //home: const MySharePlus(),
       //home: const MyInfiniteScrollPagination(),
+      home: const MyMarquee(),
     );
   }
 }

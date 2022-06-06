@@ -78,3 +78,4 @@ export '70_anim_search_bar/anim_search_bar.dart';
 export '71_file_picker/file_picker.dart';
 export '72_share_plus/share_plus.dart';
 export '73_infinite_scroll_pagination/infinite_scroll_pagination.dart';
+export '74_marquee/marquee.dart';
