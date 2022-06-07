@@ -533,8 +533,8 @@ Playlist URLs: <br>
     </td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/connectivity_plus" target="_blank">connectivity_plus: ^2.3.0</a><br>
-    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^2.0.0</a><br><br><br><br><br><br><br><br>
+    <a href="https://pub.dev/packages/connectivity_plus" target="_blank">connectivity_plus: ^2.3.2</a> [F.F.]<br>
+    <a href="https://pub.dev/packages/overlay_support" target="_blank">overlay_support: ^2.0.1</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/61_connectivity_plus.gif" height="350"></img></td>
   </tr>
