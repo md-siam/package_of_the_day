@@ -93,7 +93,8 @@ class MyApp extends StatelessWidget {
       //home: const MyFilePicker(),
       //home: const MySharePlus(),
       //home: const MyInfiniteScrollPagination(),
-      home: const MyMarquee(),
+      //home: const MyMarquee(),
+      home: const MyCachedNetworkImage(),
     );
   }
 }

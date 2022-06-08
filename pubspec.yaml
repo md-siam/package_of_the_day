@@ -175,6 +175,10 @@ dependencies:
   infinite_scroll_pagination: ^3.2.0
   # For animated text
   marquee: ^2.2.3
+  # For image caching & keeping them in cache directory
+  cached_network_image: ^3.2.1
+  # For managing network cached files
+  flutter_cache_manager: ^3.3.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -214,6 +218,7 @@ flutter:
     - assets/images/background/
     - assets/videos/
     - assets/images/introduction_screen/
+    - assets/images/placeholder/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
