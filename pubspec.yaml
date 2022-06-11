@@ -179,6 +179,8 @@ dependencies:
   cached_network_image: ^3.2.1
   # For managing network cached files
   flutter_cache_manager: ^3.3.0
+  # For displaying toast messages
+  fluttertoast: ^8.0.9
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

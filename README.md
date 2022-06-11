@@ -108,6 +108,7 @@ Playlist URLs: <br>
 73. [Infinite Scroll Pagination](/lib/73_infinite_scroll_pagination/infinite_scroll_pagination.dart) > read documentation from [here](https://pub.dev/packages/infinite_scroll_pagination)
 74. [Marquee](/lib/74_marquee/marquee.dart) > text > scrollAxis > crossAxisAlignment > blankSpace > velocity > pauseAfterRound > startPadding
 75. [Cached Network Image](/lib/75_cached_network_image/cached_network_image.dart) > watch this [video](https://www.youtube.com/watch?v=6wvD-Z-9ZRM)
+76. [Flutter Toast](/lib/76_fluttertoast/fluttertoast.dart) >  Fluttertoast.showToast() > msg > fontSize > textColor > gravity
 
 ## Table of Contents:
 
@@ -647,5 +648,11 @@ Playlist URLs: <br>
     <a href="https://pub.dev/packages/flutter_cache_manager" target="_blank">flutter_cache_manager: ^3.3.0</a>
     </td>
     <td><img align="center" src="screenshots/75_cached_network_image.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>76</td>
+    <td><a href="lib/76_fluttertoast/fluttertoast.dart">Flutter Toast</a></td>
+    <td><a href="https://pub.dev/packages/fluttertoast" target="_blank">fluttertoast: ^8.0.9</a></td>
+    <td><img align="center" src="screenshots/76_fluttertoast.gif" height="350"></img></td>
   </tr>
 </table>
