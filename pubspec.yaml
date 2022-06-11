@@ -181,6 +181,8 @@ dependencies:
   flutter_cache_manager: ^3.3.0
   # For displaying toast messages
   fluttertoast: ^8.0.9
+  # For cryptographic hashing functions
+  crypto: ^3.0.2
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

@@ -109,6 +109,7 @@ Playlist URLs: <br>
 74. [Marquee](/lib/74_marquee/marquee.dart) > text > scrollAxis > crossAxisAlignment > blankSpace > velocity > pauseAfterRound > startPadding
 75. [Cached Network Image](/lib/75_cached_network_image/cached_network_image.dart) > watch this [video](https://www.youtube.com/watch?v=6wvD-Z-9ZRM)
 76. [Flutter Toast](/lib/76_fluttertoast/fluttertoast.dart) >  Fluttertoast.showToast() > msg > fontSize > textColor > gravity
+77. [Crypto](/lib/77_crypto/crypto.dart) > bytes = utf8.encode("input Text") > digest = sha1.convert(bytes)
 
 ## Table of Contents:
 
@@ -654,5 +655,11 @@ Playlist URLs: <br>
     <td><a href="lib/76_fluttertoast/fluttertoast.dart">Flutter Toast</a></td>
     <td><a href="https://pub.dev/packages/fluttertoast" target="_blank">fluttertoast: ^8.0.9</a></td>
     <td><img align="center" src="screenshots/76_fluttertoast.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>77</td>
+    <td><a href="lib/77_crypto/crypto.dart">Crypto</a></td>
+    <td><a href="https://pub.dev/packages/crypto" target="_blank">crypto: ^3.0.2</a></td>
+    <td><img align="center" src="screenshots/77_crypto.gif" height="350"></img></td>
   </tr>
 </table>

@@ -81,3 +81,4 @@ export '73_infinite_scroll_pagination/infinite_scroll_pagination.dart';
 export '74_marquee/marquee.dart';
 export '75_cached_network_image/cached_network_image.dart';
 export '76_fluttertoast/fluttertoast.dart';
+export '77_crypto/crypto.dart';
