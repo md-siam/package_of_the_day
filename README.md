@@ -109,7 +109,7 @@ Playlist URLs: <br>
 74. [Marquee](/lib/74_marquee/marquee.dart) > text > scrollAxis > crossAxisAlignment > blankSpace > velocity > pauseAfterRound > startPadding
 75. [Cached Network Image](/lib/75_cached_network_image/cached_network_image.dart) > watch this [video](https://www.youtube.com/watch?v=6wvD-Z-9ZRM)
 76. [Flutter Toast](/lib/76_fluttertoast/fluttertoast.dart) >  Fluttertoast.showToast() > msg > fontSize > textColor > gravity
-77. [Crypto](/lib/77_crypto/crypto.dart) > bytes = utf8.encode("input Text") > digest = sha1.convert(bytes)
+77. [Crypto](/lib/77_crypto/crypto.dart) > bytes = utf8.encode("InputText") > digest = sha1.convert(bytes)
 
 ## Table of Contents:
 
