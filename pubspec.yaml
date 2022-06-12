@@ -183,6 +183,8 @@ dependencies:
   fluttertoast: ^8.0.9
   # For cryptographic hashing functions
   crypto: ^3.0.2
+  # For beautiful & animated bottom navigation
+  bottom_navy_bar: ^6.0.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

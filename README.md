@@ -110,6 +110,7 @@ Playlist URLs: <br>
 75. [Cached Network Image](/lib/75_cached_network_image/cached_network_image.dart) > watch this [video](https://www.youtube.com/watch?v=6wvD-Z-9ZRM)
 76. [Flutter Toast](/lib/76_fluttertoast/fluttertoast.dart) >  Fluttertoast.showToast() > msg > fontSize > textColor > gravity
 77. [Crypto](/lib/77_crypto/crypto.dart) > bytes = utf8.encode("InputText") > digest = sha1.convert(bytes)
+78. [Bottom Navy Bar](/lib/78_bottom_navy_bar/bottom_navy_bar.dart) > PageController _pageController > PageView() > controller: _pageController > BottomNavyBar() > selectedIndex: _currentIndex
 
 ## Table of Contents:
 
@@ -661,5 +662,14 @@ Playlist URLs: <br>
     <td><a href="lib/77_crypto/crypto.dart">Crypto</a></td>
     <td><a href="https://pub.dev/packages/crypto" target="_blank">crypto: ^3.0.2</a></td>
     <td><img align="center" src="screenshots/77_crypto.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>78</td>
+    <td><a href="lib/78_bottom_navy_bar/bottom_navy_bar.dart">Bottom Navy Bar</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/bottom_navy_bar" target="_blank">bottom_navy_bar: ^6.0.0</a><br><br><br><br><br><br><br><br>
+    </td>
+    <td><img align="center" src="screenshots/78_bottom_navy_bar.gif" height="350"></img></td>
   </tr>
 </table>

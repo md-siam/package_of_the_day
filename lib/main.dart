@@ -96,7 +96,8 @@ class MyApp extends StatelessWidget {
       //home: const MyMarquee(),
       //home: const MyCachedNetworkImage(),
       //home: const MyFlutterToast(),
-      home: const MyCrypto(),
+      //home: const MyCrypto(),
+      home: const MyBottomNavyBar(),
     );
   }
 }

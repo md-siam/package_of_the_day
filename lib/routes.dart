@@ -82,3 +82,4 @@ export '74_marquee/marquee.dart';
 export '75_cached_network_image/cached_network_image.dart';
 export '76_fluttertoast/fluttertoast.dart';
 export '77_crypto/crypto.dart';
+export '78_bottom_navy_bar/bottom_navy_bar.dart';
