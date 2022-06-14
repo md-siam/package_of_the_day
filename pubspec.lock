@@ -1309,6 +1309,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.99"
+  slide_countdown:
+    dependency: "direct main"
+    description:
+      name: slide_countdown
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.8"
   sliver_tools:
     dependency: transitive
     description:
@@ -1372,6 +1379,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.0"
+  stream_duration:
+    dependency: transitive
+    description:
+      name: stream_duration
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.4"
   stream_transform:
     dependency: transitive
     description:

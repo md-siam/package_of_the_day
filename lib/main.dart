@@ -6,6 +6,7 @@
 // https://choosealicense.com/licenses/mit/
 
 import 'package:flutter/material.dart';
+
 import 'routes.dart';
 
 void main() => runApp(const MyApp());
@@ -97,7 +98,8 @@ class MyApp extends StatelessWidget {
       //home: const MyCachedNetworkImage(),
       //home: const MyFlutterToast(),
       //home: const MyCrypto(),
-      home: const MyBottomNavyBar(),
+      //home: const MyBottomNavyBar(),
+      home: const MySlideCountdown(),
     );
   }
 }

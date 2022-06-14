@@ -185,6 +185,8 @@ dependencies:
   crypto: ^3.0.2
   # For beautiful & animated bottom navigation
   bottom_navy_bar: ^6.0.0
+  # For create animated countdown / countup timer
+  slide_countdown: ^0.2.8
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

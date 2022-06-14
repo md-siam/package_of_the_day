@@ -108,9 +108,10 @@ Playlist URLs: <br>
 73. [Infinite Scroll Pagination](/lib/73_infinite_scroll_pagination/infinite_scroll_pagination.dart) > read documentation from [here](https://pub.dev/packages/infinite_scroll_pagination)
 74. [Marquee](/lib/74_marquee/marquee.dart) > text > scrollAxis > crossAxisAlignment > blankSpace > velocity > pauseAfterRound > startPadding
 75. [Cached Network Image](/lib/75_cached_network_image/cached_network_image.dart) > watch this [video](https://www.youtube.com/watch?v=6wvD-Z-9ZRM)
-76. [Flutter Toast](/lib/76_fluttertoast/fluttertoast.dart) >  Fluttertoast.showToast() > msg > fontSize > textColor > gravity
+76. [Flutter Toast](/lib/76_fluttertoast/fluttertoast.dart) > Fluttertoast.showToast() > msg > fontSize > textColor > gravity
 77. [Crypto](/lib/77_crypto/crypto.dart) > bytes = utf8.encode("InputText") > digest = sha1.convert(bytes)
-78. [Bottom Navy Bar](/lib/78_bottom_navy_bar/bottom_navy_bar.dart) > PageController _pageController > PageView() > controller: _pageController > BottomNavyBar() > selectedIndex: _currentIndex
+78. [Bottom Navy Bar](/lib/78_bottom_navy_bar/bottom_navy_bar.dart) > PageController \_pageController > PageView() > controller: \_pageController > BottomNavyBar() > selectedIndex: \_currentIndex
+79. [Slide Countdown](/lib/79_slide_countdown/slide_countdown.dart) > SlideCountdownSeparated() > duration: const Duration(seconds: 10)
 
 ## Table of Contents:
 
@@ -671,5 +672,14 @@ Playlist URLs: <br>
     <a href="https://pub.dev/packages/bottom_navy_bar" target="_blank">bottom_navy_bar: ^6.0.0</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/78_bottom_navy_bar.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>79</td>
+    <td><a href="lib/79_slide_countdown/slide_countdown.dart">Slide Countdown</a></td>
+    <td>
+    <a href="https://pub.dev/packages/slide_countdown" target="_blank">slide_countdown: ^0.2.8</a><br>
+    <a href="https://pub.dev/packages/confetti" target="_blank">confetti: ^0.7.0</a>
+    </td>
+    <td><img align="center" src="screenshots/79_slide_countdown.gif" height="350"></img></td>
   </tr>
 </table>
