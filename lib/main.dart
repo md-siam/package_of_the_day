@@ -99,7 +99,8 @@ class MyApp extends StatelessWidget {
       //home: const MyFlutterToast(),
       //home: const MyCrypto(),
       //home: const MyBottomNavyBar(),
-      home: const MySlideCountdown(),
+      //home: const MySlideCountdown(),
+      home: const MyDateFormat(),
     );
   }
 }

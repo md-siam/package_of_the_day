@@ -112,6 +112,7 @@ Playlist URLs: <br>
 77. [Crypto](/lib/77_crypto/crypto.dart) > bytes = utf8.encode("InputText") > digest = sha1.convert(bytes)
 78. [Bottom Navy Bar](/lib/78_bottom_navy_bar/bottom_navy_bar.dart) > PageController \_pageController > PageView() > controller: \_pageController > BottomNavyBar() > selectedIndex: \_currentIndex
 79. [Slide Countdown](/lib/79_slide_countdown/slide_countdown.dart) > SlideCountdownSeparated() > duration: const Duration(seconds: 10)
+80. [Date Format](/lib/80_date_format/date_format.dart) > formatDate(DateTime.now(), [yyyy, '-', mm, '-', dd]) > formatDate(DateTime.now(), [HH, ':', nn, ':', ss])
 
 ## Table of Contents:
 
@@ -681,5 +682,11 @@ Playlist URLs: <br>
     <a href="https://pub.dev/packages/confetti" target="_blank">confetti: ^0.7.0</a>
     </td>
     <td><img align="center" src="screenshots/79_slide_countdown.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>80</td>
+    <td><a href="lib/80_date_format/date_format.dart">Date Format</a></td>
+    <td><a href="https://pub.dev/packages/date_format" target="_blank">date_format: ^2.0.6</a></td>
+    <td><img align="center" src="screenshots/80_date_format.png" height="350"></img></td>
   </tr>
 </table>
