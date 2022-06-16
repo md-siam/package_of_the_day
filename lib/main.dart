@@ -100,7 +100,8 @@ class MyApp extends StatelessWidget {
       //home: const MyCrypto(),
       //home: const MyBottomNavyBar(),
       //home: const MySlideCountdown(),
-      home: const MyDateFormat(),
+      //home: const MyDateFormat(),
+      home: const MyFlutterRatingBar(),
     );
   }
 }

@@ -113,6 +113,7 @@ Playlist URLs: <br>
 78. [Bottom Navy Bar](/lib/78_bottom_navy_bar/bottom_navy_bar.dart) > PageController \_pageController > PageView() > controller: \_pageController > BottomNavyBar() > selectedIndex: \_currentIndex
 79. [Slide Countdown](/lib/79_slide_countdown/slide_countdown.dart) > SlideCountdownSeparated() > duration: const Duration(seconds: 10)
 80. [Date Format](/lib/80_date_format/date_format.dart) > formatDate(DateTime.now(), [yyyy, '-', mm, '-', dd]) > formatDate(DateTime.now(), [HH, ':', nn, ':', ss])
+81. [Flutter Rating Bar](/lib/81_flutter_rating_bar/flutter_rating_bar.dart) > initialRating > minRating > itemBuilder: (context, \_) => const Icon() > updateOnDrag > onRatingUpdate
 
 ## Table of Contents:
 
@@ -688,5 +689,11 @@ Playlist URLs: <br>
     <td><a href="lib/80_date_format/date_format.dart">Date Format</a></td>
     <td><a href="https://pub.dev/packages/date_format" target="_blank">date_format: ^2.0.6</a></td>
     <td><img align="center" src="screenshots/80_date_format.png" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>81</td>
+    <td><a href="lib/81_flutter_rating_bar/flutter_rating_bar.dart">Flutter Rating Bar</a></td>
+    <td><a href="https://pub.dev/packages/flutter_rating_bar" target="_blank">flutter_rating_bar: ^4.0.1</a></td>
+    <td><img align="center" src="screenshots/81_flutter_rating_bar.gif" height="350"></img></td>
   </tr>
 </table>
