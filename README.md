@@ -114,6 +114,7 @@ Playlist URLs: <br>
 79. [Slide Countdown](/lib/79_slide_countdown/slide_countdown.dart) > SlideCountdownSeparated() > duration: const Duration(seconds: 10)
 80. [Date Format](/lib/80_date_format/date_format.dart) > formatDate(DateTime.now(), [yyyy, '-', mm, '-', dd]) > formatDate(DateTime.now(), [HH, ':', nn, ':', ss])
 81. [Flutter Rating Bar](/lib/81_flutter_rating_bar/flutter_rating_bar.dart) > initialRating > minRating > itemBuilder: (context, \_) => const Icon() > updateOnDrag > onRatingUpdate
+82. [Pin Code Fields](/lib/82_pin_code_fields/pin_code_fields.dart) > PinCodeTextField() > appContext: context > length: 6 > pinTheme > onCompleted
 
 ## Table of Contents:
 
@@ -695,5 +696,11 @@ Playlist URLs: <br>
     <td><a href="lib/81_flutter_rating_bar/flutter_rating_bar.dart">Flutter Rating Bar</a></td>
     <td><a href="https://pub.dev/packages/flutter_rating_bar" target="_blank">flutter_rating_bar: ^4.0.1</a></td>
     <td><img align="center" src="screenshots/81_flutter_rating_bar.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>82</td>
+    <td><a href="lib/82_pin_code_fields/pin_code_fields.dart">Pin Code Fields</a></td>
+    <td><a href="https://pub.dev/packages/pin_code_fields" target="_blank">pin_code_fields: ^7.4.0</a></td>
+    <td><img align="center" src="screenshots/82_pin_code_fields.gif" height="350"></img></td>
   </tr>
 </table>
