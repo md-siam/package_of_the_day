@@ -88,3 +88,4 @@ export '80_date_format/date_format.dart';
 export '81_flutter_rating_bar/flutter_rating_bar.dart';
 export '82_pin_code_fields/pin_code_fields.dart';
 export '83_uuid/uuid.dart';
+export '84_rxdart/rxdart.dart';

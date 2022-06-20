@@ -116,6 +116,7 @@ Playlist URLs: <br>
 81. [Flutter Rating Bar](/lib/81_flutter_rating_bar/flutter_rating_bar.dart) > initialRating > minRating > itemBuilder: (context, \_) => const Icon() > updateOnDrag > onRatingUpdate
 82. [Pin Code Fields](/lib/82_pin_code_fields/pin_code_fields.dart) > PinCodeTextField() > appContext: context > length: 6 > pinTheme > onCompleted
 83. [UUID](/lib/83_uuid/uuid.dart) > id = uuid.v1(); > id = uuid.v4();
+84. [RxDart](/lib/84_rxdart/rxdart.dart) > Read the code
 
 ## Table of Contents:
 
@@ -709,5 +710,14 @@ Playlist URLs: <br>
     <td><a href="lib/83_uuid/uuid.dart">UUID</a></td>
     <td><a href="https://pub.dev/packages/uuid" target="_blank">uuid: ^3.0.6</a></td>
     <td><img align="center" src="screenshots/83_uuid.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>84</td>
+    <td><a href="lib/84_rxdart/rxdart.dart">RxDart</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/rxdart" target="_blank">rxdart: ^0.27.4</a><br><br><br><br><br><br><br><br>
+    </td>
+    <td><img align="center" src="screenshots/84_rxdart.gif" height="350"></img></td>
   </tr>
 </table>

@@ -103,7 +103,8 @@ class MyApp extends StatelessWidget {
       //home: const MyDateFormat(),
       //home: const MyFlutterRatingBar(),
       //home: const MyPinCodeFields(),
-      home: const MyUUID(),
+      //home: const MyUUID(),
+      home: const MyRxDart(),
     );
   }
 }
