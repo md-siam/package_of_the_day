@@ -102,7 +102,8 @@ class MyApp extends StatelessWidget {
       //home: const MySlideCountdown(),
       //home: const MyDateFormat(),
       //home: const MyFlutterRatingBar(),
-      home: const MyPinCodeFields(),
+      //home: const MyPinCodeFields(),
+      home: const MyUUID(),
     );
   }
 }

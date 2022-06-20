@@ -193,6 +193,8 @@ dependencies:
   flutter_rating_bar: ^4.0.1
   # OTP or pin code inputs
   pin_code_fields: ^7.4.0
+  # For generating unique id
+  uuid: ^3.0.6
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

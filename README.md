@@ -115,6 +115,7 @@ Playlist URLs: <br>
 80. [Date Format](/lib/80_date_format/date_format.dart) > formatDate(DateTime.now(), [yyyy, '-', mm, '-', dd]) > formatDate(DateTime.now(), [HH, ':', nn, ':', ss])
 81. [Flutter Rating Bar](/lib/81_flutter_rating_bar/flutter_rating_bar.dart) > initialRating > minRating > itemBuilder: (context, \_) => const Icon() > updateOnDrag > onRatingUpdate
 82. [Pin Code Fields](/lib/82_pin_code_fields/pin_code_fields.dart) > PinCodeTextField() > appContext: context > length: 6 > pinTheme > onCompleted
+83. [UUID](/lib/83_uuid/uuid.dart) > id = uuid.v1(); > id = uuid.v4();
 
 ## Table of Contents:
 
@@ -702,5 +703,11 @@ Playlist URLs: <br>
     <td><a href="lib/82_pin_code_fields/pin_code_fields.dart">Pin Code Fields</a></td>
     <td><a href="https://pub.dev/packages/pin_code_fields" target="_blank">pin_code_fields: ^7.4.0</a></td>
     <td><img align="center" src="screenshots/82_pin_code_fields.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>83</td>
+    <td><a href="lib/83_uuid/uuid.dart">UUID</a></td>
+    <td><a href="https://pub.dev/packages/uuid" target="_blank">uuid: ^3.0.6</a></td>
+    <td><img align="center" src="screenshots/83_uuid.gif" height="350"></img></td>
   </tr>
 </table>
