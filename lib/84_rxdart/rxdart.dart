@@ -27,12 +27,13 @@ class _MyRxDartState extends State<MyRxDart> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              'RxDart in Flutter',
+              'Simple Counter App Using\nRxDart',
               style: TextStyle(
-                fontSize: 25,
+                fontSize: 20,
                 fontStyle: FontStyle.italic,
                 fontWeight: FontWeight.bold,
               ),
+              textAlign: TextAlign.center,
             ),
             const SizedBox(height: 30),
             StreamBuilder(
