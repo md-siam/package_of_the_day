@@ -59,10 +59,10 @@ class _MyFlutterLocalNotificationsState
               icon: Icons.notifications,
               onClicked: () {
                 NotificationApi.showNotification(
-                  title: 'Sarah Abs',
-                  body:
-                      'Hay! Do we have everything we need for the lunch on Friday?',
-                  payload: 'sarah.abs',
+                  title: 'Md. Siam',
+                  body: 'Hay there! Are you enjoying this repo?\n'
+                      'If yes, then please give it a star.⭐',
+                  payload: 'Give it a star.⭐',
                 );
               },
             ),
@@ -70,13 +70,39 @@ class _MyFlutterLocalNotificationsState
             buildButton(
               title: 'Scheduled Notification',
               icon: Icons.notifications_active,
-              onClicked: () {},
+              onClicked: () {
+                NotificationApi.showScheduledNotification(
+                  title: 'Md. Siam',
+                  body: 'Scheduled Notification',
+                  payload: 'Give it a star.⭐',
+                  scheduledDate: DateTime.now().add(const Duration(seconds: 4)),
+                );
+
+                const snackBar = SnackBar(
+                  content: Text(
+                    'Scheduled in 4 seconds!',
+                    style: TextStyle(fontSize: 24),
+                  ),
+                  backgroundColor: Colors.green,
+                );
+                ScaffoldMessenger.of(context).showSnackBar(snackBar);
+              },
             ),
             const SizedBox(height: 20),
             buildButton(
               title: 'Remove Notification',
               icon: Icons.delete_forever,
-              onClicked: () {},
+              onClicked: () {
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    content: Text(
+                      'Have to implement!',
+                      style: TextStyle(fontSize: 24),
+                    ),
+                    backgroundColor: Colors.red,
+                  ),
+                );
+              },
             ),
             const SizedBox(height: 20),
           ],
