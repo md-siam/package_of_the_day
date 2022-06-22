@@ -728,7 +728,7 @@ Playlist URLs: <br>
     <td><a href="lib/85_flutter_local_notifications/flutter_local_notifications.dart">Flutter Local Notifications</a></td>
     <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
-    <a href="https://pub.dev/packages/flutter_local_notifications" target="_blank">flu_local_notifications: ^9.6.1</a><br>
+    <a href="https://pub.dev/packages/flutter_local_notifications" target="_blank">flutter_local_notifications: ^9.6.1</a><br>
     <a href="https://pub.dev/packages/rxdart" target="_blank">rxdart: ^0.27.4</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/85_flutter_local_notifications.gif" height="350"></img></td>
@@ -736,7 +736,7 @@ Playlist URLs: <br>
   <tr>
     <td>86</td>
     <td><a href="lib/86_flutter_native_timezone/flutter_native_timezone.dart">Flutter Native Timezone</a></td>
-    <td><a href="https://pub.dev/packages/flutter_native_timezone" target="_blank">flu_native_timezone: ^2.0.0</a></td>
+    <td><a href="https://pub.dev/packages/flutter_native_timezone" target="_blank">flutter_native_timezone: ^2.0.0</a></td>
     <td><img align="center" src="screenshots/86_flutter_native_timezone.gif" height="350"></img></td>
   </tr>
 </table>
