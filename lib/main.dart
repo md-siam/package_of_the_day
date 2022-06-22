@@ -105,7 +105,8 @@ class MyApp extends StatelessWidget {
       //home: const MyPinCodeFields(),
       //home: const MyUUID(),
       //home: const MyRxDart(),
-      home: const MyFlutterLocalNotifications(),
+      //home: const MyFlutterLocalNotifications(),
+      home: const MyFlutterNativeTimezone(),
     );
   }
 }
