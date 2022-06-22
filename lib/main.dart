@@ -104,7 +104,8 @@ class MyApp extends StatelessWidget {
       //home: const MyFlutterRatingBar(),
       //home: const MyPinCodeFields(),
       //home: const MyUUID(),
-      home: const MyRxDart(),
+      //home: const MyRxDart(),
+      home: const MyFlutterLocalNotifications(),
     );
   }
 }

@@ -89,3 +89,4 @@ export '81_flutter_rating_bar/flutter_rating_bar.dart';
 export '82_pin_code_fields/pin_code_fields.dart';
 export '83_uuid/uuid.dart';
 export '84_rxdart/rxdart.dart';
+export '85_flutter_local_notifications/flutter_local_notifications.dart';

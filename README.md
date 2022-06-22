@@ -28,6 +28,7 @@ Playlist URLs: <br>
 [YouTube: file_picker](https://www.youtube.com/watch?v=LlO5jydXws0)<br>
 [YouTube: share_plus](https://www.youtube.com/watch?v=CNUBhb_cM6E)<br>
 [YouTube: cache_network_image](https://www.youtube.com/watch?v=6wvD-Z-9ZRM)<br>
+[YouTube: flutter_local_notifications](https://www.youtube.com/watch?v=bRy5dmts3X8)<br>
 
 ## Packages List:
 
@@ -117,6 +118,7 @@ Playlist URLs: <br>
 82. [Pin Code Fields](/lib/82_pin_code_fields/pin_code_fields.dart) > PinCodeTextField() > appContext: context > length: 6 > pinTheme > onCompleted
 83. [UUID](/lib/83_uuid/uuid.dart) > id = uuid.v1(); > id = uuid.v4();
 84. [RxDart](/lib/84_rxdart/rxdart.dart) > Read the code
+85. [Flutter Local Notifications](/lib/85_flutter_local_notifications/flutter_local_notifications.dart) > watch this [video](https://www.youtube.com/watch?v=bRy5dmts3X8)
 
 ## Table of Contents:
 
