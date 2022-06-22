@@ -1,7 +1,38 @@
 import 'package:flutter/material.dart';
 
-class MyFlutterLocalNotifications extends StatelessWidget {
+import 'api/notification_api.dart';
+import 'second_page.dart';
+
+/// This package requires extensive use of [AndroidManifest.xml] file
+/// and [Info.plist] file. Checkout those files from `top-to-bottom`
+///
+class MyFlutterLocalNotifications extends StatefulWidget {
   const MyFlutterLocalNotifications({Key? key}) : super(key: key);
+
+  @override
+  State<MyFlutterLocalNotifications> createState() =>
+      _MyFlutterLocalNotificationsState();
+}
+
+class _MyFlutterLocalNotificationsState
+    extends State<MyFlutterLocalNotifications> {
+  @override
+  void initState() {
+    super.initState();
+    NotificationApi.init();
+    listenNotifications();
+  }
+
+  void listenNotifications() =>
+      NotificationApi.onNotifications.stream.listen(onClickedNotification);
+
+  void onClickedNotification(String? payload) {
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: ((context) => SecondPage(payload: payload)),
+      ),
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -26,7 +57,14 @@ class MyFlutterLocalNotifications extends StatelessWidget {
             buildButton(
               title: 'Simple Notification',
               icon: Icons.notifications,
-              onClicked: () {},
+              onClicked: () {
+                NotificationApi.showNotification(
+                  title: 'Sarah Abs',
+                  body:
+                      'Hay! Do we have everything we need for the lunch on Friday?',
+                  payload: 'sarah.abs',
+                );
+              },
             ),
             const SizedBox(height: 20),
             buildButton(

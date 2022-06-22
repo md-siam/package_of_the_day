@@ -73,27 +73,27 @@ class _MyImagePickerState extends State<MyImagePicker> {
       ),
     );
   }
-}
 
-// buildButton method
-Widget buildButton({
-  required String title,
-  required IconData icon,
-  required VoidCallback onClicked,
-}) =>
-    ElevatedButton(
-      style: ElevatedButton.styleFrom(
-        minimumSize: const Size.fromHeight(56),
-        primary: Colors.white,
-        onPrimary: Colors.black,
-        textStyle: const TextStyle(fontSize: 20),
-      ),
-      onPressed: onClicked,
-      child: Row(
-        children: [
-          Icon(icon, size: 28),
-          const SizedBox(width: 16),
-          Text(title),
-        ],
-      ),
-    );
+  // buildButton method
+  Widget buildButton({
+    required String title,
+    required IconData icon,
+    required VoidCallback onClicked,
+  }) =>
+      ElevatedButton(
+        style: ElevatedButton.styleFrom(
+          minimumSize: const Size.fromHeight(56),
+          primary: Colors.white,
+          onPrimary: Colors.black,
+          textStyle: const TextStyle(fontSize: 20),
+        ),
+        onPressed: onClicked,
+        child: Row(
+          children: [
+            Icon(icon, size: 28),
+            const SizedBox(width: 16),
+            Text(title),
+          ],
+        ),
+      );
+}
