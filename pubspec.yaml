@@ -203,6 +203,8 @@ dependencies:
   flutter_native_timezone: ^2.0.0
   # A library for Dart that generates fake data
   faker: ^2.0.0
+  # For animated dark/night mode switch
+  day_night_switch: ^1.0.3
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

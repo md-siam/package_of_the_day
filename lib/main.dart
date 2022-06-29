@@ -107,7 +107,8 @@ class MyApp extends StatelessWidget {
       //home: const MyRxDart(),
       //home: const MyFlutterLocalNotifications(),
       //home: const MyFlutterNativeTimezone(),
-      home: const MyFaker(),
+      //home: const MyFaker(),
+      home: const MyDayNightSwitch(),
     );
   }
 }

@@ -121,6 +121,7 @@ Playlist URLs: <br>
 85. [Flutter Local Notifications](/lib/85_flutter_local_notifications/flutter_local_notifications.dart) > watch this [video](https://www.youtube.com/watch?v=bRy5dmts3X8)
 86. [Flutter Native Timezone](/lib/86_flutter_native_timezone/flutter_native_timezone.dart) > FlutterNativeTimezone.getLocalTimezone()
 87. [Faker](/lib/87_faker/faker.dart) > faker.person.firstName() > faker.person.lastName()
+88. [Day Night Switch](/lib/88_day_night_switch/view/home_view.dart) > value: themeProvider.isDarkMode > onChanged: (newValue) {}
 
 ## Table of Contents:
 
@@ -745,5 +746,11 @@ Playlist URLs: <br>
     <td><a href="lib/87_faker/faker.dart">Faker</a></td>
     <td><a href="https://pub.dev/packages/faker" target="_blank">faker: ^2.0.0</a></td>
     <td><img align="center" src="screenshots/87_faker.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>88</td>
+    <td><a href="lib/88_day_night_switch/day_night_switch.dart">Day Night Switch</a></td>
+    <td><a href="https://pub.dev/packages/day_night_switch" target="_blank">day_night_switch: ^1.0.3</a></td>
+    <td><img align="center" src="screenshots/88_day_night_switch.gif" height="350"></img></td>
   </tr>
 </table>
