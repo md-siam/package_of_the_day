@@ -106,7 +106,8 @@ class MyApp extends StatelessWidget {
       //home: const MyUUID(),
       //home: const MyRxDart(),
       //home: const MyFlutterLocalNotifications(),
-      home: const MyFlutterNativeTimezone(),
+      //home: const MyFlutterNativeTimezone(),
+      home: const MyFaker(),
     );
   }
 }

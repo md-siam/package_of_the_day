@@ -120,6 +120,7 @@ Playlist URLs: <br>
 84. [RxDart](/lib/84_rxdart/rxdart.dart) > Read the code
 85. [Flutter Local Notifications](/lib/85_flutter_local_notifications/flutter_local_notifications.dart) > watch this [video](https://www.youtube.com/watch?v=bRy5dmts3X8)
 86. [Flutter Native Timezone](/lib/86_flutter_native_timezone/flutter_native_timezone.dart) > FlutterNativeTimezone.getLocalTimezone()
+87. [Faker](/lib/87_faker/faker.dart) > faker.person.firstName() > faker.person.lastName()
 
 ## Table of Contents:
 
@@ -738,5 +739,11 @@ Playlist URLs: <br>
     <td><a href="lib/86_flutter_native_timezone/flutter_native_timezone.dart">Flutter Native Timezone</a></td>
     <td><a href="https://pub.dev/packages/flutter_native_timezone" target="_blank">flutter_native_timezone: ^2.0.0</a></td>
     <td><img align="center" src="screenshots/86_flutter_native_timezone.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>87</td>
+    <td><a href="lib/87_faker/faker.dart">Faker</a></td>
+    <td><a href="https://pub.dev/packages/faker" target="_blank">faker: ^2.0.0</a></td>
+    <td><img align="center" src="screenshots/87_faker.gif" height="350"></img></td>
   </tr>
 </table>

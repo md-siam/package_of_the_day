@@ -201,6 +201,8 @@ dependencies:
   flutter_local_notifications: ^9.6.1
   # For getting the local timezone of the os
   flutter_native_timezone: ^2.0.0
+  # A library for Dart that generates fake data
+  faker: ^2.0.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
