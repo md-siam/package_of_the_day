@@ -207,6 +207,8 @@ dependencies:
   day_night_switch: ^1.0.3
   # For designing pixel perfect UI
   pixel_perfect: ^1.1.1
+  # For animated buttons
+  animated_button: ^0.2.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

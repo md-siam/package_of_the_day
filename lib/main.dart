@@ -109,7 +109,8 @@ class MyApp extends StatelessWidget {
       //home: const MyFlutterNativeTimezone(),
       //home: const MyFaker(),
       //home: const MyDayNightSwitch(),
-      home: const MyPixelPerfect(),
+      //home: const MyPixelPerfect(),
+      home: const MyAnimatedButton(),
     );
   }
 }
