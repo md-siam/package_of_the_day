@@ -29,6 +29,7 @@ Playlist URLs: <br>
 [YouTube: share_plus](https://www.youtube.com/watch?v=CNUBhb_cM6E)<br>
 [YouTube: cache_network_image](https://www.youtube.com/watch?v=6wvD-Z-9ZRM)<br>
 [YouTube: flutter_local_notifications](https://www.youtube.com/watch?v=bRy5dmts3X8)<br>
+[YouTube: pixel_perfect](https://www.youtube.com/watch?v=L4G_ylrmKQ8)<br>
 
 ## Packages List:
 
@@ -122,6 +123,7 @@ Playlist URLs: <br>
 86. [Flutter Native Timezone](/lib/86_flutter_native_timezone/flutter_native_timezone.dart) > FlutterNativeTimezone.getLocalTimezone()
 87. [Faker](/lib/87_faker/faker.dart) > faker.person.firstName() > faker.person.lastName()
 88. [Day Night Switch](/lib/88_day_night_switch/view/home_view.dart) > value: themeProvider.isDarkMode > onChanged: (newValue) {}
+89. [Pixel Perfect](/lib/89_pixel_perfect/pixel_perfect.dart) > assetPath: > child: Scaffold()
 
 ## Table of Contents:
 
@@ -752,5 +754,11 @@ Playlist URLs: <br>
     <td><a href="lib/88_day_night_switch/day_night_switch.dart">Day Night Switch</a></td>
     <td><a href="https://pub.dev/packages/day_night_switch" target="_blank">day_night_switch: ^1.0.3</a></td>
     <td><img align="center" src="screenshots/88_day_night_switch.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>89</td>
+    <td><a href="lib/89_pixel_perfect/pixel_perfect.dart">Pixel Perfect</a></td>
+    <td><a href="https://pub.dev/packages/pixel_perfect" target="_blank">pixel_perfect: ^1.1.1</a></td>
+    <td><img align="center" src="screenshots/89_pixel_perfect.gif" height="350"></img></td>
   </tr>
 </table>

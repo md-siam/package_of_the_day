@@ -205,6 +205,8 @@ dependencies:
   faker: ^2.0.0
   # For animated dark/night mode switch
   day_night_switch: ^1.0.3
+  # For designing pixel perfect UI
+  pixel_perfect: ^1.1.1
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -246,6 +248,8 @@ flutter:
     - assets/images/introduction_screen/
     - assets/images/placeholder/
     - assets/sounds/
+    - assets/images/pixel_perfect/icons/
+    - assets/images/pixel_perfect/images/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
@@ -279,5 +283,9 @@ flutter:
     - family: Agne
       fonts:
         - asset: fonts/Agne.otf
+
+    - family: SFProText
+      fonts:
+        - asset: fonts/SFProText-Regular.ttf
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

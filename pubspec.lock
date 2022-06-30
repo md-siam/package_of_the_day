@@ -1164,6 +1164,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "7.4.0"
+  pixel_perfect:
+    dependency: "direct main"
+    description:
+      name: pixel_perfect
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.1.1"
   platform:
     dependency: transitive
     description:

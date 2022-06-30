@@ -93,3 +93,4 @@ export '85_flutter_local_notifications/flutter_local_notifications.dart';
 export '86_flutter_native_timezone/flutter_native_timezone.dart';
 export '87_faker/faker.dart';
 export '88_day_night_switch/day_night_switch.dart';
+export '89_pixel_perfect/pixel_perfect.dart';
