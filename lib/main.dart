@@ -110,7 +110,8 @@ class MyApp extends StatelessWidget {
       //home: const MyFaker(),
       //home: const MyDayNightSwitch(),
       //home: const MyPixelPerfect(),
-      home: const MyAnimatedButton(),
+      //home: const MyAnimatedButton(),
+      home: const MyToggleSwitch(),
     );
   }
 }

@@ -209,6 +209,8 @@ dependencies:
   pixel_perfect: ^1.1.1
   # For animated buttons
   animated_button: ^0.2.0
+  # For toggle switch
+  toggle_switch: ^2.0.1
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

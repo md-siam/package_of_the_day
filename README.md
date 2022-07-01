@@ -125,6 +125,7 @@ Playlist URLs: <br>
 88. [Day Night Switch](/lib/88_day_night_switch/view/home_view.dart) > value: themeProvider.isDarkMode > onChanged: (newValue) {}
 89. [Pixel Perfect](/lib/89_pixel_perfect/pixel_perfect.dart) > assetPath: > child: Scaffold()
 90. [Animated Button](/lib/90_animated_button/animated_button.dart) > shadowDegree > enabled > onPressed > child
+91. [Toggle Switch](/lib/91_toggle_switch/toggle_switch.dart) > initialLabelIndex: 0 > totalSwitches: 3 > labels: const ['America', 'Canada', 'Mexico'] > onToggle: (index){}
 
 ## Table of Contents:
 
@@ -767,5 +768,14 @@ Playlist URLs: <br>
     <td><a href="lib/90_animated_button/animated_button.dart">Animated Button</a></td>
     <td><a href="https://pub.dev/packages/animated_button" target="_blank">animated_button: ^0.2.0</a></td>
     <td><img align="center" src="screenshots/90_animated_button.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>91</td>
+    <td><a href="lib/91_toggle_switch/toggle_switch.dart">Toggle Switch</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/toggle_switch" target="_blank">toggle_switch: ^2.0.1</a><br><br><br><br><br><br><br><br>
+    </td>
+    <td><img align="center" src="screenshots/91_toggle_switch.gif" height="350"></img></td>
   </tr>
 </table>
