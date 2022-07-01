@@ -111,7 +111,8 @@ class MyApp extends StatelessWidget {
       //home: const MyDayNightSwitch(),
       //home: const MyPixelPerfect(),
       //home: const MyAnimatedButton(),
-      home: const MyToggleSwitch(),
+      //home: const MyToggleSwitch(),
+      home: const MyRouteMaster(),
     );
   }
 }

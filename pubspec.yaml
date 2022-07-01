@@ -211,6 +211,8 @@ dependencies:
   animated_button: ^0.2.0
   # For toggle switch
   toggle_switch: ^2.0.1
+  # For Navigation 2.0
+  routemaster: ^1.0.1
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

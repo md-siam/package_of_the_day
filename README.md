@@ -126,6 +126,7 @@ Playlist URLs: <br>
 89. [Pixel Perfect](/lib/89_pixel_perfect/pixel_perfect.dart) > assetPath: > child: Scaffold()
 90. [Animated Button](/lib/90_animated_button/animated_button.dart) > shadowDegree > enabled > onPressed > child
 91. [Toggle Switch](/lib/91_toggle_switch/toggle_switch.dart) > initialLabelIndex: 0 > totalSwitches: 3 > labels: const ['America', 'Canada', 'Mexico'] > onToggle: (index){}
+92. [Route Master](/lib/92_routemaster/routemaster.dart) > review the code
 
 ## Table of Contents:
 
@@ -777,5 +778,14 @@ Playlist URLs: <br>
     <a href="https://pub.dev/packages/toggle_switch" target="_blank">toggle_switch: ^2.0.1</a><br><br><br><br><br><br><br><br>
     </td>
     <td><img align="center" src="screenshots/91_toggle_switch.gif" height="350"></img></td>
+  </tr>
+  <tr>
+    <td>92</td>
+    <td><a href="lib/92_routemaster/routemaster.dart">Route Master</a></td>
+    <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="screenshots/flutter_favorite_badges/flutter_favorite.png" width="65"><br><br><br><br>
+    <a href="https://pub.dev/packages/routemaster" target="_blank">routemaster: ^1.0.1</a><br><br><br><br><br><br><br><br>
+    </td>
+    <td><img align="center" src="screenshots/92_routemaster.gif" height="350"></img></td>
   </tr>
 </table>

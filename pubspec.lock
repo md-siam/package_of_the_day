@@ -1248,6 +1248,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.4"
+  routemaster:
+    dependency: "direct main"
+    description:
+      name: routemaster
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.1"
   rxdart:
     dependency: "direct main"
     description:

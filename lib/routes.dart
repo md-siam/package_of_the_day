@@ -96,3 +96,4 @@ export '88_day_night_switch/day_night_switch.dart';
 export '89_pixel_perfect/pixel_perfect.dart';
 export '90_animated_button/animated_button.dart';
 export '91_toggle_switch/toggle_switch.dart';
+export '92_routemaster/routemaster.dart';
