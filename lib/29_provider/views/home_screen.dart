@@ -12,11 +12,11 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Provider'),
       ),
-      body: Center(
+      body: const Center(
         child: Column(
           mainAxisSize: MainAxisSize.min,
           mainAxisAlignment: MainAxisAlignment.center,
-          children: const [
+          children: [
             Count(),
           ],
         ),

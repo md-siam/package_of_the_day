@@ -51,7 +51,7 @@ class _MyHTTPState extends State<MyHTTP> {
           children: [
             Text(
               '::: HTTP Response :::\n',
-              style: Theme.of(context).textTheme.headline6,
+              style: Theme.of(context).textTheme.titleLarge,
             ),
             !isLoading
                 ? Text(
@@ -62,7 +62,7 @@ class _MyHTTPState extends State<MyHTTP> {
             const SizedBox(height: 60),
             Text(
               '\n::: The JSON title attribute :::\n',
-              style: Theme.of(context).textTheme.headline6,
+              style: Theme.of(context).textTheme.titleLarge,
             ),
             !isLoading
                 ? Text(

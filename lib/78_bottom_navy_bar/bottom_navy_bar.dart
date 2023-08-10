@@ -38,11 +38,11 @@ class _MyBottomNavyBarState extends State<MyBottomNavyBar> {
           onPageChanged: (index) {
             setState(() => _currentIndex = index);
           },
-          children: <Widget>[
+          children: const <Widget>[
             Center(
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
-                children: const [
+                children: [
                   Icon(
                     Icons.home,
                     size: 140,
@@ -63,7 +63,7 @@ class _MyBottomNavyBarState extends State<MyBottomNavyBar> {
             Center(
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
-                children: const [
+                children: [
                   Icon(
                     Icons.apps,
                     size: 140,
@@ -84,7 +84,7 @@ class _MyBottomNavyBarState extends State<MyBottomNavyBar> {
             Center(
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
-                children: const [
+                children: [
                   Icon(
                     Icons.chat_bubble,
                     size: 140,
@@ -105,7 +105,7 @@ class _MyBottomNavyBarState extends State<MyBottomNavyBar> {
             Center(
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
-                children: const [
+                children: [
                   Icon(
                     Icons.settings,
                     size: 140,

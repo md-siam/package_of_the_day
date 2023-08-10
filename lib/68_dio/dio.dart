@@ -57,7 +57,7 @@ class _MyDioState extends State<MyDio> {
                   const SizedBox(height: 20),
                   Text(
                     '::: HTTP Response :::\n',
-                    style: Theme.of(context).textTheme.headline6,
+                    style: Theme.of(context).textTheme.titleLarge,
                   ),
                   !isLoading
                       ? Text(
@@ -74,7 +74,7 @@ class _MyDioState extends State<MyDio> {
                   const SizedBox(height: 20),
                   Text(
                     '\n::: JSON userId & title attribute :::\n',
-                    style: Theme.of(context).textTheme.headline6,
+                    style: Theme.of(context).textTheme.titleLarge,
                   ),
                   !isLoading
                       ? Text(

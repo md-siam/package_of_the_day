@@ -73,7 +73,7 @@ class _MyGetItHomePageState extends State<MyGetItHomePage> {
                     const Text('You have pushed the button this many times:'),
                     Text(
                       getIt<AppModel>().counter.toString(),
-                      style: Theme.of(context).textTheme.headline4,
+                      style: Theme.of(context).textTheme.headlineMedium,
                     ),
                   ],
                 ),
@@ -85,10 +85,10 @@ class _MyGetItHomePageState extends State<MyGetItHomePage> {
               ),
             );
           } else {
-            return Column(
+            return const Column(
               mainAxisAlignment: MainAxisAlignment.center,
               mainAxisSize: MainAxisSize.min,
-              children: const [
+              children: [
                 Text('Waiting for initialization'),
                 SizedBox(height: 16),
                 CircularProgressIndicator(),

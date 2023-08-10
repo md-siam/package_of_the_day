@@ -31,7 +31,7 @@ class OverlaySupportHomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             ElevatedButton(
-                style: ElevatedButton.styleFrom(primary: Colors.green),
+                style: ElevatedButton.styleFrom(backgroundColor: Colors.green),
                 onPressed: () {
                   Utils.showTopSnackBar(
                     context,
@@ -42,7 +42,7 @@ class OverlaySupportHomePage extends StatelessWidget {
                 child: const Text('Green Overlay Notification')),
             const SizedBox(height: 30),
             ElevatedButton(
-              style: ElevatedButton.styleFrom(primary: Colors.red),
+              style: ElevatedButton.styleFrom(backgroundColor: Colors.red),
               onPressed: () {
                 Utils.showTopSnackBar(
                   context,
@@ -54,7 +54,7 @@ class OverlaySupportHomePage extends StatelessWidget {
             ),
             const SizedBox(height: 30),
             ElevatedButton(
-              style: ElevatedButton.styleFrom(primary: Colors.teal),
+              style: ElevatedButton.styleFrom(backgroundColor: Colors.teal),
               onPressed: () {
                 Utils.showTopSnackBar(
                   context,
@@ -66,7 +66,8 @@ class OverlaySupportHomePage extends StatelessWidget {
             ),
             const SizedBox(height: 30),
             ElevatedButton(
-              style: ElevatedButton.styleFrom(primary: Colors.pinkAccent),
+              style:
+                  ElevatedButton.styleFrom(backgroundColor: Colors.pinkAccent),
               onPressed: () {
                 Utils.showTopSnackBar(
                   context,

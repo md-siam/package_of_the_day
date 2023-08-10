@@ -60,7 +60,7 @@ class _MyAnimSearchBarState extends State<MyAnimSearchBar> {
             closeSearchOnSuffixTap: true,
             rtl: true,
             onSubmitted: (String _) {
-              print('object');
+              debugPrint('object');
             },
           ),
           const SizedBox(width: 5)

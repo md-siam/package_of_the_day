@@ -216,11 +216,11 @@ class _MyFlutterNeumorphicState extends State<MyFlutterNeumorphic> {
 
   Widget _buildIndicators() {
     const width = 14.0;
-    return SizedBox(
+    return const SizedBox(
       height: 130,
       child: Row(
         mainAxisAlignment: MainAxisAlignment.center,
-        children: const [
+        children: [
           NeumorphicIndicator(
             width: width,
             percent: 0.4,

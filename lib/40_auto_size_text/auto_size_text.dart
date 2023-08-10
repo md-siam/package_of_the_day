@@ -8,10 +8,10 @@ class MyAutoSizeText extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('Auto Size Text')),
-      body: Center(
+      body: const Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: const [
+          children: [
             AutoSizeText(
               'A really long String',
               style: TextStyle(fontSize: 30),

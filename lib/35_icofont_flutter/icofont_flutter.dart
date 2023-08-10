@@ -9,13 +9,13 @@ class MyIcofontFlutter extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.deepPurple[100],
       appBar: AppBar(title: const Text('Icofont Flutter')),
-      body: Center(
+      body: const Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-              children: const [
+              children: [
                 Icon(
                   IcoFontIcons.cab,
                   color: Colors.white,
@@ -40,7 +40,7 @@ class MyIcofontFlutter extends StatelessWidget {
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-              children: const [
+              children: [
                 Icon(
                   IcoFontIcons.radio,
                   color: Colors.white,
@@ -65,7 +65,7 @@ class MyIcofontFlutter extends StatelessWidget {
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-              children: const [
+              children: [
                 Icon(
                   IcoFontIcons.signIn,
                   color: Colors.white,
@@ -90,7 +90,7 @@ class MyIcofontFlutter extends StatelessWidget {
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-              children: const [
+              children: [
                 Icon(
                   IcoFontIcons.cloudDownload,
                   color: Colors.white,

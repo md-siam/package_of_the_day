@@ -15,6 +15,7 @@ class BottomNavBar extends StatelessWidget {
     PersistentTabController controller;
     controller = PersistentTabController(initialIndex: 0);
 
+    // ignore: no_leading_underscores_for_local_identifiers
     List<Widget> _buildScreens() {
       return [
         const HomePage(),
@@ -25,6 +26,7 @@ class BottomNavBar extends StatelessWidget {
       ];
     }
 
+    // ignore: no_leading_underscores_for_local_identifiers
     List<PersistentBottomNavBarItem> _navBarsItems() {
       return [
         PersistentBottomNavBarItem(

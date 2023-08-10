@@ -82,9 +82,9 @@ class _MyImagePickerState extends State<MyImagePicker> {
   }) =>
       ElevatedButton(
         style: ElevatedButton.styleFrom(
+          foregroundColor: Colors.black,
+          backgroundColor: Colors.white,
           minimumSize: const Size.fromHeight(56),
-          primary: Colors.white,
-          onPrimary: Colors.black,
           textStyle: const TextStyle(fontSize: 20),
         ),
         onPressed: onClicked,

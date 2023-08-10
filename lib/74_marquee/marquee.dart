@@ -44,9 +44,9 @@ class MyMarquee extends StatelessWidget {
                 ),
               ),
               const SizedBox(height: 20.0),
-              Center(
+              const Center(
                 child: Column(
-                  children: const [
+                  children: [
                     FaIcon(
                       FontAwesomeIcons.arrowUp,
                       color: Colors.white,

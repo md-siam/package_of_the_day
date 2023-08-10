@@ -102,11 +102,11 @@ class MyAnimatedButton extends StatelessWidget {
               onPressed: () {},
               shadowDegree: ShadowDegree.light,
               color: Colors.green,
-              child: Padding(
-                padding: const EdgeInsets.all(8.0),
+              child: const Padding(
+                padding: EdgeInsets.all(8.0),
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
-                  children: const [
+                  children: [
                     Icon(
                       Icons.add_shopping_cart,
                       color: Colors.white,
@@ -129,11 +129,11 @@ class MyAnimatedButton extends StatelessWidget {
               onPressed: () {},
               shadowDegree: ShadowDegree.light,
               color: Colors.amber,
-              child: Padding(
-                padding: const EdgeInsets.all(8.0),
+              child: const Padding(
+                padding: EdgeInsets.all(8.0),
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
-                  children: const [
+                  children: [
                     Text(
                       'Loading...',
                       style: TextStyle(

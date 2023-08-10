@@ -14,10 +14,10 @@ class MyFlutterStaggeredGridView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('Staggered Grid View')),
-      body: Center(
+      body: const Center(
         child: SingleChildScrollView(
           child: Column(
-            children: const [
+            children: [
               SizedBox(height: 10),
               MenuEntry(
                 title: 'Staggered',
@@ -106,7 +106,7 @@ class MenuEntry extends StatelessWidget {
                       textAlign: TextAlign.center,
                       style: Theme.of(context)
                           .textTheme
-                          .headline6!
+                          .titleLarge!
                           .copyWith(color: Colors.white),
                     ),
                   ),

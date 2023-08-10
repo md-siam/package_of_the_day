@@ -54,8 +54,8 @@ class MyPixelPerfect extends StatelessWidget {
                         child: Image.asset('${imagePath}avatar.png'),
                       ),
                       const Spacer(),
-                      Column(
-                        children: const [
+                      const Column(
+                        children: [
                           Text(
                             '210',
                             style: TextStyle(
@@ -75,8 +75,8 @@ class MyPixelPerfect extends StatelessWidget {
                         ],
                       ),
                       const SizedBox(width: 38),
-                      Column(
-                        children: const [
+                      const Column(
+                        children: [
                           Text(
                             '600',
                             style: TextStyle(
@@ -96,8 +96,8 @@ class MyPixelPerfect extends StatelessWidget {
                         ],
                       ),
                       const SizedBox(width: 20),
-                      Column(
-                        children: const [
+                      const Column(
+                        children: [
                           Text(
                             '500',
                             style: TextStyle(

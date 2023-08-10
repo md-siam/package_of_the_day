@@ -9,9 +9,9 @@ class MyYoutubePlayerFlutter extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('Youtube Player Flutter')),
-      body: SingleChildScrollView(
+      body: const SingleChildScrollView(
         child: Column(
-          children: const [
+          children: [
             Player(youtubeURL: 'https://www.youtube.com/watch?v=bON-KPiiNCk'),
           ],
         ),

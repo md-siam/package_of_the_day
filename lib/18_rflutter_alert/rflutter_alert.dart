@@ -169,8 +169,8 @@ class PopupDialog extends StatelessWidget {
     Alert(
         context: context,
         title: "LOGIN",
-        content: Column(
-          children: const [
+        content: const Column(
+          children: [
             TextField(
               decoration: InputDecoration(
                 icon: Icon(Icons.account_circle),

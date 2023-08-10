@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_carousel_slider/carousel_slider.dart';
-import 'package:flutter_carousel_slider/carousel_slider_indicators.dart';
-import 'package:flutter_carousel_slider/carousel_slider_transforms.dart';
 
 class MyCarouselSlider extends StatelessWidget {
   const MyCarouselSlider({Key? key}) : super(key: key);

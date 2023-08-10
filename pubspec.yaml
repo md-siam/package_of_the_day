@@ -268,30 +268,30 @@ flutter:
   fonts:
     - family: NeumorphicIcons
       fonts:
-        - asset: fonts/NeumorphicIcons.ttf
+        - asset: assets/fonts/NeumorphicIcons.ttf
 
     - family: Canterbury
       fonts:
-        - asset: fonts/Canterbury.ttf
+        - asset: assets/fonts/Canterbury.ttf
 
     - family: HelloStockholm
       fonts:
-        - asset: fonts/HelloStockholm.otf
+        - asset: assets/fonts/HelloStockholm.otf
 
     - family: Horizon
       fonts:
-        - asset: fonts/Horizon.otf
+        - asset: assets/fonts/Horizon.otf
 
     - family: Bobbers
       fonts:
-        - asset: fonts/Bobbers.ttf
+        - asset: assets/fonts/Bobbers.ttf
 
     - family: Agne
       fonts:
-        - asset: fonts/Agne.otf
+        - asset: assets/fonts/Agne.otf
 
     - family: SFProText
       fonts:
-        - asset: fonts/SFProText-Regular.ttf
+        - asset: assets/fonts/SFProText-Regular.ttf
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

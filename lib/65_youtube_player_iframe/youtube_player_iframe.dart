@@ -12,9 +12,9 @@ class MyYoutubePlayerIframe extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(title: const Text('Youtube Player Iframe')),
-      body: SingleChildScrollView(
+      body: const SingleChildScrollView(
         child: Column(
-          children: const [
+          children: [
             SizedBox(height: 15),
             YouTubePlayer(youtubeURL: youTubeURL1),
             SizedBox(height: 15),
