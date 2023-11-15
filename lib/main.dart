@@ -9,10 +9,12 @@ import 'package:flutter/material.dart';
 
 import 'routes.dart';
 
-void main() => runApp(const MyApp());
+void main() {
+  runApp(const MyApp());
+}
 
 class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({super.key});
 
   // This widget is the root of your application.
   @override
@@ -20,7 +22,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Package of the Day',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(primarySwatch: Colors.deepPurple),
+      theme: ThemeData(
+        primarySwatch: Colors.deepPurple,
+        useMaterial3: false,
+      ),
       //home: const MyAvatarGlow(),
       //home: const MyGoogleFonts(),
       //home: const MyPullToRefresh(),
